@@ -1,0 +1,9 @@
+{
+  "name": "copyrighter-intelligence-system",
+  "version": "1.0.0",
+  "description": "Viral Copywriter Intelligence System",
+  "type": "module",
+  "scripts": {
+    "start": "python server.py"
+  }
+}

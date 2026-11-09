@@ -1,0 +1,11697 @@
+// 1,002 Curated Viral Hooks Database
+window.VIRAL_HOOKS = [
+  {
+    "id": 1,
+    "category": "EDUCATIONAL",
+    "hook": "This represents your X before, during, and after X",
+    "urls": [
+      "https://www.instagram.com/p/C-ta_pvhfvK/"
+    ],
+    "placeholders": []
+  },
+  {
+    "id": 2,
+    "category": "EDUCATIONAL",
+    "hook": "Here's exactly how much (insert action/item) you need to (insert result)",
+    "urls": [
+      "https://www.instagram.com/reel/C9vqgHxuz1E/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA=="
+    ],
+    "placeholders": [
+      "(insert action/item)",
+      "(insert result)"
+    ]
+  },
+  {
+    "id": 3,
+    "category": "EDUCATIONAL",
+    "hook": "Can you tell us how to (insert result) in 60 seconds?",
+    "urls": [
+      "https://www.instagram.com/p/C8dJXv1PjzF/"
+    ],
+    "placeholders": [
+      "(insert result)"
+    ]
+  },
+  {
+    "id": 4,
+    "category": "EDUCATIONAL",
+    "hook": "This is what (insert thing) looks like when you're (insert action). And this is what they look like when you're not (insert action).",
+    "urls": [
+      "https://www.instagram.com/reel/C4tAzeYL8yA/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA=="
+    ],
+    "placeholders": [
+      "(insert thing)",
+      "(insert action)"
+    ]
+  },
+  {
+    "id": 5,
+    "category": "EDUCATIONAL",
+    "hook": "I'm going to tell you how to get (Insert result), (insert mind blowing method).",
+    "urls": [
+      "https://www.instagram.com/p/C7WV9_TI5dT/https://www.instagram.com/p/C-sSyDpoyMX/https://www.instagram.com/p/C9bUq2CtvUv/https://www.instagram.com/p/C8rJipAy8I8/"
+    ],
+    "placeholders": [
+      "(Insert result)",
+      "(insert mind blowing method)"
+    ]
+  },
+  {
+    "id": 6,
+    "category": "EDUCATIONAL",
+    "hook": "It took me 10 years to learn this but I'll teach it to you in less than 1 minute.",
+    "urls": [
+      "https://www.instagram.com/p/C_-u411xe4m/"
+    ],
+    "placeholders": []
+  },
+  {
+    "id": 7,
+    "category": "EDUCATIONAL",
+    "hook": "When you get (insert item/result) here are the # things you got to do right away.",
+    "urls": [
+      "https://www.instagram.com/p/DBkvHncxD2t/"
+    ],
+    "placeholders": [
+      "(insert item/result)"
+    ]
+  },
+  {
+    "id": 8,
+    "category": "EDUCATIONAL",
+    "hook": "If you don't have (insert item/action), do (insert item/action).",
+    "urls": [
+      "https://www.instagram.com/reel/C-CPzwMReyb/?igsh=MXBiYmdmc3dudm5vcg%3D%3D"
+    ],
+    "placeholders": [
+      "(insert item/action)"
+    ]
+  },
+  {
+    "id": 9,
+    "category": "EDUCATIONAL",
+    "hook": "My money rules as a (insert description) working towards financial independence.",
+    "urls": [],
+    "placeholders": [
+      "(insert description)"
+    ]
+  },
+  {
+    "id": 10,
+    "category": "EDUCATIONAL",
+    "hook": "Money can buy you (insert item) but it can not buy you (insert result).",
+    "urls": [],
+    "placeholders": [
+      "(insert item)",
+      "(insert result)"
+    ]
+  },
+  {
+    "id": 11,
+    "category": "EDUCATIONAL",
+    "hook": "Here's how to develop a (insert skill) so strong that you physically can't stop (doing skill).",
+    "urls": [],
+    "placeholders": [
+      "(insert skill)",
+      "(doing skill)"
+    ]
+  },
+  {
+    "id": 12,
+    "category": "EDUCATIONAL",
+    "hook": "This is what (insert #) of (insert item) looks like.",
+    "urls": [
+      "https://www.instagram.com/alexgamblecoach/reel/C60q1FPPrLW/"
+    ],
+    "placeholders": [
+      "(insert #)",
+      "(insert item)"
+    ]
+  },
+  {
+    "id": 13,
+    "category": "EDUCATIONAL",
+    "hook": "If I woke up (insert pain point) tomorrow, and wanted to (insert dream result) by (insert time) here's exactly what I would do.",
+    "urls": [
+      "https://www.instagram.com/p/DGOZZYhS1cj/"
+    ],
+    "placeholders": [
+      "(insert pain point)",
+      "(insert dream result)",
+      "(insert time)"
+    ]
+  },
+  {
+    "id": 14,
+    "category": "EDUCATIONAL",
+    "hook": "If you're a (insert target audience) and you want (insert dream result) by (insert avenue) then listen to this video.",
+    "urls": [
+      "https://www.instagram.com/reel/DE9tW4dyxlJ/?igsh=MWwyeWRoYXlkeXd5cA%3D%3D"
+    ],
+    "placeholders": [
+      "(insert target audience)",
+      "(insert dream result)",
+      "(insert avenue)"
+    ]
+  },
+  {
+    "id": 15,
+    "category": "EDUCATIONAL",
+    "hook": "If you are (insert age group or range) do not do (insert action).",
+    "urls": [
+      "https://www.instagram.com/reel/DEsW49SM6z3/?igsh=MXc4eXFleDU0cDB4OA=="
+    ],
+    "placeholders": [
+      "(insert age group or range)",
+      "(insert action)"
+    ]
+  },
+  {
+    "id": 16,
+    "category": "EDUCATIONAL",
+    "hook": "As an (insert trait) responsible (insert age) year old witha goal to (insert goal) here are 3 things I will never regret doing.",
+    "urls": [
+      "https://www.instagram.com/reel/DBZT2Q5RJ2W/?igsh=MTBtc3gwNXVyM2ppdg%3D%3D"
+    ],
+    "placeholders": [
+      "(insert trait)",
+      "(insert age)",
+      "(insert goal)"
+    ]
+  },
+  {
+    "id": 17,
+    "category": "EDUCATIONAL",
+    "hook": "Not to flex, but I'm fretty f*cking good at (insert skill/niche).",
+    "urls": [
+      "https://www.instagram.com/p/C-SR22KOEDY/"
+    ],
+    "placeholders": [
+      "(insert skill/niche)"
+    ]
+  },
+  {
+    "id": 18,
+    "category": "EDUCATIONAL",
+    "hook": "This is what (insert object/item) looks like when you are using/doing (insert product/service).",
+    "urls": [
+      "https://www.instagram.com/sethwickstrom_fitness/reel/DAtNQtAxUNQ/"
+    ],
+    "placeholders": [
+      "(insert object/item)",
+      "(insert product/service)"
+    ]
+  },
+  {
+    "id": 19,
+    "category": "EDUCATIONAL",
+    "hook": "Are you still (insert action)? I've got (insert result) in (insert time frame) and I have never (insert action).",
+    "urls": [
+      "https://www.instagram.com/reel/C4YY12SxuRo/"
+    ],
+    "placeholders": [
+      "(insert action)",
+      "(insert result)",
+      "(insert time frame)"
+    ]
+  },
+  {
+    "id": 20,
+    "category": "EDUCATIONAL",
+    "hook": "3 Youtube channels that will teach you more than any (insert industry/niche) degree.",
+    "urls": [
+      "https://www.instagram.com/p/DBfqo-0zxTb/"
+    ],
+    "placeholders": [
+      "(insert industry/niche)"
+    ]
+  },
+  {
+    "id": 21,
+    "category": "EDUCATIONAL",
+    "hook": "I think I just found the biggest (insert niche/industry) cheat code.",
+    "urls": [
+      "https://www.instagram.com/p/DB6kCMQR0oX/"
+    ],
+    "placeholders": [
+      "(insert niche/industry)"
+    ]
+  },
+  {
+    "id": 22,
+    "category": "EDUCATIONAL",
+    "hook": "Here are 3 people who will make you a better (insert title).",
+    "urls": [
+      "https://www.instagram.com/p/C9uwXS_uJJ6/"
+    ],
+    "placeholders": [
+      "(insert title)"
+    ]
+  },
+  {
+    "id": 23,
+    "category": "EDUCATIONAL",
+    "hook": "(insert trait) Guy vs (insert trait) Guy.",
+    "urls": [
+      "https://www.instagram.com/share/_9R_a4MER"
+    ],
+    "placeholders": [
+      "(insert trait)"
+    ]
+  },
+  {
+    "id": 24,
+    "category": "EDUCATIONAL",
+    "hook": "I see you doing nothing but (insert action) after (insert event) so follow this agenda to avoid that.",
+    "urls": [
+      "https://www.instagram.com/share/BADjOvZhzs"
+    ],
+    "placeholders": [
+      "(insert action)",
+      "(insert event)"
+    ]
+  },
+  {
+    "id": 25,
+    "category": "EDUCATIONAL",
+    "hook": "Want to be the first (insert dream result) in your family?",
+    "urls": [
+      "https://www.instagram.com/reel/DEVCeefOF08/?igsh=MThxZXZyMnFkZXNj"
+    ],
+    "placeholders": [
+      "(insert dream result)"
+    ]
+  },
+  {
+    "id": 26,
+    "category": "EDUCATIONAL",
+    "hook": "This is how many (insert item) you need to (insert result).",
+    "urls": [
+      "https://www.instagram.com/reel/C83vXP6NqXU/"
+    ],
+    "placeholders": [
+      "(insert item)",
+      "(insert result)"
+    ]
+  },
+  {
+    "id": 27,
+    "category": "EDUCATIONAL",
+    "hook": "Everyone tells you to (insert action) but nobody actually tells you how to do it. Here is a # second step by step tutorial that you can save.",
+    "urls": [
+      "https://www.instagram.com/reel/DC2pqKUpy7C/?igsh=ZzBjeG93cDh6aWoy"
+    ],
+    "placeholders": [
+      "(insert action)"
+    ]
+  },
+  {
+    "id": 28,
+    "category": "EDUCATIONAL",
+    "hook": "If you're (insert age range) these are the # things you need to do so you don't end up (insert pain point) by (insert age).",
+    "urls": [
+      "https://www.instagram.com/reel/C9atuV6s3J0/?igsh=aDhtdm5wNXNzOTk5"
+    ],
+    "placeholders": [
+      "(insert age range)",
+      "(insert pain point)",
+      "(insert age)"
+    ]
+  },
+  {
+    "id": 29,
+    "category": "EDUCATIONAL",
+    "hook": "If I were starting over in my (insert age range) with no (insert item) here are the top # things I would do to (insert dream result).",
+    "urls": [
+      "https://www.tiktok.com/t/ZT2MLqDUQ/"
+    ],
+    "placeholders": [
+      "(insert age range)",
+      "(insert item)",
+      "(insert dream result)"
+    ]
+  },
+  {
+    "id": 30,
+    "category": "EDUCATIONAL",
+    "hook": "Here are some slightly unethical (insert industry/niche) hacks that you should know if you're (insert target audience).",
+    "urls": [
+      "https://www.instagram.com/reel/C-8RO71JxRv/?igsh=MTdrZzdrZWdnbTdzZA=="
+    ],
+    "placeholders": [
+      "(insert industry/niche)",
+      "(insert target audience)"
+    ]
+  },
+  {
+    "id": 31,
+    "category": "EDUCATIONAL",
+    "hook": "Here's exactly how you're gonna lock in if you want to (insert dream result).",
+    "urls": [
+      "https://www.instagram.com/reel/DC5P-_EMzFm/?igsh=MTZyajlweWk5ZGI1cQ=="
+    ],
+    "placeholders": [
+      "(insert dream result)"
+    ]
+  },
+  {
+    "id": 32,
+    "category": "EDUCATIONAL",
+    "hook": "This is the same exact (insert thing) but the first is/got (insert result and the second is/got X",
+    "urls": [
+      "https://www.instagram.com/p/DIBDSW9Maq7/"
+    ],
+    "placeholders": [
+      "(insert thing)"
+    ]
+  },
+  {
+    "id": 33,
+    "category": "EDUCATIONAL",
+    "hook": "If you want to end up (insert pain point) then skip this video.",
+    "urls": [
+      "https://www.instagram.com/p/DDfZ4qZPTN8/"
+    ],
+    "placeholders": [
+      "(insert pain point)"
+    ]
+  },
+  {
+    "id": 34,
+    "category": "EDUCATIONAL",
+    "hook": "We have never used (insert noun) in our home because we have found it to be generally (insert trait/traits).",
+    "urls": [
+      "https://www.instagram.com/p/DGF_p8lORgI/"
+    ],
+    "placeholders": [
+      "(insert noun)",
+      "(insert trait/traits)"
+    ]
+  },
+  {
+    "id": 35,
+    "category": "EDUCATIONAL",
+    "hook": "(insert action) for (insert period of time) and you will get (insert dream result).",
+    "urls": [
+      "https://www.instagram.com/georgiaheins/reel/C8Z9DfdMgZ_/"
+    ],
+    "placeholders": [
+      "(insert action)",
+      "(insert period of time)",
+      "(insert dream result)"
+    ]
+  },
+  {
+    "id": 36,
+    "category": "EDUCATIONAL",
+    "hook": "If you're between the ages of (insert age) to (insert age) and you feel like (insert pain point).",
+    "urls": [
+      "https://www.instagram.com/p/DH2KovNtk8l/"
+    ],
+    "placeholders": [
+      "(insert age)",
+      "(insert pain point)"
+    ]
+  },
+  {
+    "id": 37,
+    "category": "EDUCATIONAL",
+    "hook": "(insert before state) to (insert after state) in # simple steps in under # of seconds.",
+    "urls": [
+      "https://www.instagram.com/p/DHD4frVya7Z/"
+    ],
+    "placeholders": [
+      "(insert before state)",
+      "(insert after state)"
+    ]
+  },
+  {
+    "id": 38,
+    "category": "EDUCATIONAL",
+    "hook": "If you're trying to (insert dream results) then here is theone (insert thing) you should do.",
+    "urls": [
+      "https://www.instagram.com/p/DFCyBHfNnlZ/"
+    ],
+    "placeholders": [
+      "(insert dream results)",
+      "(insert thing)"
+    ]
+  },
+  {
+    "id": 39,
+    "category": "EDUCATIONAL",
+    "hook": "How long do you think you have to (insert action) to (insert result).",
+    "urls": [
+      "https://www.instagram.com/reel/C50_VCluWFe/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA=="
+    ],
+    "placeholders": [
+      "(insert action)",
+      "(insert result)"
+    ]
+  },
+  {
+    "id": 40,
+    "category": "EDUCATIONAL",
+    "hook": "If you want to do this, first do this.",
+    "urls": [
+      "https://www.instagram.com/p/C5AmorRpUqF/"
+    ],
+    "placeholders": []
+  },
+  {
+    "id": 41,
+    "category": "EDUCATIONAL",
+    "hook": "If you're trying to (insert dream result) and you haven't got a clue what to (insert action) on a daily basis I am going to show you an example.",
+    "urls": [
+      "https://www.instagram.com/p/C5yjeP-REZx/"
+    ],
+    "placeholders": [
+      "(insert dream result)",
+      "(insert action)"
+    ]
+  },
+  {
+    "id": 42,
+    "category": "EDUCATIONAL",
+    "hook": "This is how many (insert item) you need to (insert result).",
+    "urls": [
+      "https://www.instagram.com/p/C-M1nkcNPAV/"
+    ],
+    "placeholders": [
+      "(insert item)",
+      "(insert result)"
+    ]
+  },
+  {
+    "id": 43,
+    "category": "EDUCATIONAL",
+    "hook": "I'm gonna save you # of minutes off your next workout with # of simple tips.",
+    "urls": [
+      "https://www.instagram.com/jeffnippard/reel/C9zuGtYJ8ck/"
+    ],
+    "placeholders": []
+  },
+  {
+    "id": 44,
+    "category": "EDUCATIONAL",
+    "hook": "If I only had (insert time frame) in the (insert location/place) this is exactly what I would do to get (insert dream result).",
+    "urls": [
+      "https://www.instagram.com/p/C-9slRRoYAA/"
+    ],
+    "placeholders": [
+      "(insert time frame)",
+      "(insert location/place)",
+      "(insert dream result)"
+    ]
+  },
+  {
+    "id": 45,
+    "category": "EDUCATIONAL",
+    "hook": "How long can you skip (insert action) before losing (insert result).",
+    "urls": [
+      "https://www.instagram.com/sethwickstrom_fitness/reel/DB1WXxVx6B4/"
+    ],
+    "placeholders": [
+      "(insert action)",
+      "(insert result)"
+    ]
+  },
+  {
+    "id": 46,
+    "category": "EDUCATIONAL",
+    "hook": "If you want to (insert dream result) a week for the next (insert weeks) without (insert pain point) then listen up.",
+    "urls": [
+      "https://www.instagram.com/reform.nutrition.training/reel/C6SEO0svXyy/"
+    ],
+    "placeholders": [
+      "(insert dream result)",
+      "(insert weeks)",
+      "(insert pain point)"
+    ]
+  },
+  {
+    "id": 47,
+    "category": "EDUCATIONAL",
+    "hook": "If you just turned (insert age) and you don't want to (insert pain point) then you should do the following # things immediately.",
+    "urls": [
+      "https://www.instagram.com/share/BAKR4pqxlZ"
+    ],
+    "placeholders": [
+      "(insert age)",
+      "(insert pain point)"
+    ]
+  },
+  {
+    "id": 48,
+    "category": "EDUCATIONAL",
+    "hook": "You can have a perfect (insert dream result) by simply dumbing it down.",
+    "urls": [
+      "https://www.instagram.com/share/BAOoa4qroW"
+    ],
+    "placeholders": [
+      "(insert dream result)"
+    ]
+  },
+  {
+    "id": 49,
+    "category": "EDUCATIONAL",
+    "hook": "Did you know that this, this, this, and this get (insert dream result).",
+    "urls": [
+      "https://www.instagram.com/share/BAExbVPhak"
+    ],
+    "placeholders": [
+      "(insert dream result)"
+    ]
+  },
+  {
+    "id": 50,
+    "category": "EDUCATIONAL",
+    "hook": "Don't start doing (insert action) until you learn how to do this.",
+    "urls": [
+      "https://www.instagram.com/share/BA7hIj8Es8"
+    ],
+    "placeholders": [
+      "(insert action)"
+    ]
+  },
+  {
+    "id": 51,
+    "category": "EDUCATIONAL",
+    "hook": "(insert industry) tier list for (insert year).",
+    "urls": [
+      "https://www.instagram.com/p/DEirLE_s0QS/"
+    ],
+    "placeholders": [
+      "(insert industry)",
+      "(insert year)"
+    ]
+  },
+  {
+    "id": 52,
+    "category": "EDUCATIONAL",
+    "hook": "In 60 seconds i'm going to teach you more about (insert thing) than you have ever learned in your entire life.",
+    "urls": [
+      "https://www.instagram.com/p/DEqFNhryVXt/"
+    ],
+    "placeholders": [
+      "(insert thing)"
+    ]
+  },
+  {
+    "id": 53,
+    "category": "EDUCATIONAL",
+    "hook": "Everyone tells you to (insert action) but no one actually shows you how to do it. Here is a # second step by step tutorial that you can save for later.",
+    "urls": [
+      "https://www.instagram.com/calltoleap/reel/C2tER1GvhOc/"
+    ],
+    "placeholders": [
+      "(insert action)"
+    ]
+  },
+  {
+    "id": 54,
+    "category": "EDUCATIONAL",
+    "hook": "If you're in your (insert 20's, 30's, 40's, 50's, 60', etc) then these are the # of things you need to do to make sure you don;t end up (insert pain point) by (insert age).",
+    "urls": [
+      "https://www.instagram.com/calltoleap/reel/C9atuV6s3J0/"
+    ],
+    "placeholders": [
+      "(insert 20's, 30's, 40's, 50's, 60', etc)",
+      "(insert pain point)",
+      "(insert age)"
+    ]
+  },
+  {
+    "id": 55,
+    "category": "EDUCATIONAL",
+    "hook": "(Insert noun) loses (Insert noun) on this, so they can make (insert noun) on this.",
+    "urls": [
+      "https://www.instagram.com/marktilbury/reel/DEkDrvSojnz/"
+    ],
+    "placeholders": [
+      "(Insert noun)",
+      "(insert noun)"
+    ]
+  },
+  {
+    "id": 56,
+    "category": "EDUCATIONAL",
+    "hook": "You have (insert noun) tomorrow but you have no time to (insert action). Here's how you save your (insert noun).",
+    "urls": [
+      "https://www.instagram.com/ultimateivyleagueguide/reel/CoNHORnOLUt/"
+    ],
+    "placeholders": [
+      "(insert noun)",
+      "(insert action)"
+    ]
+  },
+  {
+    "id": 57,
+    "category": "EDUCATIONAL",
+    "hook": "(Insert scenario) and (Insert dream result), here are the # of steps to get (insert dream result).",
+    "urls": [
+      "https://www.instagram.com/ultimateivyleagueguide/reel/Co5Kp8QLhRZ/"
+    ],
+    "placeholders": [
+      "(Insert scenario)",
+      "(Insert dream result)",
+      "(insert dream result)"
+    ]
+  },
+  {
+    "id": 58,
+    "category": "EDUCATIONAL",
+    "hook": "Everyone tells you to do (insert action) but you think it's too late because you are (Insert age). I am a (insert occupation) and these are # of things you need to know in your (Insert age).",
+    "urls": [
+      "https://www.instagram.com/calltoleap/reel/C4wQD6DPqTe/"
+    ],
+    "placeholders": [
+      "(insert action)",
+      "(Insert age)",
+      "(insert occupation)"
+    ]
+  },
+  {
+    "id": 59,
+    "category": "EDUCATIONAL",
+    "hook": "(Insert target audience) if you're serious about playing at the next level.",
+    "urls": [
+      "https://www.instagram.com/kelseypoulter/reel/DDpruSIJm9i/"
+    ],
+    "placeholders": [
+      "(Insert target audience)"
+    ]
+  },
+  {
+    "id": 60,
+    "category": "EDUCATIONAL",
+    "hook": "You only have to be dialed in on # of things to be an elite (insert title).",
+    "urls": [
+      "https://www.instagram.com/kelseypoulter/reel/DAK0EOTRweE/"
+    ],
+    "placeholders": [
+      "(insert title)"
+    ]
+  },
+  {
+    "id": 61,
+    "category": "EDUCATIONAL",
+    "hook": "(Insert noun) for dummies.",
+    "urls": [
+      "https://www.instagram.com/share/BA6XRL1fXU"
+    ],
+    "placeholders": [
+      "(Insert noun)"
+    ]
+  },
+  {
+    "id": 62,
+    "category": "EDUCATIONAL",
+    "hook": "Don't hate me but I don't really mind (insert noun).",
+    "urls": [
+      "https://www.instagram.com/p/DFydpeiy6GJ/"
+    ],
+    "placeholders": [
+      "(insert noun)"
+    ]
+  },
+  {
+    "id": 63,
+    "category": "EDUCATIONAL",
+    "hook": "If you want to do this, first do this.",
+    "urls": [
+      "https://www.instagram.com/p/C5nXYgsy6RR/",
+      "https://www.instagram.com/alexandramilne_/reel/C5SsF5IyPLL/"
+    ],
+    "placeholders": []
+  },
+  {
+    "id": 64,
+    "category": "EDUCATIONAL",
+    "hook": "Best ways to save money while (insert action).",
+    "urls": [
+      "https://www.instagram.com/p/DCkE_cUo3mq/"
+    ],
+    "placeholders": [
+      "(insert action)"
+    ]
+  },
+  {
+    "id": 65,
+    "category": "EDUCATIONAL",
+    "hook": "This is every way to (insert action).",
+    "urls": [
+      "https://www.instagram.com/p/DHtlJGYN5wB/"
+    ],
+    "placeholders": [
+      "(insert action)"
+    ]
+  },
+  {
+    "id": 66,
+    "category": "EDUCATIONAL",
+    "hook": "What if I told you this (insert item) could (insert result).",
+    "urls": [
+      "https://www.instagram.com/p/DChgwnJyE3b/"
+    ],
+    "placeholders": [
+      "(insert item)",
+      "(insert result)"
+    ]
+  },
+  {
+    "id": 67,
+    "category": "EDUCATIONAL",
+    "hook": "Did you know that if you (insert action, (Insert action), (insert action), etc.",
+    "urls": [
+      "https://www.instagram.com/p/C-Alb5KsBwA/"
+    ],
+    "placeholders": [
+      "(insert action, (Insert action)",
+      "(insert action)"
+    ]
+  },
+  {
+    "id": 68,
+    "category": "EDUCATIONAL",
+    "hook": "The (insert thing) you have now in you (insert age group) is so (insert noun).",
+    "urls": [
+      "https://www.instagram.com/p/DBhHzSeJ_L6/"
+    ],
+    "placeholders": [
+      "(insert thing)",
+      "(insert age group)",
+      "(insert noun)"
+    ]
+  },
+  {
+    "id": 69,
+    "category": "EDUCATIONAL",
+    "hook": "At age (insert age) the age that many (insert target audience) is when (insert pain point).",
+    "urls": [
+      "https://www.instagram.com/p/DGkzdT8Mc21/"
+    ],
+    "placeholders": [
+      "(insert age)",
+      "(insert target audience)",
+      "(insert pain point)"
+    ]
+  },
+  {
+    "id": 70,
+    "category": "EDUCATIONAL",
+    "hook": "Listen if you're not forcing your (insert person/persons) to (insert action) in their (insert current state) don't expect them to be (insert trait) in their (insert after state).",
+    "urls": [
+      "https://www.instagram.com/p/DHQ-medJYC2/"
+    ],
+    "placeholders": [
+      "(insert person/persons)",
+      "(insert action)",
+      "(insert current state)",
+      "(insert trait)",
+      "(insert after state)"
+    ]
+  },
+  {
+    "id": 71,
+    "category": "EDUCATIONAL",
+    "hook": "Would you rather watch your (insert person/persons) (insert pain point) or join them in their (insert niche) journey to save their lives?",
+    "urls": [
+      "https://www.instagram.com/p/DGDkKWdPN7W/"
+    ],
+    "placeholders": [
+      "(insert person/persons)",
+      "(insert pain point)",
+      "(insert niche)"
+    ]
+  },
+  {
+    "id": 72,
+    "category": "EDUCATIONAL",
+    "hook": "This is the amount of (insert noun) you would lose per day in a (insert state).",
+    "urls": [
+      "https://www.instagram.com/p/DGN4d45NAga/"
+    ],
+    "placeholders": [
+      "(insert noun)",
+      "(insert state)"
+    ]
+  },
+  {
+    "id": 73,
+    "category": "EDUCATIONAL",
+    "hook": "If your in a (insert dream result) journey, this is exactly what you need to do to (insert dream goal) in # simple steps.",
+    "urls": [
+      "https://www.instagram.com/p/DFGXCydPPOM/"
+    ],
+    "placeholders": [
+      "(insert dream result)",
+      "(insert dream goal)"
+    ]
+  },
+  {
+    "id": 74,
+    "category": "EDUCATIONAL",
+    "hook": "If you told me # of years ago I'd be (insert dream result) I wouldn't have believed you.",
+    "urls": [
+      "https://www.instagram.com/p/DGs6ZD6NMaE/"
+    ],
+    "placeholders": [
+      "(insert dream result)"
+    ]
+  },
+  {
+    "id": 75,
+    "category": "EDUCATIONAL",
+    "hook": "If your getting (insert adjective) or know someone (insert adjective) there are # of incredulity important things you need to make sure you can do physically in order to (dream result).",
+    "urls": [
+      "https://www.instagram.com/p/DEgJY7yOUYp/"
+    ],
+    "placeholders": [
+      "(insert adjective)",
+      "(dream result)"
+    ]
+  },
+  {
+    "id": 76,
+    "category": "EDUCATIONAL",
+    "hook": "If you don't want to fail (insert life event).",
+    "urls": [
+      "https://www.instagram.com/p/C-TyArttuFT/"
+    ],
+    "placeholders": [
+      "(insert life event)"
+    ]
+  },
+  {
+    "id": 77,
+    "category": "EDUCATIONAL",
+    "hook": "I crammed the hardest (insert noun) and (insert dreamresult).",
+    "urls": [
+      "https://www.instagram.com/p/CzjQfxOLpKO/"
+    ],
+    "placeholders": [
+      "(insert noun)",
+      "(insert dreamresult)"
+    ]
+  },
+  {
+    "id": 78,
+    "category": "EDUCATIONAL",
+    "hook": "If you're cooked for your (insert life event) but still can't find the motivation to do (insert action) you're gonna want to see this.",
+    "urls": [
+      "https://www.instagram.com/p/DC3Zn1Vx7O9/"
+    ],
+    "placeholders": [
+      "(insert life event)",
+      "(insert action)"
+    ]
+  },
+  {
+    "id": 79,
+    "category": "EDUCATIONAL",
+    "hook": "Here's the difference between (insert title), (insert title) , and (insert title).",
+    "urls": [
+      "https://www.instagram.com/p/DFKZBcFRisK/"
+    ],
+    "placeholders": [
+      "(insert title)"
+    ]
+  },
+  {
+    "id": 80,
+    "category": "EDUCATIONAL",
+    "hook": "If I were in my (insert age range) here is exactly how I would avoid (insert bad result).",
+    "urls": [
+      "https://www.instagram.com/p/DEICudmOqeQ/"
+    ],
+    "placeholders": [
+      "(insert age range)",
+      "(insert bad result)"
+    ]
+  },
+  {
+    "id": 81,
+    "category": "EDUCATIONAL",
+    "hook": "Here's every (insert noun) that you actually need to know.",
+    "urls": [
+      "https://www.instagram.com/p/DBhdAc3RY-X/"
+    ],
+    "placeholders": [
+      "(insert noun)"
+    ]
+  },
+  {
+    "id": 82,
+    "category": "EDUCATIONAL",
+    "hook": "The most important things I will teach my kids as a (insert job title).",
+    "urls": [
+      "https://www.instagram.com/p/DDce9wDuc8j/"
+    ],
+    "placeholders": [
+      "(insert job title)"
+    ]
+  },
+  {
+    "id": 83,
+    "category": "EDUCATIONAL",
+    "hook": "If you can't solve this (insert problem) in under 5 seconds go back to (insert pre-qualifying stage).",
+    "urls": [
+      "https://www.instagram.com/p/C0g-j3EJuM6/"
+    ],
+    "placeholders": [
+      "(insert problem)",
+      "(insert pre-qualifying stage)"
+    ]
+  },
+  {
+    "id": 84,
+    "category": "EDUCATIONAL",
+    "hook": "30 seconds of (insert industry) advice I give my best friend if he/she were starting from scratch.",
+    "urls": [
+      "https://www.instagram.com/p/DDyGbH-xMoc/"
+    ],
+    "placeholders": [
+      "(insert industry)"
+    ]
+  },
+  {
+    "id": 85,
+    "category": "EDUCATIONAL",
+    "hook": "I would do this before quitting your job.",
+    "urls": [
+      "https://www.instagram.com/p/C_D27RuxXHn/"
+    ],
+    "placeholders": []
+  },
+  {
+    "id": 86,
+    "category": "EDUCATIONAL",
+    "hook": "If you do this you'll (insert result).",
+    "urls": [
+      "https://www.instagram.com/p/DEP_swuolhm/"
+    ],
+    "placeholders": [
+      "(insert result)"
+    ]
+  },
+  {
+    "id": 87,
+    "category": "EDUCATIONAL",
+    "hook": "If your a (insert target audience) who (insert pain point) and you want to (insert dream result) let's go over a very simple # step plan you can follow to quickly (insert dream result).",
+    "urls": [
+      "https://www.instagram.com/p/Cpf3cfujvTd/"
+    ],
+    "placeholders": [
+      "(insert target audience)",
+      "(insert pain point)",
+      "(insert dream result)"
+    ]
+  },
+  {
+    "id": 88,
+    "category": "EDUCATIONAL",
+    "hook": "Here are 5 books to (insert dream result) better than 99% of other people.",
+    "urls": [
+      "https://www.instagram.com/p/DG3T4N9xdXD/"
+    ],
+    "placeholders": [
+      "(insert dream result)"
+    ]
+  },
+  {
+    "id": 89,
+    "category": "EDUCATIONAL",
+    "hook": "If you're somebody who (insert action) and your goal is to (insert dream result) and (insert dream result) at the same time. Then here are my # best tips.",
+    "urls": [
+      "https://www.instagram.com/p/DGn7kKyu_5G/"
+    ],
+    "placeholders": [
+      "(insert action)",
+      "(insert dream result)"
+    ]
+  },
+  {
+    "id": 90,
+    "category": "EDUCATIONAL",
+    "hook": "If you can't do (insert action).",
+    "urls": [
+      "https://www.instagram.com/p/DC7SzidSNOX/"
+    ],
+    "placeholders": [
+      "(insert action)"
+    ]
+  },
+  {
+    "id": 91,
+    "category": "EDUCATIONAL",
+    "hook": "If you can do # of (insert action), than you can do # of (insert action).",
+    "urls": [
+      "https://www.instagram.com/p/DDKZbeoo1gF/"
+    ],
+    "placeholders": [
+      "(insert action)"
+    ]
+  },
+  {
+    "id": 92,
+    "category": "EDUCATIONAL",
+    "hook": "If your mom didn't teach you how to make (insert noun) growing up, don't worry i'm your mommy now.",
+    "urls": [
+      "https://www.instagram.com/p/DBEeZ2MvZ16/"
+    ],
+    "placeholders": [
+      "(insert noun)"
+    ]
+  },
+  {
+    "id": 93,
+    "category": "EDUCATIONAL",
+    "hook": "Never lose a game of (insert game) for the rest of your life.",
+    "urls": [
+      "https://www.instagram.com/p/DCoC6YHJ_k1/"
+    ],
+    "placeholders": [
+      "(insert game)"
+    ]
+  },
+  {
+    "id": 94,
+    "category": "EDUCATIONAL",
+    "hook": "3 levels of (insert noun).",
+    "urls": [
+      "https://www.instagram.com/p/DBt0hSaNxqH/"
+    ],
+    "placeholders": [
+      "(insert noun)"
+    ]
+  },
+  {
+    "id": 95,
+    "category": "EDUCATIONAL",
+    "hook": "Did you know that if you… (Insert action), (insert action), (insert action), etc",
+    "urls": [
+      "https://www.instagram.com/p/DIGJHsKPfj2/"
+    ],
+    "placeholders": [
+      "(Insert action)",
+      "(insert action)"
+    ]
+  },
+  {
+    "id": 96,
+    "category": "EDUCATIONAL",
+    "hook": "I am a professional (insert industry) hacker, and here's every hack at (insert store/location/event/etc).",
+    "urls": [
+      "https://www.instagram.com/p/DG3-nRhyvRq/"
+    ],
+    "placeholders": [
+      "(insert industry)",
+      "(insert store/location/event/etc)"
+    ]
+  },
+  {
+    "id": 97,
+    "category": "EDUCATIONAL",
+    "hook": "I have a very long list of (insert noun) that I (insert action) that I gate keep from other people. But today I feel like giving back so I am going to tell you.",
+    "urls": [
+      "https://www.instagram.com/p/DCpBTqzpGdp/"
+    ],
+    "placeholders": [
+      "(insert noun)",
+      "(insert action)"
+    ]
+  },
+  {
+    "id": 98,
+    "category": "EDUCATIONAL",
+    "hook": "I am going to teach you how to identify a good (insert noun) to a bad (insert noun).",
+    "urls": [
+      "https://www.instagram.com/p/DHWUyptyp9B/"
+    ],
+    "placeholders": [
+      "(insert noun)"
+    ]
+  },
+  {
+    "id": 99,
+    "category": "EDUCATIONAL",
+    "hook": "I went to (insert school type) so you don't have to.",
+    "urls": [
+      "https://www.instagram.com/p/DCrxn_5RFDS/"
+    ],
+    "placeholders": [
+      "(insert school type)"
+    ]
+  },
+  {
+    "id": 100,
+    "category": "EDUCATIONAL",
+    "hook": "Ranking all the most popular (insert noun), so I can rank them from worst to best.",
+    "urls": [
+      "https://www.instagram.com/p/DIPGBRQR0Sb/"
+    ],
+    "placeholders": [
+      "(insert noun)"
+    ]
+  },
+  {
+    "id": 101,
+    "category": "EDUCATIONAL",
+    "hook": "Here is how I (insert action) as a (insert label) (insert age).",
+    "urls": [
+      "https://www.instagram.com/p/C6Hkr_QRQ60/"
+    ],
+    "placeholders": [
+      "(insert action)",
+      "(insert label)",
+      "(insert age)"
+    ]
+  },
+  {
+    "id": 102,
+    "category": "EDUCATIONAL",
+    "hook": "You wouldn't get (insert bad result) when you (insert action) if you (insert action).",
+    "urls": [
+      "https://www.instagram.com/p/DHlNHSfuHoh/"
+    ],
+    "placeholders": [
+      "(insert bad result)",
+      "(insert action)"
+    ]
+  },
+  {
+    "id": 103,
+    "category": "EDUCATIONAL",
+    "hook": "This is harder than getting into Harvard.",
+    "urls": [
+      "https://www.instagram.com/p/DFNdSUruSOQ/"
+    ],
+    "placeholders": []
+  },
+  {
+    "id": 104,
+    "category": "EDUCATIONAL",
+    "hook": "Now how much does it really cost to (insert action).",
+    "urls": [
+      "https://www.instagram.com/p/DE75-Fhyg_T/"
+    ],
+    "placeholders": [
+      "(insert action)"
+    ]
+  },
+  {
+    "id": 105,
+    "category": "EDUCATIONAL",
+    "hook": "This is why no one remembers you.",
+    "urls": [
+      "https://www.instagram.com/p/DFaQuJYueF1/"
+    ],
+    "placeholders": []
+  },
+  {
+    "id": 106,
+    "category": "EDUCATIONAL",
+    "hook": "I'm 20 which means my teenage years are officially over, so here;s everything I learned from the 7 most weirdest years of my life.",
+    "urls": [
+      "https://www.instagram.com/p/Cuq324pIiKY/"
+    ],
+    "placeholders": []
+  },
+  {
+    "id": 107,
+    "category": "EDUCATIONAL",
+    "hook": "If you're a (target audience) and you want to become (insert dream result) by (insert action) then listen to this video because you have such a big advantage and I will tell you how to conquer it.",
+    "urls": [
+      "https://www.instagram.com/p/DE9tW4dyxlJ/"
+    ],
+    "placeholders": [
+      "(target audience)",
+      "(insert dream result)",
+      "(insert action)"
+    ]
+  },
+  {
+    "id": 108,
+    "category": "EDUCATIONAL",
+    "hook": "If you take (insert noun) it will (insert result).",
+    "urls": [
+      "https://www.instagram.com/p/DIMBlJ4MgHH/"
+    ],
+    "placeholders": [
+      "(insert noun)",
+      "(insert result)"
+    ]
+  },
+  {
+    "id": 109,
+    "category": "EDUCATIONAL",
+    "hook": "I just made a website called (insert the longest but most relatable website name).",
+    "urls": [
+      "https://www.instagram.com/p/DIWeFGhRT9u/"
+    ],
+    "placeholders": [
+      "(insert the longest but most relatable website name)"
+    ]
+  },
+  {
+    "id": 110,
+    "category": "EDUCATIONAL",
+    "hook": "How to turn just one (insert noun) into a lifetime of free (insert noun).",
+    "urls": [
+      "https://www.instagram.com/p/DIEbK1dSZJ2/"
+    ],
+    "placeholders": [
+      "(insert noun)"
+    ]
+  },
+  {
+    "id": 111,
+    "category": "EDUCATIONAL",
+    "hook": "Things that are damaging your (insert noun) without you even realizing it.",
+    "urls": [
+      "https://www.instagram.com/p/DDxIde3vWO7/"
+    ],
+    "placeholders": [
+      "(insert noun)"
+    ]
+  },
+  {
+    "id": 112,
+    "category": "EDUCATIONAL",
+    "hook": "If you have when you see a girl and she just has (insert dream result).",
+    "urls": [
+      "https://www.instagram.com/p/DFNwwbpvxzi/"
+    ],
+    "placeholders": [
+      "(insert dream result)"
+    ]
+  },
+  {
+    "id": 113,
+    "category": "EDUCATIONAL",
+    "hook": "I've (insert dream result) despite having (insert pain point) and this is the routine that did it.",
+    "urls": [
+      "https://www.instagram.com/p/DHbXdlkIoZh/"
+    ],
+    "placeholders": [
+      "(insert dream result)",
+      "(insert pain point)"
+    ]
+  },
+  {
+    "id": 114,
+    "category": "EDUCATIONAL",
+    "hook": "Swap these (insert noun) for better (insert result).",
+    "urls": [
+      "https://www.instagram.com/p/DE5r6TspMQA/"
+    ],
+    "placeholders": [
+      "(insert noun)",
+      "(insert result)"
+    ]
+  },
+  {
+    "id": 115,
+    "category": "EDUCATIONAL",
+    "hook": "Did you know that this, this, and this target (insert dream result).",
+    "urls": [
+      "https://www.instagram.com/p/DFk6dhNykvl/"
+    ],
+    "placeholders": [
+      "(insert dream result)"
+    ]
+  },
+  {
+    "id": 116,
+    "category": "EDUCATIONAL",
+    "hook": "Your (insert noun) looks like this and you want them to look like this.",
+    "urls": [
+      "https://www.instagram.com/p/DD0PRBppkqQ/"
+    ],
+    "placeholders": [
+      "(insert noun)"
+    ]
+  },
+  {
+    "id": 117,
+    "category": "EDUCATIONAL",
+    "hook": "(Insert last year) (insert noun), (insert current year) (insert noun).",
+    "urls": [
+      "https://www.instagram.com/p/DEDdSAESaFJ/"
+    ],
+    "placeholders": [
+      "(Insert last year)",
+      "(insert noun)",
+      "(insert current year)"
+    ]
+  },
+  {
+    "id": 118,
+    "category": "EDUCATIONAL",
+    "hook": "Okay (insert pain point), how about we don't f up (insert current year)",
+    "urls": [
+      "https://www.instagram.com/p/DDiWd5eSlPC/"
+    ],
+    "placeholders": [
+      "(insert pain point)",
+      "(insert current year)"
+    ]
+  },
+  {
+    "id": 119,
+    "category": "EDUCATIONAL",
+    "hook": "This is the program/steps I would follow if I was trying to (insert dream result).",
+    "urls": [
+      "https://www.instagram.com/p/DB4om1CIUoZ/"
+    ],
+    "placeholders": [
+      "(insert dream result)"
+    ]
+  },
+  {
+    "id": 120,
+    "category": "EDUCATIONAL",
+    "hook": "If your (insert noun) looks anything like this, these are not (insert noun) these are (insert noun) and here is how you can get (insert dream result).",
+    "urls": [
+      "https://www.instagram.com/p/DDGYmIHxlhH/"
+    ],
+    "placeholders": [
+      "(insert noun)",
+      "(insert dream result)"
+    ]
+  },
+  {
+    "id": 121,
+    "category": "EDUCATIONAL",
+    "hook": "Here are some (insert action) you can do without (insert noun).",
+    "urls": [
+      "https://www.instagram.com/p/DB-HjvtP1A9/"
+    ],
+    "placeholders": [
+      "(insert action)",
+      "(insert noun)"
+    ]
+  },
+  {
+    "id": 122,
+    "category": "EDUCATIONAL",
+    "hook": "Let's find out what (insert noun) you are in # steps.",
+    "urls": [
+      "https://www.instagram.com/p/DHXLZyrSP0w/"
+    ],
+    "placeholders": [
+      "(insert noun)"
+    ]
+  },
+  {
+    "id": 123,
+    "category": "EDUCATIONAL",
+    "hook": "Most people can only do (insert action) when trying to (insert action) but as an (insert title) you should be ableto (insert action).",
+    "urls": [
+      "https://www.instagram.com/p/C_3kQAkIuKn/"
+    ],
+    "placeholders": [
+      "(insert action)",
+      "(insert title)"
+    ]
+  },
+  {
+    "id": 124,
+    "category": "EDUCATIONAL",
+    "hook": "As an (insert title) you should be able to do this, if you can't (insert diagnosis).",
+    "urls": [
+      "https://www.instagram.com/reel/DF_Cn86o0Ki/"
+    ],
+    "placeholders": [
+      "(insert title)",
+      "(insert diagnosis)"
+    ]
+  },
+  {
+    "id": 125,
+    "category": "EDUCATIONAL",
+    "hook": "If you're an (insert title) you should be able to do this, this, and this. If you can't I got you, just do this # step/routine/program to (insert dream result).",
+    "urls": [
+      "https://www.instagram.com/reel/DDo0rP9o4Yl/"
+    ],
+    "placeholders": [
+      "(insert title)",
+      "(insert dream result)"
+    ]
+  },
+  {
+    "id": 126,
+    "category": "EDUCATIONAL",
+    "hook": "If you have (insert pain point), (insert pain point), and (insert pain point) you might be (insert action) wrong.",
+    "urls": [
+      "https://www.instagram.com/p/DDCdiwNO6cO/"
+    ],
+    "placeholders": [
+      "(insert pain point)",
+      "(insert action)"
+    ]
+  },
+  {
+    "id": 127,
+    "category": "EDUCATIONAL",
+    "hook": "If you feel like your never (insert point) here is everything you need for a (insert dream result).",
+    "urls": [
+      "https://www.instagram.com/p/DCkDGtppM_u/"
+    ],
+    "placeholders": [
+      "(insert point)",
+      "(insert dream result)"
+    ]
+  },
+  {
+    "id": 128,
+    "category": "EDUCATIONAL",
+    "hook": "Do you have a (insert pain point) don't waste your money trying to (insert solution) it's just going to come back.",
+    "urls": [
+      "https://www.instagram.com/p/DEu0CsYu3Qa/"
+    ],
+    "placeholders": [
+      "(insert pain point)",
+      "(insert solution)"
+    ]
+  },
+  {
+    "id": 129,
+    "category": "EDUCATIONAL",
+    "hook": "If giving yourself (insert result) causes (insert pain point), (insert pain point), and (insert pain point) here is how I cheat it.",
+    "urls": [
+      "https://www.instagram.com/p/DCh2GnEzezF/"
+    ],
+    "placeholders": [
+      "(insert result)",
+      "(insert pain point)"
+    ]
+  },
+  {
+    "id": 130,
+    "category": "EDUCATIONAL",
+    "hook": "You don't have (insert pain point), your not (insert adjective), your not (insert adjective) you just need to (insert solution) and I am going to tell you how to do it.",
+    "urls": [
+      "https://www.instagram.com/p/DHSIRSHJuWc/"
+    ],
+    "placeholders": [
+      "(insert pain point)",
+      "(insert adjective)",
+      "(insert solution)"
+    ]
+  },
+  {
+    "id": 131,
+    "category": "EDUCATIONAL",
+    "hook": "Worst thing you can do for your (insert thing) is to ignore your (insert noun) when (insert scenario).",
+    "urls": [
+      "https://www.instagram.com/p/DFGZHpOpv9E/"
+    ],
+    "placeholders": [
+      "(insert thing)",
+      "(insert noun)",
+      "(insert scenario)"
+    ]
+  },
+  {
+    "id": 132,
+    "category": "EDUCATIONAL",
+    "hook": "Ladies, you can do all the (insert action) but that's not going to do sh*t for your (insert noun).",
+    "urls": [
+      "https://www.instagram.com/p/DFLUAphSOE0/"
+    ],
+    "placeholders": [
+      "(insert action)",
+      "(insert noun)"
+    ]
+  },
+  {
+    "id": 133,
+    "category": "EDUCATIONAL",
+    "hook": "Never (insert action) first and then (insert action).",
+    "urls": [
+      "https://www.instagram.com/p/DF58v36zILq/"
+    ],
+    "placeholders": [
+      "(insert action)"
+    ]
+  },
+  {
+    "id": 134,
+    "category": "EDUCATIONAL",
+    "hook": "What happens when you go X hours/days/weeks/years without (insert noun).",
+    "urls": [
+      "https://www.instagram.com/p/DHQcFEpuMHI/"
+    ],
+    "placeholders": [
+      "(insert noun)"
+    ]
+  },
+  {
+    "id": 135,
+    "category": "EDUCATIONAL",
+    "hook": "There is no doubt in my mind that (insert action) are the best (insert noun) for your (insert noun).",
+    "urls": [
+      "https://www.instagram.com/p/DFnjpQ1x5mZ/"
+    ],
+    "placeholders": [
+      "(insert action)",
+      "(insert noun)"
+    ]
+  },
+  {
+    "id": 136,
+    "category": "EDUCATIONAL",
+    "hook": "Don't touch this.",
+    "urls": [
+      "https://www.instagram.com/p/DAMZdJhRaKj/"
+    ],
+    "placeholders": []
+  },
+  {
+    "id": 137,
+    "category": "EDUCATIONAL",
+    "hook": "What I wish I knew at (insert age) instead of (insert age).",
+    "urls": [
+      "https://www.instagram.com/p/C3-e4acrDdB/"
+    ],
+    "placeholders": [
+      "(insert age)"
+    ]
+  },
+  {
+    "id": 138,
+    "category": "EDUCATIONAL",
+    "hook": "You're damaging your (insert noun) if you (insert noun) looks like this or like this.",
+    "urls": [
+      "https://www.instagram.com/p/C-AwpFRxDcg/"
+    ],
+    "placeholders": [
+      "(insert noun)"
+    ]
+  },
+  {
+    "id": 139,
+    "category": "EDUCATIONAL",
+    "hook": "My most complemented (insert noun) of (insert year).",
+    "urls": [
+      "https://www.instagram.com/p/DDhpuYgRmps/"
+    ],
+    "placeholders": [
+      "(insert noun)",
+      "(insert year)"
+    ]
+  },
+  {
+    "id": 140,
+    "category": "EDUCATIONAL",
+    "hook": "I have been dating my girlfriend/boyfriend for # years here are # basics I learned that every guy/girl should do for a partner in (insert scenario).",
+    "urls": [
+      "https://www.instagram.com/p/DEbs2tsxl8_/"
+    ],
+    "placeholders": [
+      "(insert scenario)"
+    ]
+  },
+  {
+    "id": 141,
+    "category": "EDUCATIONAL",
+    "hook": "When I say I (insert action) everyday and I don't (insert action) everyday people always ask me…",
+    "urls": [
+      "https://www.instagram.com/p/DGDy2KMJfQH/"
+    ],
+    "placeholders": [
+      "(insert action)"
+    ]
+  },
+  {
+    "id": 142,
+    "category": "EDUCATIONAL",
+    "hook": "# of ways to raise (insert adjective) children.",
+    "urls": [
+      "https://www.instagram.com/p/DDP0DJDvdAL/"
+    ],
+    "placeholders": [
+      "(insert adjective)"
+    ]
+  },
+  {
+    "id": 143,
+    "category": "EDUCATIONAL",
+    "hook": "It's okay f you mom didn't talk to you about",
+    "urls": [
+      "https://www.instagram.com/p/DCJwFyKvi03/"
+    ],
+    "placeholders": []
+  },
+  {
+    "id": 144,
+    "category": "EDUCATIONAL",
+    "hook": "The reason you can't (insert dream result) to get that (insert dream result) you keep talking about is because…",
+    "urls": [
+      "https://www.instagram.com/p/DDKbMBDPz-R/"
+    ],
+    "placeholders": [
+      "(insert dream result)"
+    ]
+  },
+  {
+    "id": 145,
+    "category": "EDUCATIONAL",
+    "hook": "This is your (insert noun) on a regular day, this is you (insert noun) on (insert scenario).",
+    "urls": [
+      "https://www.instagram.com/p/DFGFur-uB7M/"
+    ],
+    "placeholders": [
+      "(insert noun)",
+      "(insert scenario)"
+    ]
+  },
+  {
+    "id": 146,
+    "category": "EDUCATIONAL",
+    "hook": "You guys know this look, when someone perfectly (insert action) and (insert action) I am obsessed with this (insert noun).",
+    "urls": [
+      "https://www.instagram.com/p/DDpulHmx30Z/"
+    ],
+    "placeholders": [
+      "(insert action)",
+      "(insert noun)"
+    ]
+  },
+  {
+    "id": 147,
+    "category": "EDUCATIONAL",
+    "hook": "You crave (insert noun) on your (insert scenario) here's why.",
+    "urls": [
+      "https://www.instagram.com/p/DFYO1KMxUoy/"
+    ],
+    "placeholders": [
+      "(insert noun)",
+      "(insert scenario)"
+    ]
+  },
+  {
+    "id": 148,
+    "category": "EDUCATIONAL",
+    "hook": "This is you (insert noun) when you (insert action), and this is your (insert noun) when you (insert action).",
+    "urls": [
+      "https://www.instagram.com/p/DHI7KYmOgHL/"
+    ],
+    "placeholders": [
+      "(insert noun)",
+      "(insert action)"
+    ]
+  },
+  {
+    "id": 149,
+    "category": "EDUCATIONAL",
+    "hook": "I have (insert noun) commercial (insert noun).",
+    "urls": [
+      "https://www.instagram.com/p/DH6Nb_7JpIT/"
+    ],
+    "placeholders": [
+      "(insert noun)"
+    ]
+  },
+  {
+    "id": 150,
+    "category": "EDUCATIONAL",
+    "hook": "Stop (insert action) if you actually want to (insert dream result).",
+    "urls": [
+      "https://www.instagram.com/p/DGaYM9PIO9b/"
+    ],
+    "placeholders": [
+      "(insert action)",
+      "(insert dream result)"
+    ]
+  },
+  {
+    "id": 151,
+    "category": "EDUCATIONAL",
+    "hook": "This is how much (insert dream result) you achieve if you (insert action), and this is how much (insert dream result) if you (insert action) and these # of hacks.",
+    "urls": [
+      "https://www.instagram.com/p/DE8lZdOOLDa/"
+    ],
+    "placeholders": [
+      "(insert dream result)",
+      "(insert action)"
+    ]
+  },
+  {
+    "id": 152,
+    "category": "EDUCATIONAL",
+    "hook": "If you want to (insert # of dream result) per week this is how you are going to do it.",
+    "urls": [
+      "https://www.instagram.com/p/DBumWY_tbj-/"
+    ],
+    "placeholders": [
+      "(insert # of dream result)"
+    ]
+  },
+  {
+    "id": 153,
+    "category": "EDUCATIONAL",
+    "hook": "This is for the homies who promised (insert person/persons) and nice and fancy (insert noun).",
+    "urls": [
+      "https://www.instagram.com/p/DHZJfckxUnr/"
+    ],
+    "placeholders": [
+      "(insert person/persons)",
+      "(insert noun)"
+    ]
+  },
+  {
+    "id": 154,
+    "category": "EDUCATIONAL",
+    "hook": "What if I told you, you could (insert action) for only (insert low cost).",
+    "urls": [
+      "https://www.instagram.com/p/DGjhMiPO7bd/"
+    ],
+    "placeholders": [
+      "(insert action)",
+      "(insert low cost)"
+    ]
+  },
+  {
+    "id": 155,
+    "category": "EDUCATIONAL",
+    "hook": "Why did it take me over # years to realize you can make (insert result) in # minutes.",
+    "urls": [
+      "https://www.instagram.com/p/DHGjH0Gioy2/"
+    ],
+    "placeholders": [
+      "(insert result)"
+    ]
+  },
+  {
+    "id": 156,
+    "category": "EDUCATIONAL",
+    "hook": "Don't hate me but I don't really mind (insert basic niche thing) but don;t worry I am going to show you how to make it way better.",
+    "urls": [
+      "https://www.instagram.com/p/DIKPqy-TeZ9/",
+      "https://www.instagram.com/p/DFydpeiy6GJ/"
+    ],
+    "placeholders": [
+      "(insert basic niche thing)"
+    ]
+  },
+  {
+    "id": 157,
+    "category": "EDUCATIONAL",
+    "hook": "(insert dream result) and (insert dream result) with these # of tips. For reference I have (insert personal result).",
+    "urls": [
+      "https://www.instagram.com/p/DA35oVOpAAe/"
+    ],
+    "placeholders": [
+      "(insert dream result)",
+      "(insert personal result)"
+    ]
+  },
+  {
+    "id": 158,
+    "category": "EDUCATIONAL",
+    "hook": "If you have a (insert dream result) keep scrolling. Today we are going to talk about a (insert routine, method strategy) to (insert dream result)",
+    "urls": [
+      "https://www.instagram.com/p/DDmm7ygxvVp/"
+    ],
+    "placeholders": [
+      "(insert dream result)",
+      "(insert routine, method strategy)"
+    ]
+  },
+  {
+    "id": 159,
+    "category": "EDUCATIONAL",
+    "hook": "Did you know that if you (insert action), (insert action), (insert action), etc.",
+    "urls": [
+      "https://www.instagram.com/p/DFvcBZRp0kh/"
+    ],
+    "placeholders": [
+      "(insert action)"
+    ]
+  },
+  {
+    "id": 160,
+    "category": "EDUCATIONAL",
+    "hook": "Here's exactly how much (insert noun) you can make with under (insert dollar amount).",
+    "urls": [
+      "https://www.instagram.com/p/DG8MN0rAwpR/"
+    ],
+    "placeholders": [
+      "(insert noun)",
+      "(insert dollar amount)"
+    ]
+  },
+  {
+    "id": 161,
+    "category": "EDUCATIONAL",
+    "hook": "The lack of clinical studies on (insert noun) isn't because it doesn't work, it's because…",
+    "urls": [
+      "https://www.instagram.com/p/DHjYM2oukHZ/"
+    ],
+    "placeholders": [
+      "(insert noun)"
+    ]
+  },
+  {
+    "id": 162,
+    "category": "EDUCATIONAL",
+    "hook": "You'll never get (insert dream result) in your (insert age range) if you don;t do these 3 things when you turn (insert age).",
+    "urls": [
+      "https://www.instagram.com/p/DHeJtx9IAFv/"
+    ],
+    "placeholders": [
+      "(insert dream result)",
+      "(insert age range)",
+      "(insert age)"
+    ]
+  },
+  {
+    "id": 163,
+    "category": "EDUCATIONAL",
+    "hook": "# lessons, # of (insert person/persons), in # of days/weeks/months.",
+    "urls": [
+      "https://www.instagram.com/p/DH64SMas1b1/"
+    ],
+    "placeholders": [
+      "(insert person/persons)"
+    ]
+  },
+  {
+    "id": 164,
+    "category": "EDUCATIONAL",
+    "hook": "I make more money than doctors, engineers, and lawyers and no I didn't go to college for more than 6 years to get a degree.",
+    "urls": [
+      "https://www.instagram.com/p/DIW3NDOORrg/"
+    ],
+    "placeholders": []
+  },
+  {
+    "id": 165,
+    "category": "EDUCATIONAL",
+    "hook": "I worked at (insert company) for X months/years and now I am exposing everything they keep from customers.",
+    "urls": [
+      "https://www.instagram.com/p/DINXKt8pBaq/"
+    ],
+    "placeholders": [
+      "(insert company)"
+    ]
+  },
+  {
+    "id": 166,
+    "category": "EDUCATIONAL",
+    "hook": "This is what (insert money amount) will get you in (insert location).",
+    "urls": [
+      "https://www.instagram.com/p/DHQ7CG0xxmr/"
+    ],
+    "placeholders": [
+      "(insert money amount)",
+      "(insert location)"
+    ]
+  },
+  {
+    "id": 167,
+    "category": "EDUCATIONAL",
+    "hook": "How much do I need to make or buy a (insert price) (insert noun).",
+    "urls": [
+      "https://www.instagram.com/p/DCQFABDNVWG/"
+    ],
+    "placeholders": [
+      "(insert price)",
+      "(insert noun)"
+    ]
+  },
+  {
+    "id": 168,
+    "category": "EDUCATIONAL",
+    "hook": "I make (insert hourly rate) can I qualify/buy (insert loan/noun).",
+    "urls": [
+      "https://www.instagram.com/p/C8k9RkJtXv5/"
+    ],
+    "placeholders": [
+      "(insert hourly rate)",
+      "(insert loan/noun)"
+    ]
+  },
+  {
+    "id": 169,
+    "category": "EDUCATIONAL",
+    "hook": "Let's see what your monthly payment would look like if you owned (insert noun).",
+    "urls": [
+      "https://www.instagram.com/p/C5w9HV9Axfe/"
+    ],
+    "placeholders": [
+      "(insert noun)"
+    ]
+  },
+  {
+    "id": 170,
+    "category": "EDUCATIONAL",
+    "hook": "Lets see what $1,800 a month gets you in (insert location).",
+    "urls": [
+      "https://www.instagram.com/p/DAUl55ypr-C/"
+    ],
+    "placeholders": [
+      "(insert location)"
+    ]
+  },
+  {
+    "id": 171,
+    "category": "EDUCATIONAL",
+    "hook": "If you are paying over (insert price amount) for a (insert noun), you might as well buy a (insert noun).",
+    "urls": [
+      "https://www.instagram.com/p/C55wTztrNF0/"
+    ],
+    "placeholders": [
+      "(insert price amount)",
+      "(insert noun)"
+    ]
+  },
+  {
+    "id": 172,
+    "category": "EDUCATIONAL",
+    "hook": "I have made a spreadsheet with over (insert large number) of (insert noun).",
+    "urls": [
+      "https://www.instagram.com/p/DIb7EjNxtK4/"
+    ],
+    "placeholders": [
+      "(insert large number)",
+      "(insert noun)"
+    ]
+  },
+  {
+    "id": 173,
+    "category": "EDUCATIONAL",
+    "hook": "This is (insert large number) of (insert noun).",
+    "urls": [
+      "https://www.instagram.com/georgiaheins/reel/C9uzMCJMrEL/"
+    ],
+    "placeholders": [
+      "(insert large number)",
+      "(insert noun)"
+    ]
+  },
+  {
+    "id": 174,
+    "category": "EDUCATIONAL",
+    "hook": "There is one thing above all that sets the top (insert title) apart from the rest.",
+    "urls": [
+      "https://www.instagram.com/p/DGESNTBT_3p/"
+    ],
+    "placeholders": [
+      "(insert title)"
+    ]
+  },
+  {
+    "id": 175,
+    "category": "EDUCATIONAL",
+    "hook": "This is how I would (insert action) if I were starting from scratch).",
+    "urls": [
+      "https://www.instagram.com/share/BBMxvJRjNv"
+    ],
+    "placeholders": [
+      "(insert action)"
+    ]
+  },
+  {
+    "id": 176,
+    "category": "EDUCATIONAL",
+    "hook": "If you're spending a lot of money on (insert noun) then you need to try this (insert recipe/method/strategy) because it's super easy and (insert dream outcome).",
+    "urls": [
+      "https://www.instagram.com/p/DGmf0uKMWyK/"
+    ],
+    "placeholders": [
+      "(insert noun)",
+      "(insert recipe/method/strategy)",
+      "(insert dream outcome)"
+    ]
+  },
+  {
+    "id": 177,
+    "category": "EDUCATIONAL",
+    "hook": "If you have a (insert noun) you have probably experienced this.",
+    "urls": [
+      "https://www.instagram.com/p/DIpVvJUSKam/"
+    ],
+    "placeholders": [
+      "(insert noun)"
+    ]
+  },
+  {
+    "id": 178,
+    "category": "EDUCATIONAL",
+    "hook": "(insert noun) (insert trait) (insert similar noun) (insert trait).",
+    "urls": [
+      "https://www.instagram.com/p/DE_9DHKoM-8/"
+    ],
+    "placeholders": [
+      "(insert noun)",
+      "(insert trait)",
+      "(insert similar noun)"
+    ]
+  },
+  {
+    "id": 179,
+    "category": "EDUCATIONAL",
+    "hook": "It looks like you haven't done (insert noun) since (insert time frame).",
+    "urls": [
+      "https://www.instagram.com/p/DETjcTPN0Zh/"
+    ],
+    "placeholders": [
+      "(insert noun)",
+      "(insert time frame)"
+    ]
+  },
+  {
+    "id": 180,
+    "category": "EDUCATIONAL",
+    "hook": "I don't know who needs to see this but if you have a (insert symptom) this is how I literally (insert dream result) every single time.",
+    "urls": [
+      "https://www.instagram.com/p/DFt1sIdSaJU/"
+    ],
+    "placeholders": [
+      "(insert symptom)",
+      "(insert dream result)"
+    ]
+  },
+  {
+    "id": 181,
+    "category": "EDUCATIONAL",
+    "hook": "Oh look I found (insert $), that means I am going to (insert verb) I only need this.",
+    "urls": [
+      "https://www.instagram.com/p/DDD1Dk7OjTQ/"
+    ],
+    "placeholders": [
+      "(insert $)",
+      "(insert verb)"
+    ]
+  },
+  {
+    "id": 182,
+    "category": "EDUCATIONAL",
+    "hook": "One (insert noun), one (insert noun), and you have (insert time frame).",
+    "urls": [
+      "https://www.instagram.com/p/DIkf9ExCbNb/"
+    ],
+    "placeholders": [
+      "(insert noun)",
+      "(insert time frame)"
+    ]
+  },
+  {
+    "id": 183,
+    "category": "EDUCATIONAL",
+    "hook": "The reason your (insert noun) sucks, is because you have no freaking (insert adjective).",
+    "urls": [
+      "https://www.instagram.com/p/DIwiSA7zyyd/"
+    ],
+    "placeholders": [
+      "(insert noun)",
+      "(insert adjective)"
+    ]
+  },
+  {
+    "id": 184,
+    "category": "EDUCATIONAL",
+    "hook": "You've heard of the viral (insert method/strategy/noun name) right? Well I invested that!",
+    "urls": [
+      "https://www.instagram.com/p/DI9QVVaRbur/"
+    ],
+    "placeholders": [
+      "(insert method/strategy/noun name)"
+    ]
+  },
+  {
+    "id": 185,
+    "category": "EDUCATIONAL",
+    "hook": "(insert noun) I would make for you based on your favorite (insert noun).",
+    "urls": [
+      "https://www.instagram.com/p/DF-hWdEu9Pr/"
+    ],
+    "placeholders": [
+      "(insert noun)"
+    ]
+  },
+  {
+    "id": 186,
+    "category": "EDUCATIONAL",
+    "hook": "Here are (insert #) of (insert noun) from (insert noun) that I am going to (insert verb) in (insert time frame).",
+    "urls": [
+      "https://www.instagram.com/p/DGwvVNDMQBA/"
+    ],
+    "placeholders": [
+      "(insert #)",
+      "(insert noun)",
+      "(insert verb)",
+      "(insert time frame)"
+    ]
+  },
+  {
+    "id": 187,
+    "category": "EDUCATIONAL",
+    "hook": "How we saved (insert $) on our (insert noun), and one thing we wish we did differently.",
+    "urls": [
+      "https://www.instagram.com/p/DD2B1rIRisK/"
+    ],
+    "placeholders": [
+      "(insert $)",
+      "(insert noun)"
+    ]
+  },
+  {
+    "id": 188,
+    "category": "EDUCATIONAL",
+    "hook": "This is everything I bought at (insert store) today to stay (insert adjective) at (insert age).",
+    "urls": [
+      "https://www.instagram.com/p/DDaqJN4P--I/"
+    ],
+    "placeholders": [
+      "(insert store)",
+      "(insert adjective)",
+      "(insert age)"
+    ]
+  },
+  {
+    "id": 189,
+    "category": "EDUCATIONAL",
+    "hook": "(insert verb) is expensive. Here is how to (insert noun) for (insert time frame) for only (insert $).",
+    "urls": [
+      "https://www.instagram.com/p/DGsWskqTaQj/"
+    ],
+    "placeholders": [
+      "(insert verb)",
+      "(insert noun)",
+      "(insert time frame)",
+      "(insert $)"
+    ]
+  },
+  {
+    "id": 190,
+    "category": "EDUCATIONAL",
+    "hook": "How to (insert verb) you (insert noun) from a (insert title).",
+    "urls": [
+      "https://www.instagram.com/p/C2zqnBULDa1/"
+    ],
+    "placeholders": [
+      "(insert verb)",
+      "(insert noun)",
+      "(insert title)"
+    ]
+  },
+  {
+    "id": 191,
+    "category": "EDUCATIONAL",
+    "hook": "How many (insert nouns) can you make with only (insert $).",
+    "urls": [
+      "https://www.instagram.com/p/DFbJ-1QPOc0/"
+    ],
+    "placeholders": [
+      "(insert nouns)",
+      "(insert $)"
+    ]
+  },
+  {
+    "id": 192,
+    "category": "EDUCATIONAL",
+    "hook": "I present a challenge (insert noun) (insert noun).",
+    "urls": [
+      "https://www.instagram.com/p/DGoS2GHSMy1/"
+    ],
+    "placeholders": [
+      "(insert noun)"
+    ]
+  },
+  {
+    "id": 193,
+    "category": "EDUCATIONAL",
+    "hook": "This is every way to make (insert noun).",
+    "urls": [
+      "https://www.instagram.com/p/DIxgLtupDzP/"
+    ],
+    "placeholders": [
+      "(insert noun)"
+    ]
+  },
+  {
+    "id": 194,
+    "category": "EDUCATIONAL",
+    "hook": "If I have to learn (insert noun) again here's 5 tips of everything I would do in # seconds.",
+    "urls": [
+      "https://www.instagram.com/p/DEGMBBOo_XH/"
+    ],
+    "placeholders": [
+      "(insert noun)"
+    ]
+  },
+  {
+    "id": 195,
+    "category": "EDUCATIONAL",
+    "hook": "(insert company/individual) if I (insert verb) (insert noun) for you this is what I would do.",
+    "urls": [
+      "https://www.instagram.com/p/DIfQ_5cvLv-/"
+    ],
+    "placeholders": [
+      "(insert company/individual)",
+      "(insert verb)",
+      "(insert noun)"
+    ]
+  },
+  {
+    "id": 196,
+    "category": "EDUCATIONAL",
+    "hook": "This is what it would (insert adjective) like if (insert number) of (insert noun) were in one (insert noun).",
+    "urls": [
+      "https://www.instagram.com/p/DICZf5jBuNh/"
+    ],
+    "placeholders": [
+      "(insert adjective)",
+      "(insert number)",
+      "(insert noun)"
+    ]
+  },
+  {
+    "id": 197,
+    "category": "EDUCATIONAL",
+    "hook": "This (insert adjective) (insert noun) gets (insert verb) by this (insert adjective) (insert noun).",
+    "urls": [
+      "https://www.instagram.com/p/DHXK02AS5gs/"
+    ],
+    "placeholders": [
+      "(insert adjective)",
+      "(insert noun)",
+      "(insert verb)"
+    ]
+  },
+  {
+    "id": 198,
+    "category": "EDUCATIONAL",
+    "hook": "In this video see if you can tell what's real and what's (inset noun).",
+    "urls": [
+      "https://www.instagram.com/p/DIeIvIfJVq1/"
+    ],
+    "placeholders": [
+      "(inset noun)"
+    ]
+  },
+  {
+    "id": 199,
+    "category": "EDUCATIONAL",
+    "hook": "I have no idea why I have no (insert adjective/noun).",
+    "urls": [
+      "https://www.instagram.com/p/DE7egL7M38Z/"
+    ],
+    "placeholders": [
+      "(insert adjective/noun)"
+    ]
+  },
+  {
+    "id": 200,
+    "category": "EDUCATIONAL",
+    "hook": "I avoid all toxic (insert noun), here is how to clean up your (insert noun).",
+    "urls": [
+      "https://www.instagram.com/p/C-AvGm9M0UA/"
+    ],
+    "placeholders": [
+      "(insert noun)"
+    ]
+  },
+  {
+    "id": 201,
+    "category": "EDUCATIONAL",
+    "hook": "Here are # of questions I ask before (insert verb).",
+    "urls": [
+      "https://www.instagram.com/p/DFnkbJcPxqc/"
+    ],
+    "placeholders": [
+      "(insert verb)"
+    ]
+  },
+  {
+    "id": 202,
+    "category": "EDUCATIONAL",
+    "hook": "Since (insert noun) from (insert prace/location) are basically (insert fact), you might as well learn how to make them from home.",
+    "urls": [
+      "https://www.instagram.com/p/DFGc51Ly8v3/"
+    ],
+    "placeholders": [
+      "(insert noun)",
+      "(insert prace/location)",
+      "(insert fact)"
+    ]
+  },
+  {
+    "id": 203,
+    "category": "EDUCATIONAL",
+    "hook": "Every wonder how the same (insert noun) can result in drastically different (insert noun).",
+    "urls": [
+      "https://www.instagram.com/p/DDXkZs6vFMb/"
+    ],
+    "placeholders": [
+      "(insert noun)"
+    ]
+  },
+  {
+    "id": 204,
+    "category": "EDUCATIONAL",
+    "hook": "Here's what to look for when buying (insert noun) in (insert location).",
+    "urls": [
+      "https://www.instagram.com/p/DGgSRpFuIjD/"
+    ],
+    "placeholders": [
+      "(insert noun)",
+      "(insert location)"
+    ]
+  },
+  {
+    "id": 205,
+    "category": "EDUCATIONAL",
+    "hook": "If your (insert noun) look like this, and this pay attention.",
+    "urls": [
+      "https://www.instagram.com/p/DIaTxoIJvRL/"
+    ],
+    "placeholders": [
+      "(insert noun)"
+    ]
+  },
+  {
+    "id": 206,
+    "category": "EDUCATIONAL",
+    "hook": "Today I am going to show you have to make the perfect (insert noun) because I went to (insert school) so you don't have to.",
+    "urls": [
+      "https://www.instagram.com/p/DFMzB5sO4TF/"
+    ],
+    "placeholders": [
+      "(insert noun)",
+      "(insert school)"
+    ]
+  },
+  {
+    "id": 207,
+    "category": "EDUCATIONAL",
+    "hook": "It took me # full hours to (insert verb) this (insert noun) and I originally allotted myself # minutes.",
+    "urls": [
+      "https://www.instagram.com/p/C_s9bBHxACz/"
+    ],
+    "placeholders": [
+      "(insert verb)",
+      "(insert noun)"
+    ]
+  },
+  {
+    "id": 208,
+    "category": "EDUCATIONAL",
+    "hook": "(Insert noun) (insert noun) (insert noun) where the 3 themes for this (insert noun). And you guys I delivered.",
+    "urls": [
+      "https://www.instagram.com/p/DFQmtK9x_w_/"
+    ],
+    "placeholders": [
+      "(Insert noun)",
+      "(insert noun)"
+    ]
+  },
+  {
+    "id": 209,
+    "category": "EDUCATIONAL",
+    "hook": "Take your (insert noun) from this to this.",
+    "urls": [
+      "https://www.instagram.com/p/DHl84zXOnWK/"
+    ],
+    "placeholders": [
+      "(insert noun)"
+    ]
+  },
+  {
+    "id": 210,
+    "category": "EDUCATIONAL",
+    "hook": "I have to ask, girl, how do you (insert adjective) so good?",
+    "urls": [
+      "https://www.instagram.com/p/DEnNQCEv0S6/"
+    ],
+    "placeholders": [
+      "(insert adjective)"
+    ]
+  },
+  {
+    "id": 211,
+    "category": "EDUCATIONAL",
+    "hook": "I got to (insert verb) for (insert noun) (insert time), but let me just (insert verb) for a bit.",
+    "urls": [
+      "https://www.instagram.com/p/DEgLL4XOMGi/"
+    ],
+    "placeholders": [
+      "(insert verb)",
+      "(insert noun)",
+      "(insert time)"
+    ]
+  },
+  {
+    "id": 212,
+    "category": "EDUCATIONAL",
+    "hook": "Give me 10 seconds and I will let you know what one suits you best.",
+    "urls": [
+      "https://www.instagram.com/p/DGsHot9xC6R/"
+    ],
+    "placeholders": []
+  },
+  {
+    "id": 213,
+    "category": "EDUCATIONAL",
+    "hook": "Give me 10 seconds and I will let you know if you have a (insert noun) or a (insert noun).",
+    "urls": [
+      "https://www.instagram.com/p/DH-d8R2xUkT/"
+    ],
+    "placeholders": [
+      "(insert noun)"
+    ]
+  },
+  {
+    "id": 214,
+    "category": "EDUCATIONAL",
+    "hook": "Anyone even notice how some people look naturally (insert adjective) without doing anything crazy.",
+    "urls": [
+      "https://www.instagram.com/p/DDKn9iXPSOS/"
+    ],
+    "placeholders": [
+      "(insert adjective)"
+    ]
+  },
+  {
+    "id": 215,
+    "category": "EDUCATIONAL",
+    "hook": "If you've ever secretly (insert action) and hope no one noticed this is for you.",
+    "urls": [
+      "https://www.instagram.com/p/DIUEhBYOica/"
+    ],
+    "placeholders": [
+      "(insert action)"
+    ]
+  },
+  {
+    "id": 216,
+    "category": "EDUCATIONAL",
+    "hook": "Today we are going to play did you know (insert noun) edition.",
+    "urls": [
+      "https://www.instagram.com/p/DDsm8Cny941/"
+    ],
+    "placeholders": [
+      "(insert noun)"
+    ]
+  },
+  {
+    "id": 217,
+    "category": "EDUCATIONAL",
+    "hook": "If this is your first time being (insert adjective) I am (insert name) and I am trying to make it (insert adjective) to (insert verb) by using (insert noun).",
+    "urls": [
+      "https://www.instagram.com/p/DIFlyqrtHSg/"
+    ],
+    "placeholders": [
+      "(insert adjective)",
+      "(insert name)",
+      "(insert verb)",
+      "(insert noun)"
+    ]
+  },
+  {
+    "id": 218,
+    "category": "EDUCATIONAL",
+    "hook": "My (insert noun) never (insert pain point) no matter what I do.",
+    "urls": [
+      "https://www.instagram.com/p/DBeJWwWOtMw/"
+    ],
+    "placeholders": [
+      "(insert noun)",
+      "(insert pain point)"
+    ]
+  },
+  {
+    "id": 219,
+    "category": "EDUCATIONAL",
+    "hook": "(insert noun) level 1.",
+    "urls": [
+      "https://www.instagram.com/p/DFvT9fMIoE6/"
+    ],
+    "placeholders": [
+      "(insert noun)"
+    ]
+  },
+  {
+    "id": 220,
+    "category": "EDUCATIONAL",
+    "hook": "Here are # of ways to make (insert noun).",
+    "urls": [
+      "https://www.instagram.com/p/DGg2PpYpPsD/"
+    ],
+    "placeholders": [
+      "(insert noun)"
+    ]
+  },
+  {
+    "id": 221,
+    "category": "EDUCATIONAL",
+    "hook": "Those little (insert nouns) are called (insert name) I am a (insert title) and I am going to show you how (insert result).",
+    "urls": [
+      "https://www.instagram.com/p/DGrS_7YRUo7/"
+    ],
+    "placeholders": [
+      "(insert nouns)",
+      "(insert name)",
+      "(insert title)",
+      "(insert result)"
+    ]
+  },
+  {
+    "id": 222,
+    "category": "EDUCATIONAL",
+    "hook": "You want to know why it takes (insert noun) to get (insert result) again.",
+    "urls": [
+      "https://www.instagram.com/p/DHLps0HiJ2L/"
+    ],
+    "placeholders": [
+      "(insert noun)",
+      "(insert result)"
+    ]
+  },
+  {
+    "id": 223,
+    "category": "EDUCATIONAL",
+    "hook": "If your (insert noun) goes (insert result) when you (insert verb) while (insert noun) and (insert adjective) really (insert result) by now you know you have (insert noun) so why aren't you doing a (insert noun) routine.",
+    "urls": [
+      "https://www.instagram.com/p/DHGaZL2uwW0/"
+    ],
+    "placeholders": [
+      "(insert noun)",
+      "(insert result)",
+      "(insert verb)",
+      "(insert adjective)"
+    ]
+  },
+  {
+    "id": 224,
+    "category": "EDUCATIONAL",
+    "hook": "If your (insert noun) is (insert adjective) like this, you are likely (insert diagnosis).",
+    "urls": [
+      "https://www.instagram.com/p/DAbxF7ZSHq0/"
+    ],
+    "placeholders": [
+      "(insert noun)",
+      "(insert adjective)",
+      "(insert diagnosis)"
+    ]
+  },
+  {
+    "id": 225,
+    "category": "EDUCATIONAL",
+    "hook": "Stop buying your (insert noun) like this, and start buying them like this.",
+    "urls": [
+      "https://www.instagram.com/p/DE5ONXRsxs3/"
+    ],
+    "placeholders": [
+      "(insert noun)"
+    ]
+  },
+  {
+    "id": 226,
+    "category": "EDUCATIONAL",
+    "hook": "Did you know this tip, it's going to blow your mind.",
+    "urls": [
+      "https://www.instagram.com/p/DHRrPveSTcg/"
+    ],
+    "placeholders": []
+  },
+  {
+    "id": 227,
+    "category": "EDUCATIONAL",
+    "hook": "If I (insert action) right now would you believe me if I told you (insert truth).",
+    "urls": [
+      "https://www.instagram.com/p/DCcIsddvdu-/"
+    ],
+    "placeholders": [
+      "(insert action)",
+      "(insert truth)"
+    ]
+  },
+  {
+    "id": 228,
+    "category": "EDUCATIONAL",
+    "hook": "This is what (insert noun) looks like. I am a pro (insert title) and this is the proper way to (insert action).",
+    "urls": [
+      "https://www.instagram.com/p/DEnW3Mmvswc/"
+    ],
+    "placeholders": [
+      "(insert noun)",
+      "(insert title)",
+      "(insert action)"
+    ]
+  },
+  {
+    "id": 229,
+    "category": "EDUCATIONAL",
+    "hook": "Does it actually matter what type of (insert noun) you use.",
+    "urls": [
+      "https://www.instagram.com/p/DHMtL1GSsy-/"
+    ],
+    "placeholders": [
+      "(insert noun)"
+    ]
+  },
+  {
+    "id": 230,
+    "category": "EDUCATIONAL",
+    "hook": "You would need to (insert verb) (insert number) (insert noun) today to get the same (insert result) you grandparents obtained from just (insert verb) (insert number).",
+    "urls": [
+      "https://www.instagram.com/p/DC4dQVdPuUS/"
+    ],
+    "placeholders": [
+      "(insert verb)",
+      "(insert number)",
+      "(insert noun)",
+      "(insert result)"
+    ]
+  },
+  {
+    "id": 231,
+    "category": "EDUCATIONAL",
+    "hook": "Let's (insert verb) our (insert noun).",
+    "urls": [
+      "https://www.instagram.com/p/DHvgHMqRVWI/"
+    ],
+    "placeholders": [
+      "(insert verb)",
+      "(insert noun)"
+    ]
+  },
+  {
+    "id": 232,
+    "category": "EDUCATIONAL",
+    "hook": "This is what you would (insert verb) for (insert person) if you weren't terrified to talk to them.",
+    "urls": [
+      "https://www.instagram.com/p/C8FTNDKualt/"
+    ],
+    "placeholders": [
+      "(insert verb)",
+      "(insert person)"
+    ]
+  },
+  {
+    "id": 233,
+    "category": "EDUCATIONAL",
+    "hook": "When making (insert noun) the (insert noun) is just as important as the (insert noun).",
+    "urls": [
+      "https://www.instagram.com/p/DDz9y_yyCkz/"
+    ],
+    "placeholders": [
+      "(insert noun)"
+    ]
+  },
+  {
+    "id": 234,
+    "category": "EDUCATIONAL",
+    "hook": "Today I am going to show you the # most common ways to order your (insert noun) at a (insert place/location).",
+    "urls": [
+      "https://www.instagram.com/p/DD9tTgdCq_N/"
+    ],
+    "placeholders": [
+      "(insert noun)",
+      "(insert place/location)"
+    ]
+  },
+  {
+    "id": 235,
+    "category": "EDUCATIONAL",
+    "hook": "Guys this is so nerdy but it's the coolest thing I have ever done with my (insert noun).",
+    "urls": [
+      "https://www.instagram.com/p/DFpcFScJxjW/"
+    ],
+    "placeholders": [
+      "(insert noun)"
+    ]
+  },
+  {
+    "id": 236,
+    "category": "EDUCATIONAL",
+    "hook": "(insert noun), (insert noun), (insert noun), makes a (insert noun).",
+    "urls": [
+      "https://www.instagram.com/p/DGB30hXBY7K/"
+    ],
+    "placeholders": [
+      "(insert noun)"
+    ]
+  },
+  {
+    "id": 237,
+    "category": "EDUCATIONAL",
+    "hook": "Here are # of (insert noun) from across the world, let's break them down to their core components.",
+    "urls": [
+      "https://www.instagram.com/p/DG39EdnJxuK/"
+    ],
+    "placeholders": [
+      "(insert noun)"
+    ]
+  },
+  {
+    "id": 238,
+    "category": "EDUCATIONAL",
+    "hook": "There are way too many (insert noun) in the world that sort of all look that same, but are they?",
+    "urls": [
+      "https://www.instagram.com/p/DGojr4HBH4d/"
+    ],
+    "placeholders": [
+      "(insert noun)"
+    ]
+  },
+  {
+    "id": 239,
+    "category": "EDUCATIONAL",
+    "hook": "(insert noun), (insert noun), (insert noun), are the basic components of a (insert noun).",
+    "urls": [
+      "https://www.instagram.com/p/DFJYlNVIzSa/"
+    ],
+    "placeholders": [
+      "(insert noun)"
+    ]
+  },
+  {
+    "id": 240,
+    "category": "EDUCATIONAL",
+    "hook": "Here's a little (insert noun) 101 for you.",
+    "urls": [
+      "https://www.instagram.com/p/DIloBsPuj-B/"
+    ],
+    "placeholders": [
+      "(insert noun)"
+    ]
+  },
+  {
+    "id": 241,
+    "category": "EDUCATIONAL",
+    "hook": "These are the 3 most common mistakes I see when people are making (insert noun).",
+    "urls": [
+      "https://www.instagram.com/p/DF9FMnIJpNJ/"
+    ],
+    "placeholders": [
+      "(insert noun)"
+    ]
+  },
+  {
+    "id": 242,
+    "category": "EDUCATIONAL",
+    "hook": "A quick guide to (insert verb) (insert noun) some basic and some unusual.",
+    "urls": [
+      "https://www.instagram.com/p/DCPkRMtodQd/"
+    ],
+    "placeholders": [
+      "(insert verb)",
+      "(insert noun)"
+    ]
+  },
+  {
+    "id": 243,
+    "category": "EDUCATIONAL",
+    "hook": "I see so many people using their (insert noun) just like this or maybe like this even when you (insert action). So let me show you the trick to perfectly (insert action).",
+    "urls": [
+      "https://www.instagram.com/p/DETUL1KR3U_/"
+    ],
+    "placeholders": [
+      "(insert noun)",
+      "(insert action)"
+    ]
+  },
+  {
+    "id": 244,
+    "category": "EDUCATIONAL",
+    "hook": "Here's how the form of (insert noun) you add into (insert noun) affects them.",
+    "urls": [
+      "https://www.instagram.com/p/DD-sH_PPLJ4/"
+    ],
+    "placeholders": [
+      "(insert noun)"
+    ]
+  },
+  {
+    "id": 245,
+    "category": "EDUCATIONAL",
+    "hook": "Why (insert action) like a normal person, when you can be a psycho instead.",
+    "urls": [
+      "https://www.instagram.com/p/DGRrGUKPoZb/"
+    ],
+    "placeholders": [
+      "(insert action)"
+    ]
+  },
+  {
+    "id": 246,
+    "category": "EDUCATIONAL",
+    "hook": "This is everything I got for free on my (insert event).",
+    "urls": [
+      "https://www.instagram.com/p/DGTqgBAxh3d/"
+    ],
+    "placeholders": [
+      "(insert event)"
+    ]
+  },
+  {
+    "id": 247,
+    "category": "EDUCATIONAL",
+    "hook": "(insert noun) is my second (insert noun) so here are # of (insert noun) that I used to do a lot and I recommend my students as well.",
+    "urls": [
+      "https://www.instagram.com/p/DFfX1XQTzfP/"
+    ],
+    "placeholders": [
+      "(insert noun)"
+    ]
+  },
+  {
+    "id": 248,
+    "category": "EDUCATIONAL",
+    "hook": "If you gave me (insert time frame) to get a job as a (insert title) this is what I would do.",
+    "urls": [
+      "https://www.instagram.com/p/DHAewSpJVWu/"
+    ],
+    "placeholders": [
+      "(insert time frame)",
+      "(insert title)"
+    ]
+  },
+  {
+    "id": 249,
+    "category": "EDUCATIONAL",
+    "hook": "Did you know if you have a (insert noun), (insert noun), (insert noun), (insert noun), (insert noun) then you can (insert dream result).",
+    "urls": [
+      "https://www.instagram.com/p/DGiv5Q0M1-Q/"
+    ],
+    "placeholders": [
+      "(insert noun)",
+      "(insert dream result)"
+    ]
+  },
+  {
+    "id": 250,
+    "category": "EDUCATIONAL",
+    "hook": "If you're the person who told me this I could kiss you right now because it literally saved my life.",
+    "urls": [
+      "https://www.instagram.com/p/DIhOAUAPRMo/"
+    ],
+    "placeholders": []
+  },
+  {
+    "id": 251,
+    "category": "EDUCATIONAL",
+    "hook": "I bought all the (insert noun) so you could find out which are the best in each category and which is not worth your money.",
+    "urls": [
+      "https://www.instagram.com/p/DFtu2nnyrTW/"
+    ],
+    "placeholders": [
+      "(insert noun)"
+    ]
+  },
+  {
+    "id": 252,
+    "category": "EDUCATIONAL",
+    "hook": "Here's how I get people the best (insert noun) on (insert noun).",
+    "urls": [
+      "https://www.instagram.com/p/DIhq7P8PguS/"
+    ],
+    "placeholders": [
+      "(insert noun)"
+    ]
+  },
+  {
+    "id": 253,
+    "category": "EDUCATIONAL",
+    "hook": "Did you know that there are # types of (insert noun).",
+    "urls": [
+      "https://www.instagram.com/p/DIANQRkyYLb/"
+    ],
+    "placeholders": [
+      "(insert noun)"
+    ]
+  },
+  {
+    "id": 254,
+    "category": "EDUCATIONAL",
+    "hook": "Here's how you can guess an almost perfect number every single time.",
+    "urls": [
+      "https://www.instagram.com/p/DEDbAV7tpX5/"
+    ],
+    "placeholders": []
+  },
+  {
+    "id": 255,
+    "category": "EDUCATIONAL",
+    "hook": "Here is how I make (insert noun) that lasts up to (insert time frame) and only costs (insert $).",
+    "urls": [
+      "https://www.instagram.com/p/DG_4uqYOrJ_/"
+    ],
+    "placeholders": [
+      "(insert noun)",
+      "(insert time frame)",
+      "(insert $)"
+    ]
+  },
+  {
+    "id": 256,
+    "category": "EDUCATIONAL",
+    "hook": "I teach (insert noun) to people like they are in kindergarten, and it's time for class.",
+    "urls": [
+      "https://www.instagram.com/p/C-k_-Yev6DU/"
+    ],
+    "placeholders": [
+      "(insert noun)"
+    ]
+  },
+  {
+    "id": 257,
+    "category": "EDUCATIONAL",
+    "hook": "(insert noun) can be reversed so let's talk about # things you can do to improve your (insert noun).",
+    "urls": [
+      "https://www.instagram.com/p/DG9UDAUShLs/"
+    ],
+    "placeholders": [
+      "(insert noun)"
+    ]
+  },
+  {
+    "id": 258,
+    "category": "EDUCATIONAL",
+    "hook": "This is how much (insert noun) you would lose at the end of the day with a (insert metric) (insert noun).",
+    "urls": [
+      "https://www.instagram.com/p/DFFuLlcK9j4/"
+    ],
+    "placeholders": [
+      "(insert noun)",
+      "(insert metric)"
+    ]
+  },
+  {
+    "id": 259,
+    "category": "EDUCATIONAL",
+    "hook": "Did you know your (insert noun) are programmed to make your (insert result).",
+    "urls": [
+      "https://www.instagram.com/p/DGcvCDdvEZ2/"
+    ],
+    "placeholders": [
+      "(insert noun)",
+      "(insert result)"
+    ]
+  },
+  {
+    "id": 260,
+    "category": "EDUCATIONAL",
+    "hook": "This might be the ultimate (insert person) hack.",
+    "urls": [
+      "https://www.instagram.com/p/DGYjc0dxhU-/"
+    ],
+    "placeholders": [
+      "(insert person)"
+    ]
+  },
+  {
+    "id": 261,
+    "category": "EDUCATIONAL",
+    "hook": "To (insert verb) the (insert metric) in this (insert noun) the average would have to (insert action) for (insert time frame).",
+    "urls": [
+      "https://www.instagram.com/p/DFTappzSSBa/"
+    ],
+    "placeholders": [
+      "(insert verb)",
+      "(insert metric)",
+      "(insert noun)",
+      "(insert action)",
+      "(insert time frame)"
+    ]
+  },
+  {
+    "id": 262,
+    "category": "EDUCATIONAL",
+    "hook": "If you (insert verb) this (insert noun) this is the amount of (insert noun) your body would (insert result).",
+    "urls": [
+      "https://www.instagram.com/p/DFGDnHYg6hf/"
+    ],
+    "placeholders": [
+      "(insert verb)",
+      "(insert noun)",
+      "(insert result)"
+    ]
+  },
+  {
+    "id": 263,
+    "category": "EDUCATIONAL",
+    "hook": "The worst (insert noun) that you will regret buying for your (insert noun) is right here.",
+    "urls": [
+      "https://www.instagram.com/p/DGPLBgRtX_g/"
+    ],
+    "placeholders": [
+      "(insert noun)"
+    ]
+  },
+  {
+    "id": 264,
+    "category": "EDUCATIONAL",
+    "hook": "(insert noun) how to (insert action) and still (insert dream result).",
+    "urls": [
+      "https://www.instagram.com/p/DIwSdSiIr2d/"
+    ],
+    "placeholders": [
+      "(insert noun)",
+      "(insert action)",
+      "(insert dream result)"
+    ]
+  },
+  {
+    "id": 265,
+    "category": "EDUCATIONAL",
+    "hook": "Use this, to pay for this.",
+    "urls": [
+      "https://www.instagram.com/p/ChGIhcPPogC/"
+    ],
+    "placeholders": []
+  },
+  {
+    "id": 266,
+    "category": "EDUCATIONAL",
+    "hook": "I paid (insert $) to build this (insert noun) from scratch).",
+    "urls": [
+      "https://www.instagram.com/p/DFqGUjORxG4/"
+    ],
+    "placeholders": [
+      "(insert $)",
+      "(insert noun)"
+    ]
+  },
+  {
+    "id": 267,
+    "category": "EDUCATIONAL",
+    "hook": "If I told you, you would (insert result) form (insert action) you would probably believe me right? Well here's the thing…",
+    "urls": [
+      "https://www.instagram.com/p/DDfdDshTsXK/"
+    ],
+    "placeholders": [
+      "(insert result)",
+      "(insert action)"
+    ]
+  },
+  {
+    "id": 268,
+    "category": "EDUCATIONAL",
+    "hook": "How to budget with a (insert $) salary using this special (insert name) technique.",
+    "urls": [
+      "https://www.instagram.com/p/DDU0jMMN-gr/"
+    ],
+    "placeholders": [
+      "(insert $)",
+      "(insert name)"
+    ]
+  },
+  {
+    "id": 269,
+    "category": "EDUCATIONAL",
+    "hook": "I spent (insert $) on new (insert noun) for my (insert noun).",
+    "urls": [
+      "https://www.instagram.com/p/DGN72MwpsAB/"
+    ],
+    "placeholders": [
+      "(insert $)",
+      "(insert noun)"
+    ]
+  },
+  {
+    "id": 270,
+    "category": "EDUCATIONAL",
+    "hook": "Here's a quick what to (insert result) (insert metric) of you (insert noun) legally.",
+    "urls": [
+      "https://www.instagram.com/p/DDmhkgqO1FN/"
+    ],
+    "placeholders": [
+      "(insert result)",
+      "(insert metric)",
+      "(insert noun)"
+    ]
+  },
+  {
+    "id": 271,
+    "category": "EDUCATIONAL",
+    "hook": "(insert adjective) won't get this but hopefully you will.",
+    "urls": [
+      "https://www.instagram.com/p/DGOENqwSVC6/"
+    ],
+    "placeholders": [
+      "(insert adjective)"
+    ]
+  },
+  {
+    "id": 272,
+    "category": "EDUCATIONAL",
+    "hook": "This is the exact order in which you should be (insert verb) for all of your (insert noun).",
+    "urls": [
+      "https://www.instagram.com/p/DB4lAAPPbYZ/"
+    ],
+    "placeholders": [
+      "(insert verb)",
+      "(insert noun)"
+    ]
+  },
+  {
+    "id": 273,
+    "category": "EDUCATIONAL",
+    "hook": "Why is it we are all so stressed about (insert noun) but we also all have a (insert noun) in (insert location).",
+    "urls": [
+      "https://www.instagram.com/p/DFtSk25uUH_/"
+    ],
+    "placeholders": [
+      "(insert noun)",
+      "(insert location)"
+    ]
+  },
+  {
+    "id": 274,
+    "category": "EDUCATIONAL",
+    "hook": "Today my kids (insert noun) is due. So let's (insert action).",
+    "urls": [
+      "https://www.instagram.com/p/DEEFWvqttJd/"
+    ],
+    "placeholders": [
+      "(insert noun)",
+      "(insert action)"
+    ]
+  },
+  {
+    "id": 275,
+    "category": "EDUCATIONAL",
+    "hook": "There are # things I like to do when I buy a new (insert noun).",
+    "urls": [
+      "https://www.instagram.com/p/DGMg-VPtL98/"
+    ],
+    "placeholders": [
+      "(insert noun)"
+    ]
+  },
+  {
+    "id": 276,
+    "category": "EDUCATIONAL",
+    "hook": "Here are # of things you have been putting off around the house that you can get done in # minutes.",
+    "urls": [
+      "https://www.instagram.com/p/DEd9agVJsuO/"
+    ],
+    "placeholders": []
+  },
+  {
+    "id": 277,
+    "category": "EDUCATIONAL",
+    "hook": "Show me the method of the best way to (insert result).",
+    "urls": [
+      "https://www.instagram.com/p/DHxc_kEuDBo/"
+    ],
+    "placeholders": [
+      "(insert result)"
+    ]
+  },
+  {
+    "id": 278,
+    "category": "EDUCATIONAL",
+    "hook": "# things everyone needs to know how to fix in an (insert location).",
+    "urls": [
+      "https://www.instagram.com/p/DFbZEG2yJ1k/"
+    ],
+    "placeholders": [
+      "(insert location)"
+    ]
+  },
+  {
+    "id": 279,
+    "category": "EDUCATIONAL",
+    "hook": "Why does nobody talk about the cost of (insert action).",
+    "urls": [
+      "https://www.instagram.com/p/DIbM_TgS5se/"
+    ],
+    "placeholders": [
+      "(insert action)"
+    ]
+  },
+  {
+    "id": 280,
+    "category": "EDUCATIONAL",
+    "hook": "Top # ways not to (insert action) to the (insert person) you (insert noun).",
+    "urls": [
+      "https://www.instagram.com/p/DDqCq5hpH56/"
+    ],
+    "placeholders": [
+      "(insert action)",
+      "(insert person)",
+      "(insert noun)"
+    ]
+  },
+  {
+    "id": 281,
+    "category": "EDUCATIONAL",
+    "hook": "Top # deadliest (insert noun) that can kill (insert living thing) in one (insert verb).",
+    "urls": [
+      "https://www.instagram.com/reel/CyB9bKLOoyp/?igsh=YWJ2cm11Znl4cGZs"
+    ],
+    "placeholders": [
+      "(insert noun)",
+      "(insert living thing)",
+      "(insert verb)"
+    ]
+  },
+  {
+    "id": 282,
+    "category": "EDUCATIONAL",
+    "hook": "So this is (insert weight) of (insert noun) if I (insert verb) that to a (insert noun) what is that equivalent to for humans.",
+    "urls": [
+      "https://www.instagram.com/reel/DFhtYRTynQA/?igsh=dHlkZ29zdXNmODM1"
+    ],
+    "placeholders": [
+      "(insert weight)",
+      "(insert noun)",
+      "(insert verb)"
+    ]
+  },
+  {
+    "id": 283,
+    "category": "EDUCATIONAL",
+    "hook": "What is this? This is your (insert description of visual) and this is this #1 reason that (insert noun) die.",
+    "urls": [
+      "https://www.instagram.com/p/DDm0s8rsNV0/"
+    ],
+    "placeholders": [
+      "(insert description of visual)",
+      "(insert noun)"
+    ]
+  },
+  {
+    "id": 284,
+    "category": "EDUCATIONAL",
+    "hook": "The easiest way to keep you (insert noun) (insert adjective) is to pretend…",
+    "urls": [
+      "https://www.instagram.com/p/DDP6BaYxh8v/"
+    ],
+    "placeholders": [
+      "(insert noun)",
+      "(insert adjective)"
+    ]
+  },
+  {
+    "id": 285,
+    "category": "EDUCATIONAL",
+    "hook": "If you're wanting to transfer your (insert noun) from this into (insert noun).",
+    "urls": [
+      "https://www.instagram.com/p/DEAzDZxS0EH/"
+    ],
+    "placeholders": [
+      "(insert noun)"
+    ]
+  },
+  {
+    "id": 286,
+    "category": "EDUCATIONAL",
+    "hook": "Let's see how many (insert noun) we can get out of this.",
+    "urls": [
+      "https://www.instagram.com/p/DGZSeEvvepa/"
+    ],
+    "placeholders": [
+      "(insert noun)"
+    ]
+  },
+  {
+    "id": 287,
+    "category": "EDUCATIONAL",
+    "hook": "This was the most popular (insert noun) in all of (insert year).",
+    "urls": [
+      "https://www.instagram.com/p/DFT4wGoPISG/"
+    ],
+    "placeholders": [
+      "(insert noun)",
+      "(insert year)"
+    ]
+  },
+  {
+    "id": 288,
+    "category": "EDUCATIONAL",
+    "hook": "Did you know that you could (insert verb) a year's worth of (insert noun) in (insert time frame).",
+    "urls": [
+      "https://www.instagram.com/p/DDQwKwgx4iX/"
+    ],
+    "placeholders": [
+      "(insert verb)",
+      "(insert noun)",
+      "(insert time frame)"
+    ]
+  },
+  {
+    "id": 289,
+    "category": "EDUCATIONAL",
+    "hook": "That is crazy.",
+    "urls": [
+      "https://www.instagram.com/reel/DEluu94R-dc/?igsh=ZHF4MXBod2pnODMx"
+    ],
+    "placeholders": []
+  },
+  {
+    "id": 290,
+    "category": "EDUCATIONAL",
+    "hook": "Give me 60 seconds to show you how to (insert action) for the first time after (insert life event).",
+    "urls": [
+      "https://www.instagram.com/reel/DC8EmdBPqWT/?igsh=MTAyNTFobmFzenY1eg=="
+    ],
+    "placeholders": [
+      "(insert action)",
+      "(insert life event)"
+    ]
+  },
+  {
+    "id": 291,
+    "category": "EDUCATIONAL",
+    "hook": "Want a (insert noun) that (insert dream result) even when you (insert action).",
+    "urls": [
+      "https://www.instagram.com/reel/DGMiUGoPLmU/?igsh=ZDR4czk2ZzNnMHYy"
+    ],
+    "placeholders": [
+      "(insert noun)",
+      "(insert dream result)",
+      "(insert action)"
+    ]
+  },
+  {
+    "id": 292,
+    "category": "EDUCATIONAL",
+    "hook": "Mom/Dad of # of kids, here is how I treat being a mom/dad as a job.",
+    "urls": [
+      "https://www.instagram.com/reel/Cx568_TA6DP/?igsh=aXhrb3phdmV6bDk3"
+    ],
+    "placeholders": []
+  },
+  {
+    "id": 293,
+    "category": "EDUCATIONAL",
+    "hook": "# minutes ago (insert pain point) and had (insert pain point) if you want to (insert dream result), here is how you do it under # minutes.",
+    "urls": [
+      "https://www.instagram.com/reel/DFp0aJjuEqW/?igsh=d2t5OTl0d2FsNGIx"
+    ],
+    "placeholders": [
+      "(insert pain point)",
+      "(insert dream result)"
+    ]
+  },
+  {
+    "id": 294,
+    "category": "EDUCATIONAL",
+    "hook": "If you have a (insert noun) in your house and a (insert noun) I am going to show you guys the # of the best things we did to (insert dream outcome).",
+    "urls": [
+      "https://www.instagram.com/reel/DHe4tCOyyJP/?igsh=am9scXViZGtwcjBp"
+    ],
+    "placeholders": [
+      "(insert noun)",
+      "(insert dream outcome)"
+    ]
+  },
+  {
+    "id": 295,
+    "category": "EDUCATIONAL",
+    "hook": "If I could suggest any tip to any (insert person) out these it would be this.",
+    "urls": [
+      "https://www.instagram.com/reel/DFBFcSLSgHL/?igsh=OXY0b2d2YjRlaTJt"
+    ],
+    "placeholders": [
+      "(insert person)"
+    ]
+  },
+  {
+    "id": 296,
+    "category": "EDUCATIONAL",
+    "hook": "If you want to do this in (insert year). If you want (insert dream result) you have 3 main options to make it happen. I am going to go over them right now.",
+    "urls": [
+      "https://www.instagram.com/reel/DEX6xCiPIqQ/?igsh=ZnR4cXQyeXdzeTl5"
+    ],
+    "placeholders": [
+      "(insert year)",
+      "(insert dream result)"
+    ]
+  },
+  {
+    "id": 297,
+    "category": "EDUCATIONAL",
+    "hook": "Your (insert noun) is to (insert adjective) and (insert adjective). Here are # of (insert noun) to (insert result).",
+    "urls": [
+      "https://www.instagram.com/reel/DEKxvNauJNa/?igsh=dGQzaW41MGVva3p5"
+    ],
+    "placeholders": [
+      "(insert noun)",
+      "(insert adjective)",
+      "(insert result)"
+    ]
+  },
+  {
+    "id": 298,
+    "category": "EDUCATIONAL",
+    "hook": "If you (insert verb) and (insert action) and it doesn't (insert result) it's time to (insert action).",
+    "urls": [
+      "https://www.instagram.com/reel/DDxwEtsyLDo/?igsh=MTA0cTFrN3gzbHU0eQ=="
+    ],
+    "placeholders": [
+      "(insert verb)",
+      "(insert action)",
+      "(insert result)"
+    ]
+  },
+  {
+    "id": 299,
+    "category": "EDUCATIONAL",
+    "hook": "I just made over # of (insert noun) in under (insert time) and I will show you how I did it.",
+    "urls": [
+      "https://www.instagram.com/reel/DFhLiCCRCxz/?igsh=emhjdHVhdHFwM3lo"
+    ],
+    "placeholders": [
+      "(insert noun)",
+      "(insert time)"
+    ]
+  },
+  {
+    "id": 300,
+    "category": "EDUCATIONAL",
+    "hook": "If you want to add (insert noun) to you (insert noun) in (insert year) and you don't know what (insert noun) to get I got you.",
+    "urls": [
+      "https://www.instagram.com/reel/DF82wujO17l/?igsh=MWd3ZGR4NWRtN3F2eg=="
+    ],
+    "placeholders": [
+      "(insert noun)",
+      "(insert year)"
+    ]
+  },
+  {
+    "id": 301,
+    "category": "EDUCATIONAL",
+    "hook": "If you storing your (insert noun) in (insert noun) stop what you're doing and watch this video.",
+    "urls": [
+      "https://www.instagram.com/reel/DE0ZdAMpZpp/?igsh=MWlubWdoMTZidGxyZA=="
+    ],
+    "placeholders": [
+      "(insert noun)"
+    ]
+  },
+  {
+    "id": 302,
+    "category": "EDUCATIONAL",
+    "hook": "We spent $ of (insert noun) for our family of #, and this will last us (insert time frame).",
+    "urls": [
+      "https://www.instagram.com/reel/DGPAOVtgP2p/?igsh=cW1sYXI2ajh3b24="
+    ],
+    "placeholders": [
+      "(insert noun)",
+      "(insert time frame)"
+    ]
+  },
+  {
+    "id": 303,
+    "category": "EDUCATIONAL",
+    "hook": "People always ask me (insert name) (insert fact) (insert question) well, let's find out.",
+    "urls": [
+      "https://www.instagram.com/reel/DDkR4liv0sV/?igsh=MWNqZGcycDk4Z2c1Zw=="
+    ],
+    "placeholders": [
+      "(insert name)",
+      "(insert fact)",
+      "(insert question)"
+    ]
+  },
+  {
+    "id": 304,
+    "category": "EDUCATIONAL",
+    "hook": "If you're wondering why when you (insert action) and don't (insert result). Then proceed to (insert action) and (insert result). It's because you are not doing this.",
+    "urls": [
+      "https://www.instagram.com/reel/DEbPfOAs0Jj/?igsh=ZXcwZGlzamxiY3J3"
+    ],
+    "placeholders": [
+      "(insert action)",
+      "(insert result)"
+    ]
+  },
+  {
+    "id": 305,
+    "category": "EDUCATIONAL",
+    "hook": "Whatever you do, do not let you (insert person) (insert action).",
+    "urls": [
+      "https://www.instagram.com/reel/DFvEpXyMsWi/?igsh=cjJtZ20zenNhdTh2"
+    ],
+    "placeholders": [
+      "(insert person)",
+      "(insert action)"
+    ]
+  },
+  {
+    "id": 306,
+    "category": "EDUCATIONAL",
+    "hook": "I am sick of hearing this word (insert word).",
+    "urls": [
+      "https://www.instagram.com/reel/DGyTRjPs-tM/?igsh=MW02MDcwNXppdDJ6OQ=="
+    ],
+    "placeholders": [
+      "(insert word)"
+    ]
+  },
+  {
+    "id": 307,
+    "category": "EDUCATIONAL",
+    "hook": "It starts off like this…",
+    "urls": [
+      "https://www.instagram.com/reel/DC8xcCbJVSw/?igsh=MWx1YzNobWpud3Qydw=="
+    ],
+    "placeholders": []
+  },
+  {
+    "id": 308,
+    "category": "EDUCATIONAL",
+    "hook": "After (insert time frame) of research here is why I choose (insert noun) and started (insert action).",
+    "urls": [
+      "https://www.instagram.com/reel/DDcNdiARaeE/?igsh=MWdtaTluNHhhemxvbA=="
+    ],
+    "placeholders": [
+      "(insert time frame)",
+      "(insert noun)",
+      "(insert action)"
+    ]
+  },
+  {
+    "id": 309,
+    "category": "EDUCATIONAL",
+    "hook": "Does your (insert person) (insert action) like this?",
+    "urls": [
+      "https://www.instagram.com/reel/DEKcWm2Ipy-/?igsh=Ym5hcno0NXM2Ymwz"
+    ],
+    "placeholders": [
+      "(insert person)",
+      "(insert action)"
+    ]
+  },
+  {
+    "id": 310,
+    "category": "EDUCATIONAL",
+    "hook": "If you have a (insert person) at home, then (insert action) will dramatically change their (insert noun).",
+    "urls": [
+      "https://www.instagram.com/reel/DGqD6D4hoJq/?igsh=MXJkbG92Mjl1andzbg=="
+    ],
+    "placeholders": [
+      "(insert person)",
+      "(insert action)",
+      "(insert noun)"
+    ]
+  },
+  {
+    "id": 311,
+    "category": "EDUCATIONAL",
+    "hook": "I built this (insert noun) for (insert $).",
+    "urls": [
+      "https://www.instagram.com/reel/DDANx1BxN_O/?igsh=ZzdwODhsdHV4Ymp2"
+    ],
+    "placeholders": [
+      "(insert noun)",
+      "(insert $)"
+    ]
+  },
+  {
+    "id": 312,
+    "category": "EDUCATIONAL",
+    "hook": "I bought this (insert noun) for (insert $) and let me show you what I did next.",
+    "urls": [
+      "https://www.instagram.com/reel/DIABtwhxHX/?igsh=MXBjOWx1N2VjbDAzaQ=="
+    ],
+    "placeholders": [
+      "(insert noun)",
+      "(insert $)"
+    ]
+  },
+  {
+    "id": 313,
+    "category": "EDUCATIONAL",
+    "hook": "In (insert year) the (insert company/person) introduced the (insert noun).",
+    "urls": [
+      "https://www.instagram.com/reel/DIqAW_ARP4Y/?igsh=cXNqaDM5Mjd1eTQw"
+    ],
+    "placeholders": [
+      "(insert year)",
+      "(insert company/person)",
+      "(insert noun)"
+    ]
+  },
+  {
+    "id": 314,
+    "category": "EDUCATIONAL",
+    "hook": "Here's the only way I will ever (insert action).",
+    "urls": [
+      "https://www.instagram.com/reel/DIrAzqmhy1k/?igsh=MWIxb2syY2N2Y2dobA=="
+    ],
+    "placeholders": [
+      "(insert action)"
+    ]
+  },
+  {
+    "id": 315,
+    "category": "EDUCATIONAL",
+    "hook": "So I spent (insert $) at (insert store) on my last trip.",
+    "urls": [
+      "https://www.instagram.com/reel/DElNzz_u22g/?igsh=MTFhNXAyNmJucGJq"
+    ],
+    "placeholders": [
+      "(insert $)",
+      "(insert store)"
+    ]
+  },
+  {
+    "id": 316,
+    "category": "EDUCATIONAL",
+    "hook": "I turned one (insert noun) into # different (insert noun).",
+    "urls": [
+      "https://www.instagram.com/reel/DFD6TSypE2P/?igsh=NXJ1am00cG94ZnE1"
+    ],
+    "placeholders": [
+      "(insert noun)"
+    ]
+  },
+  {
+    "id": 317,
+    "category": "EDUCATIONAL",
+    "hook": "(insert company) did not sponsor me this year, so here is how to make their (insert noun) at home.",
+    "urls": [
+      "https://www.instagram.com/reel/DCkHvJ1z-al/?igsh=MWs4MHBvdHdvMnFpeA=="
+    ],
+    "placeholders": [
+      "(insert company)",
+      "(insert noun)"
+    ]
+  },
+  {
+    "id": 318,
+    "category": "EDUCATIONAL",
+    "hook": "Want a (insert person) who (insert dream result) every time, even when you don't (insert noun/action).",
+    "urls": [
+      "https://www.instagram.com/reel/DGhCeDQPmKV/?igsh=MWpxNHViZHFkaXVobA=="
+    ],
+    "placeholders": [
+      "(insert person)",
+      "(insert dream result)",
+      "(insert noun/action)"
+    ]
+  },
+  {
+    "id": 319,
+    "category": "EDUCATIONAL",
+    "hook": "It's (insert noun) season, so let's make a (insert noun) for your (insert person).",
+    "urls": [
+      "https://www.instagram.com/reel/DISbkqXJ5SD/?igsh=NTRvbzNtYnNtNnN5"
+    ],
+    "placeholders": [
+      "(insert noun)",
+      "(insert person)"
+    ]
+  },
+  {
+    "id": 320,
+    "category": "EDUCATIONAL",
+    "hook": "Your favorite (insert noun) hacks from (insert year).",
+    "urls": [
+      "https://www.instagram.com/reel/DDprbmqSyib/?igsh=MWFxeTBvbDltN3EyNw=="
+    ],
+    "placeholders": [
+      "(insert noun)",
+      "(insert year)"
+    ]
+  },
+  {
+    "id": 321,
+    "category": "EDUCATIONAL",
+    "hook": "# years as a (insert occupation) you guys still don't believe me when I say these things.",
+    "urls": [
+      "https://www.instagram.com/reel/DIAPFYlsfuX/?igsh=MWd4d3ZpaWpodXRpbQ=="
+    ],
+    "placeholders": [
+      "(insert occupation)"
+    ]
+  },
+  {
+    "id": 322,
+    "category": "EDUCATIONAL",
+    "hook": "It's wild to think (insert type of stores) still sell (insert noun) for (insert result). But not everyone knows they actually (insert result).",
+    "urls": [
+      "https://www.instagram.com/reel/DFV58iERvGm/?igsh=bmw0eXNhamZzZm54"
+    ],
+    "placeholders": [
+      "(insert type of stores)",
+      "(insert noun)",
+      "(insert result)"
+    ]
+  },
+  {
+    "id": 323,
+    "category": "EDUCATIONAL",
+    "hook": "I am not a DIY guy/girl but I am going to show you howI spent (insert $) to transform my (insert noun).",
+    "urls": [
+      "https://www.instagram.com/reel/DG8vTC4pie4/?igsh=cDI2aWtlc3ljMHZr"
+    ],
+    "placeholders": [
+      "(insert $)",
+      "(insert noun)"
+    ]
+  },
+  {
+    "id": 324,
+    "category": "EDUCATIONAL",
+    "hook": "3 (insert noun) we do not recommend for the first time (insert noun) owners/users.",
+    "urls": [
+      "https://www.instagram.com/reel/DB34v2osmcT/?igsh=MWdhOGJ6MzZ0aXVmcQ=="
+    ],
+    "placeholders": [
+      "(insert noun)"
+    ]
+  },
+  {
+    "id": 325,
+    "category": "EDUCATIONAL",
+    "hook": "How to stop (insert verb).",
+    "urls": [
+      "https://www.instagram.com/reel/C15ByRUp1Rv/?igsh=ZTR6ejYwdWY0YjUx"
+    ],
+    "placeholders": [
+      "(insert verb)"
+    ]
+  },
+  {
+    "id": 326,
+    "category": "EDUCATIONAL",
+    "hook": "People keep asking me what to do with (insert noun).",
+    "urls": [
+      "https://www.instagram.com/reel/DHTamvwsQu8/?igsh=MXd6OXU5NDJ4enJxZg=="
+    ],
+    "placeholders": [
+      "(insert noun)"
+    ]
+  },
+  {
+    "id": 327,
+    "category": "EDUCATIONAL",
+    "hook": "Does (insert noun) really kill (insert live thing).",
+    "urls": [
+      "https://www.instagram.com/reel/DCvxgmazwDW/?igsh=Y2pjMm1jeWI2MXZz"
+    ],
+    "placeholders": [
+      "(insert noun)",
+      "(insert live thing)"
+    ]
+  },
+  {
+    "id": 328,
+    "category": "EDUCATIONAL",
+    "hook": "I am going to show you how to (insert verb) your (insert noun) so they don't (insert pain point).",
+    "urls": [
+      "https://www.instagram.com/reel/DGWHu_rSbku/?igsh=MWxoMjl1azExZ29qZQ=="
+    ],
+    "placeholders": [
+      "(insert verb)",
+      "(insert noun)",
+      "(insert pain point)"
+    ]
+  },
+  {
+    "id": 329,
+    "category": "EDUCATIONAL",
+    "hook": "# things you should never put in the (insert noun).",
+    "urls": [
+      "https://www.instagram.com/reel/DDxoAs_TciE/?igsh=MWc4anZoZXl0ZTM3ZA=="
+    ],
+    "placeholders": [
+      "(insert noun)"
+    ]
+  },
+  {
+    "id": 330,
+    "category": "EDUCATIONAL",
+    "hook": "Almost everyone thinks they know how to (insert action).",
+    "urls": [
+      "https://www.instagram.com/reel/DA9e_qHyahV/?igsh=MW05NGd1bHJ0YnBycw=="
+    ],
+    "placeholders": [
+      "(insert action)"
+    ]
+  },
+  {
+    "id": 331,
+    "category": "EDUCATIONAL",
+    "hook": "Let's start by mixing (insert noun) and (insert noun) and I am going to give it a good shake. What happens?",
+    "urls": [
+      "https://www.instagram.com/reel/DBU47L9SRQ4/?igsh=MTNyMjBuNDVzc3Z2dA=="
+    ],
+    "placeholders": [
+      "(insert noun)"
+    ]
+  },
+  {
+    "id": 332,
+    "category": "EDUCATIONAL",
+    "hook": "Apparently if you…",
+    "urls": [
+      "https://www.instagram.com/reel/DFViUxyuruw/?igsh=MXhldXVhOWk2YmozZw=="
+    ],
+    "placeholders": []
+  },
+  {
+    "id": 333,
+    "category": "EDUCATIONAL",
+    "hook": "Let's get this brand new (insert noun) (insert action) so we can put it to good use.",
+    "urls": [
+      "https://www.instagram.com/reel/DH3cSc0Rs3X/?igsh=MW4xdnJrNTFoZHh5Zw=="
+    ],
+    "placeholders": [
+      "(insert noun)",
+      "(insert action)"
+    ]
+  },
+  {
+    "id": 334,
+    "category": "EDUCATIONAL",
+    "hook": "Throw out you (insert noun).",
+    "urls": [
+      "https://www.instagram.com/reel/DCVGFh9yqMK/?igsh=MXIzM3dmMGp6bXk0Ng=="
+    ],
+    "placeholders": [
+      "(insert noun)"
+    ]
+  },
+  {
+    "id": 335,
+    "category": "EDUCATIONAL",
+    "hook": "This one mistake can actually kill your (insert living thing).",
+    "urls": [
+      "https://www.instagram.com/reel/DGrhiv8zOQQ/?igsh=aTA5aWNpbGExb21n"
+    ],
+    "placeholders": [
+      "(insert living thing)"
+    ]
+  },
+  {
+    "id": 336,
+    "category": "EDUCATIONAL",
+    "hook": "This is kind of gross but I had to share.",
+    "urls": [
+      "https://www.instagram.com/reel/DG1lPtBS_Lh/?igsh=Z29oYzkzNXoyamMy"
+    ],
+    "placeholders": []
+  },
+  {
+    "id": 337,
+    "category": "EDUCATIONAL",
+    "hook": "(insert name), how do you (insert result)?",
+    "urls": [
+      "https://www.instagram.com/reel/DIZzqD9u-cJ/?igsh=NDF2aGFoemQyY2F3"
+    ],
+    "placeholders": [
+      "(insert name)",
+      "(insert result)"
+    ]
+  },
+  {
+    "id": 338,
+    "category": "EDUCATIONAL",
+    "hook": "We are going to text (insert noun), today on how (insert adjective) is it.",
+    "urls": [
+      "https://www.instagram.com/reel/DIRbQ9PvbTm/?igsh=MTB2ZWE5dzRtYjB2Mg=="
+    ],
+    "placeholders": [
+      "(insert noun)",
+      "(insert adjective)"
+    ]
+  },
+  {
+    "id": 339,
+    "category": "EDUCATIONAL",
+    "hook": "All you need is a (insert amount) of (insert noun) and you can turn (insert amount) of (insert noun) into (insert result).",
+    "urls": [
+      "https://www.instagram.com/reel/DH3Kn86stmI/?igsh=MjN5MWZwb3B1dGc3"
+    ],
+    "placeholders": [
+      "(insert amount)",
+      "(insert noun)",
+      "(insert result)"
+    ]
+  },
+  {
+    "id": 340,
+    "category": "EDUCATIONAL",
+    "hook": "Here are # (insert noun) that you should never (insert action).",
+    "urls": [
+      "https://www.instagram.com/reel/DG2_ufDxNQJ/?igsh=dHdyNHh6bDducTMw"
+    ],
+    "placeholders": [
+      "(insert noun)",
+      "(insert action)"
+    ]
+  },
+  {
+    "id": 341,
+    "category": "EDUCATIONAL",
+    "hook": "If I can't do it in one step, I am not doing it. This is the #1 most efficient way to (insert verb) (insert noun).",
+    "urls": [
+      "https://www.instagram.com/reel/DCK537Ry9-c/?igsh=MTZndGo0NzBhbDd5ZQ=="
+    ],
+    "placeholders": [
+      "(insert verb)",
+      "(insert noun)"
+    ]
+  },
+  {
+    "id": 342,
+    "category": "EDUCATIONAL",
+    "hook": "When (insert occurrence) you will probably need a better (insert noun) than this.",
+    "urls": [
+      "https://www.instagram.com/reel/DHzjcH2t5Rh/?igsh=NTRjNmo5NGFvczJ6"
+    ],
+    "placeholders": [
+      "(insert occurrence)",
+      "(insert noun)"
+    ]
+  },
+  {
+    "id": 343,
+    "category": "EDUCATIONAL",
+    "hook": "I found out why (insert noun) wasn't (insert result). So I am going to tell you what you're doing wrong.",
+    "urls": [
+      "https://www.instagram.com/reel/DH_Y1jnsjde/?igsh=MnZhZDJqM3BtMDFl"
+    ],
+    "placeholders": [
+      "(insert noun)",
+      "(insert result)"
+    ]
+  },
+  {
+    "id": 344,
+    "category": "EDUCATIONAL",
+    "hook": "This is the ultimate master trick to (insert result) in just # minutes.",
+    "urls": [
+      "https://www.instagram.com/reel/DHB1amjNDLk/?igsh=NWkxemthMXo5MWU1"
+    ],
+    "placeholders": [
+      "(insert result)"
+    ]
+  },
+  {
+    "id": 345,
+    "category": "EDUCATIONAL",
+    "hook": "Did you know you only need # of ingredients to make (insert noun).",
+    "urls": [
+      "https://www.instagram.com/reel/DEYRmDGRTaU/?igsh=dXc4ZnVjcm5pbWpn"
+    ],
+    "placeholders": [
+      "(insert noun)"
+    ]
+  },
+  {
+    "id": 346,
+    "category": "EDUCATIONAL",
+    "hook": "I am willing to bet, this (insert noun) is older than you.",
+    "urls": [
+      "https://www.instagram.com/reel/DEkn1RAxZur/?igsh=YXhvc3l1aGxiYmIw"
+    ],
+    "placeholders": [
+      "(insert noun)"
+    ]
+  },
+  {
+    "id": 347,
+    "category": "EDUCATIONAL",
+    "hook": "Did you know our chicken is dunked in chlorine?",
+    "urls": [
+      "https://www.instagram.com/reel/DGGSGPGOKMa/?igsh=cXFta2FoOGRkMDRz"
+    ],
+    "placeholders": []
+  },
+  {
+    "id": 348,
+    "category": "EDUCATIONAL",
+    "hook": "The viral (insert noun) hack that landed me in (insert news/magazine outlet).",
+    "urls": [
+      "https://www.instagram.com/reel/CzohD-xx_17/?igsh=MTJocjlmaW5vcWEzZg=="
+    ],
+    "placeholders": [
+      "(insert noun)",
+      "(insert news/magazine outlet)"
+    ]
+  },
+  {
+    "id": 349,
+    "category": "EDUCATIONAL",
+    "hook": "I am a # generation (insert title) and I hope this shows you why you should (insert action) when (insert task).",
+    "urls": [
+      "https://www.instagram.com/reel/DFOOvvaxdnT/?igsh=MTM5Z3JyMmU1MWJkcA=="
+    ],
+    "placeholders": [
+      "(insert title)",
+      "(insert action)",
+      "(insert task)"
+    ]
+  },
+  {
+    "id": 350,
+    "category": "EDUCATIONAL",
+    "hook": "Here are the # (insert noun) items you need to throw in the garbage right now.",
+    "urls": [
+      "https://www.instagram.com/reel/DDgfQ8CqiQA/?igsh=cGw3YXVrYXFhbXpx"
+    ],
+    "placeholders": [
+      "(insert noun)"
+    ]
+  },
+  {
+    "id": 351,
+    "category": "EDUCATIONAL",
+    "hook": "We're going to see if it's true, that (insert noun) are so filled with toxins that they don't burn when you hit them with a blow torch.",
+    "urls": [
+      "https://www.instagram.com/reel/DEn8q3Av5Qw/?igsh=ZjhrcmIxMXhpcGJ0"
+    ],
+    "placeholders": [
+      "(insert noun)"
+    ]
+  },
+  {
+    "id": 352,
+    "category": "EDUCATIONAL",
+    "hook": "Believe it or not, this simple device can prevent (insert pain point), (insert pain point), and (insert pain point).",
+    "urls": [
+      "https://www.instagram.com/reel/C9QruINS4JX/?igsh=MXF2MWd2OWVnZXFqMw=="
+    ],
+    "placeholders": [
+      "(insert pain point)"
+    ]
+  },
+  {
+    "id": 353,
+    "category": "EDUCATIONAL",
+    "hook": "Here's why I never use a (insert noun).",
+    "urls": [
+      "https://www.instagram.com/reel/DDK76uDzcV2/?igsh=aWV1cXd1NHp6c2U3"
+    ],
+    "placeholders": [
+      "(insert noun)"
+    ]
+  },
+  {
+    "id": 354,
+    "category": "EDUCATIONAL",
+    "hook": "Did you know you could take a (insert noun) like this, and quick (insert action).",
+    "urls": [
+      "https://www.instagram.com/reel/DHV1A68Rl1I/?igsh=aWl3bml2a2dnenF5"
+    ],
+    "placeholders": [
+      "(insert noun)",
+      "(insert action)"
+    ]
+  },
+  {
+    "id": 355,
+    "category": "EDUCATIONAL",
+    "hook": "Here are # (insert noun) as a (insert title) I would never own.",
+    "urls": [
+      "https://www.instagram.com/reel/DGOAQp_xX5D/?igsh=dHM1a3NrYXlsMXM1"
+    ],
+    "placeholders": [
+      "(insert noun)",
+      "(insert title)"
+    ]
+  },
+  {
+    "id": 356,
+    "category": "EDUCATIONAL",
+    "hook": "Want to find out what's hiding inside one of these (insert noun) when they are not properly maintenanced?",
+    "urls": [
+      "https://www.instagram.com/reel/DD3L0x_yzh5/?igsh=MXV6bWI2bngyeGF5cw=="
+    ],
+    "placeholders": [
+      "(insert noun)"
+    ]
+  },
+  {
+    "id": 357,
+    "category": "EDUCATIONAL",
+    "hook": "What I eat in a day on the (insert noun) diet.",
+    "urls": [
+      "https://www.instagram.com/reel/DELePTnSGAD/?igsh=MWVwaHR5dmwwdG9qOQ=="
+    ],
+    "placeholders": [
+      "(insert noun)"
+    ]
+  },
+  {
+    "id": 358,
+    "category": "EDUCATIONAL",
+    "hook": "These are # of (insert noun) I would not own as a (insert title).",
+    "urls": [
+      "https://www.instagram.com/reel/DFF6w_INWWc/?igsh=ZXJ3OHp4c3VsbGVy"
+    ],
+    "placeholders": [
+      "(insert noun)",
+      "(insert title)"
+    ]
+  },
+  {
+    "id": 359,
+    "category": "EDUCATIONAL",
+    "hook": "You should be able to look at her/his (insert noun) and see if come up to her/his (insert noun) here.",
+    "urls": [
+      "https://www.instagram.com/reel/DIj99kYuTk0/?igsh=dGpkamZyMmhvYnF1"
+    ],
+    "placeholders": [
+      "(insert noun)"
+    ]
+  },
+  {
+    "id": 360,
+    "category": "EDUCATIONAL",
+    "hook": "If you see (insert symptom), (insert symptom) especially on a (insert type of noun) you better worry about what's called (insert name).",
+    "urls": [
+      "https://www.instagram.com/reel/DCkmbAcx2zN/?igsh=MTZkcmIyMHV4bDR4cQ=="
+    ],
+    "placeholders": [
+      "(insert symptom)",
+      "(insert type of noun)",
+      "(insert name)"
+    ]
+  },
+  {
+    "id": 361,
+    "category": "EDUCATIONAL",
+    "hook": "If you have a (insert noun) and you see that the (insert noun) is (insert observation) that's a dead giveaway that they are (insert action).",
+    "urls": [
+      "https://www.instagram.com/reel/DBZtE6ERLOK/?igsh=MWQ4cG84NmE1YTZncw=="
+    ],
+    "placeholders": [
+      "(insert noun)",
+      "(insert observation)",
+      "(insert action)"
+    ]
+  },
+  {
+    "id": 362,
+    "category": "EDUCATIONAL",
+    "hook": "(insert name), overused (insert noun)?",
+    "urls": [
+      "https://www.instagram.com/reel/DDw2899RsgM/?igsh=a3VqZ3pyaDRkN3E5"
+    ],
+    "placeholders": [
+      "(insert name)",
+      "(insert noun)"
+    ]
+  },
+  {
+    "id": 363,
+    "category": "EDUCATIONAL",
+    "hook": "Here are # human foods that can kill your (insert living thing).",
+    "urls": [
+      "https://www.instagram.com/reel/DDZ30LXs9oL/?igsh=MXg3Y3N1dDZzZW5lMg=="
+    ],
+    "placeholders": [
+      "(insert living thing)"
+    ]
+  },
+  {
+    "id": 364,
+    "category": "EDUCATIONAL",
+    "hook": "Before you ever take you (insert living thing) on a (insert action) for the first time you need to watch this.",
+    "urls": [
+      "https://www.instagram.com/reel/DFq5P8VSzVD/?igsh=ZXFoN3VsOHV0dmRr"
+    ],
+    "placeholders": [
+      "(insert living thing)",
+      "(insert action)"
+    ]
+  },
+  {
+    "id": 365,
+    "category": "EDUCATIONAL",
+    "hook": "Strange (insert noun) behaviors explained.",
+    "urls": [
+      "https://www.instagram.com/reel/DF3E-zSuGCe/?igsh=YWJjdmVtOWt6YnVu"
+    ],
+    "placeholders": [
+      "(insert noun)"
+    ]
+  },
+  {
+    "id": 366,
+    "category": "EDUCATIONAL",
+    "hook": "(insert name) what is your (insert title) trigger?",
+    "urls": [
+      "https://www.instagram.com/reel/DHyUjujMh6O/?igsh=MWtjNWVyZmF0NGRsaA=="
+    ],
+    "placeholders": [
+      "(insert name)",
+      "(insert title)"
+    ]
+  },
+  {
+    "id": 367,
+    "category": "EDUCATIONAL",
+    "hook": "What's the most overrated (insert noun)?",
+    "urls": [
+      "https://www.instagram.com/reel/DDPtPtwMZ9h/?igsh=ampodmR0ZHhvbGJr"
+    ],
+    "placeholders": [
+      "(insert noun)"
+    ]
+  },
+  {
+    "id": 368,
+    "category": "EDUCATIONAL",
+    "hook": "The top # (insert noun) for (insert target audience).",
+    "urls": [
+      "https://www.instagram.com/reel/DGlwOhMRkyG/?igsh=a293bmEydGlhNXFy"
+    ],
+    "placeholders": [
+      "(insert noun)",
+      "(insert target audience)"
+    ]
+  },
+  {
+    "id": 369,
+    "category": "EDUCATIONAL",
+    "hook": "Here are the # (insert noun) that are the least likely to (insert result).",
+    "urls": [
+      "https://www.instagram.com/reel/C6Zculqy94L/?igsh=Mzkyb2RoMW9kcWg0"
+    ],
+    "placeholders": [
+      "(insert noun)",
+      "(insert result)"
+    ]
+  },
+  {
+    "id": 370,
+    "category": "EDUCATIONAL",
+    "hook": "If you (insert action) for (insert timeframe) what would happen?",
+    "urls": [
+      "https://www.instagram.com/reel/DF-vR6fJuoY/?igsh=aHY0d3lyaTBiaTNy"
+    ],
+    "placeholders": [
+      "(insert action)",
+      "(insert timeframe)"
+    ]
+  },
+  {
+    "id": 371,
+    "category": "EDUCATIONAL",
+    "hook": "This (insert noun) has something in it called (insert name). (insert verb) enough of these and they will kill you.",
+    "urls": [
+      "https://www.instagram.com/reel/DI6uLtcJhqi/?igsh=ZDkyZWtiemk4NGx6"
+    ],
+    "placeholders": [
+      "(insert noun)",
+      "(insert name)",
+      "(insert verb)"
+    ]
+  },
+  {
+    "id": 372,
+    "category": "EDUCATIONAL",
+    "hook": "Here are # of things, every (insert person) should keep in their (insert noun).",
+    "urls": [
+      "https://www.instagram.com/reel/DIKsKR_PkNr/?igsh=MTJ1MjZyeXk1MmFreQ=="
+    ],
+    "placeholders": [
+      "(insert person)",
+      "(insert noun)"
+    ]
+  },
+  {
+    "id": 373,
+    "category": "EDUCATIONAL",
+    "hook": "Man this, (insert noun) in (insert location) is trash. Maybe I should just get this cheap (insert noun). Yeah I wouldn't do that if I were you.",
+    "urls": [
+      "https://www.instagram.com/reel/DE0C6tWPrdA/?igsh=bHJ5ZGpoYTBkZ2hs"
+    ],
+    "placeholders": [
+      "(insert noun)",
+      "(insert location)"
+    ]
+  },
+  {
+    "id": 374,
+    "category": "EDUCATIONAL",
+    "hook": "This (insert noun) isn't bad for you. Yeah it has some (insert noun) but what does that even mean?",
+    "urls": [
+      "https://www.instagram.com/reel/DIShYdlpxE_/?igsh=MXBnNDE0bGhwZGNsdQ=="
+    ],
+    "placeholders": [
+      "(insert noun)"
+    ]
+  },
+  {
+    "id": 375,
+    "category": "EDUCATIONAL",
+    "hook": "So most people don't know that on a (insert noun) there is one (insert noun) every (insert noun) owner always (insert action).",
+    "urls": [
+      "https://www.instagram.com/reel/DB7bgr7yH6v/?igsh=OGZwM2g0YjFzdjJ2"
+    ],
+    "placeholders": [
+      "(insert noun)",
+      "(insert action)"
+    ]
+  },
+  {
+    "id": 376,
+    "category": "EDUCATIONAL",
+    "hook": "0 calorie (insert noun) I am not joking these are literally0 calories.",
+    "urls": [
+      "https://www.instagram.com/reel/DDvfNslO9bO/?igsh=MW51anowazI1OTByaw=="
+    ],
+    "placeholders": [
+      "(insert noun)"
+    ]
+  },
+  {
+    "id": 377,
+    "category": "EDUCATIONAL",
+    "hook": "This guy bought a failing (insert type) company for (insert noun). Now it's worth over (insert $).",
+    "urls": [
+      "https://www.instagram.com/reel/DEz3aett57y/?igsh=cjI1ZTZkaGxuanNh"
+    ],
+    "placeholders": [
+      "(insert type)",
+      "(insert noun)",
+      "(insert $)"
+    ]
+  },
+  {
+    "id": 378,
+    "category": "EDUCATIONAL",
+    "hook": "Stop wearing (insert noun), it really is just like wearing (insert analogy to represent damage).",
+    "urls": [
+      "https://www.instagram.com/reel/DGD75qfOv40/?igsh=MTBwcXdhdTExazBmaA=="
+    ],
+    "placeholders": [
+      "(insert noun)",
+      "(insert analogy to represent damage)"
+    ]
+  },
+  {
+    "id": 379,
+    "category": "EDUCATIONAL",
+    "hook": "We all have that one (insert label) in our life.",
+    "urls": [
+      "https://www.instagram.com/reel/DG_UiWgyUgO/?igsh=eTdqYm42czV1OGM0"
+    ],
+    "placeholders": [
+      "(insert label)"
+    ]
+  },
+  {
+    "id": 380,
+    "category": "EDUCATIONAL",
+    "hook": "But it's just an (insert noun) and it's (insert positive) how bad could it be? Well this (insert noun) has the same amount of (insert metric) as # (insert noun).",
+    "urls": [
+      "https://www.instagram.com/reel/DD1SdWGv8WW/?igsh=cG4wcXBwNjR4Mzk="
+    ],
+    "placeholders": [
+      "(insert noun)",
+      "(insert positive)",
+      "(insert metric)"
+    ]
+  },
+  {
+    "id": 381,
+    "category": "EDUCATIONAL",
+    "hook": "What if I told you that you could eat this entire jar of (insert noun) for less calories than 2 servings of their (insert noun).",
+    "urls": [
+      "https://www.instagram.com/reel/DG4GxNOuDk2/?igsh=YzI3ODhlaTRkbTk0"
+    ],
+    "placeholders": [
+      "(insert noun)"
+    ]
+  },
+  {
+    "id": 382,
+    "category": "EDUCATIONAL",
+    "hook": "A # calorie deficit per day, for a month should be around (insert pounds/kilos) of weight loss.",
+    "urls": [
+      "https://www.instagram.com/reel/DIjYAm5IQ_R/?igsh=MXNrOTA4NDJzNjFiYQ=="
+    ],
+    "placeholders": [
+      "(insert pounds/kilos)"
+    ]
+  },
+  {
+    "id": 383,
+    "category": "EDUCATIONAL",
+    "hook": "Welcome back to \"I can't (insert dream result)\" a series where I show you (insert routine/tutorial/steps to insert result) that take less than (insert time) to do/make.",
+    "urls": [
+      "https://www.instagram.com/reel/DGD3gXtJSNH/?igsh=MW5tajcycHl3OXY4MQ=="
+    ],
+    "placeholders": [
+      "(insert dream result)",
+      "(insert routine/tutorial/steps to insert result)",
+      "(insert time)"
+    ]
+  },
+  {
+    "id": 384,
+    "category": "EDUCATIONAL",
+    "hook": "What I am (insert verb) on my (insert goal) journey, (insert result) last month.",
+    "urls": [
+      "https://www.instagram.com/reel/DEikNFLuFP2/?igsh=MXJrNHo5NThqNjZ4Mg=="
+    ],
+    "placeholders": [
+      "(insert verb)",
+      "(insert goal)",
+      "(insert result)"
+    ]
+  },
+  {
+    "id": 385,
+    "category": "EDUCATIONAL",
+    "hook": "If your (insert current state) you can't just (insert result) like everyone else.",
+    "urls": [
+      "https://www.instagram.com/reel/C5B64cPIrhi/?igsh=MXZpYmlzc3RpNWFobA=="
+    ],
+    "placeholders": [
+      "(insert current state)",
+      "(insert result)"
+    ]
+  },
+  {
+    "id": 386,
+    "category": "EDUCATIONAL",
+    "hook": "After over a decade of (insert action) here is what I wish someone would have told me from the start.",
+    "urls": [
+      "https://www.instagram.com/reel/DImQ3laRb30/?igsh=MW9idTU1aWI2dTN4aw=="
+    ],
+    "placeholders": [
+      "(insert action)"
+    ]
+  },
+  {
+    "id": 387,
+    "category": "EDUCATIONAL",
+    "hook": "To everyone just doing (insert #) (insert action). Stop that.",
+    "urls": [
+      "https://www.instagram.com/reel/DDSXasqCf_S/?igsh=MWtneXdyaHk4YnM0cg=="
+    ],
+    "placeholders": [
+      "(insert #)",
+      "(insert action)"
+    ]
+  },
+  {
+    "id": 388,
+    "category": "EDUCATIONAL",
+    "hook": "If you want to (insert dream result), (insert action) is the worst thing you can do.",
+    "urls": [
+      "https://www.instagram.com/reel/DFGOcEtIjFv/?igsh=cGRsbjl6NzkwdA=="
+    ],
+    "placeholders": [
+      "(insert dream result)",
+      "(insert action)"
+    ]
+  },
+  {
+    "id": 389,
+    "category": "EDUCATIONAL",
+    "hook": "This is (insert metric) the exact same amount of (insert noun) you build everyday. If you (insert action) hard (insert #) times per week.",
+    "urls": [
+      "https://www.instagram.com/reel/DCXFyoBobxU/?igsh=M3NtNzY2OHp2d3My"
+    ],
+    "placeholders": [
+      "(insert metric)",
+      "(insert noun)",
+      "(insert action)",
+      "(insert #)"
+    ]
+  },
+  {
+    "id": 390,
+    "category": "EDUCATIONAL",
+    "hook": "You want you (insert noun) to look like these? So did this guy.",
+    "urls": [
+      "https://www.instagram.com/reel/DIJkuM_OW8I/?igsh=dWJiYTUwNWc5dXlp"
+    ],
+    "placeholders": [
+      "(insert noun)"
+    ]
+  },
+  {
+    "id": 391,
+    "category": "EDUCATIONAL",
+    "hook": "If I had 90 days to go from being (insert current state) to (insert dream result) here's exactly how I would do it!",
+    "urls": [
+      "https://www.instagram.com/reel/DE_2hH-M11D/?igsh=bGN4M2MzNjltaGln"
+    ],
+    "placeholders": [
+      "(insert current state)",
+      "(insert dream result)"
+    ]
+  },
+  {
+    "id": 392,
+    "category": "EDUCATIONAL",
+    "hook": "You are (insert adjective) than you think.",
+    "urls": [
+      "https://www.instagram.com/reel/DCmTJe5NpZ5/?igsh=c3poZmcycDZ4dWZn"
+    ],
+    "placeholders": [
+      "(insert adjective)"
+    ]
+  },
+  {
+    "id": 393,
+    "category": "EDUCATIONAL",
+    "hook": "You can put on/take off (insert metric) on your (insert mile/exercise/vertical/etc) in one workout with these simple tips.",
+    "urls": [
+      "https://www.instagram.com/reel/DDxVEiCRlG8/?igsh=MW1zemVyMWh0MWZ4dQ=="
+    ],
+    "placeholders": [
+      "(insert metric)",
+      "(insert mile/exercise/vertical/etc)"
+    ]
+  },
+  {
+    "id": 394,
+    "category": "EDUCATIONAL",
+    "hook": "If you have (insert symptom) you probably have (insert condition).",
+    "urls": [
+      "https://www.instagram.com/reel/C8ht9iwpUk6/?igsh=dzVwbWRsaHdrYmp4"
+    ],
+    "placeholders": [
+      "(insert symptom)",
+      "(insert condition)"
+    ]
+  },
+  {
+    "id": 395,
+    "category": "EDUCATIONAL",
+    "hook": "If you (insert action) but don't when to (insert action). You could be losing up to (insert metric) of you (insert dream result) without even realizing it.",
+    "urls": [
+      "https://www.instagram.com/reel/DGLVKBUR6W0/?igsh=dm9tdTd6cGt4bDZj"
+    ],
+    "placeholders": [
+      "(insert action)",
+      "(insert metric)",
+      "(insert dream result)"
+    ]
+  },
+  {
+    "id": 396,
+    "category": "EDUCATIONAL",
+    "hook": "If your (insert verb) (insert noun) and then (insert noun) and then (insert noun) that is literally the worst thing you could be doing.",
+    "urls": [
+      "https://www.instagram.com/reel/DCCjwkbC7Oi/?igsh=MXNpZGJvdGRmdjU0aA=="
+    ],
+    "placeholders": [
+      "(insert verb)",
+      "(insert noun)"
+    ]
+  },
+  {
+    "id": 397,
+    "category": "EDUCATIONAL",
+    "hook": "The worst possible thing that can happen to a man/woman is developing (insert result).",
+    "urls": [
+      "https://www.instagram.com/reel/DDfxpOkAk5a/?igsh=MTZkMDNjMWpuOGF1cg=="
+    ],
+    "placeholders": [
+      "(insert result)"
+    ]
+  },
+  {
+    "id": 398,
+    "category": "EDUCATIONAL",
+    "hook": "I grew about # (insert metric) in the past year at (insert age) by fixing my (insert condition) and (insert condition).",
+    "urls": [
+      "https://www.instagram.com/reel/DEjBuqtxzZU/?igsh=MWxreTIycmhydjZzcQ=="
+    ],
+    "placeholders": [
+      "(insert metric)",
+      "(insert age)",
+      "(insert condition)"
+    ]
+  },
+  {
+    "id": 399,
+    "category": "EDUCATIONAL",
+    "hook": "Person #1: (insert large number) Person #2: What are you doing? Person #1: (insert action) I want to get a (insert dream result) before (insert time).",
+    "urls": [
+      "https://www.instagram.com/reel/DI1viVSN5N9/?igsh=bDd2eG9iczRwZ3I1"
+    ],
+    "placeholders": [
+      "(insert large number)",
+      "(insert action)",
+      "(insert dream result)",
+      "(insert time)"
+    ]
+  },
+  {
+    "id": 400,
+    "category": "EDUCATIONAL",
+    "hook": "So you want to impress you (insert person) when you (insert action) this (insert upcoming time).",
+    "urls": [
+      "https://www.instagram.com/reel/DI2FmNmKAN/?igsh=M284Y3o5ZXlxamg1"
+    ],
+    "placeholders": [
+      "(insert person)",
+      "(insert action)",
+      "(insert upcoming time)"
+    ]
+  },
+  {
+    "id": 401,
+    "category": "EDUCATIONAL",
+    "hook": "Person #1: What aren't my (insert noun) (insert adjective)? Person #2: It's because your (insert common mistake)",
+    "urls": [
+      "https://www.instagram.com/reel/DCUaqmTzGkG/?igsh=MWlna2gyeXhvYmdrdA=="
+    ],
+    "placeholders": [
+      "(insert noun)",
+      "(insert adjective)",
+      "(insert common mistake)"
+    ]
+  },
+  {
+    "id": 402,
+    "category": "EDUCATIONAL",
+    "hook": "If you want to be the (insert adjective) person in the room, it all starts when you (insert action).",
+    "urls": [
+      "https://www.instagram.com/reel/DDxd-jpvwNz/?igsh=b3I4ODBzdG5tMGIw"
+    ],
+    "placeholders": [
+      "(insert adjective)",
+      "(insert action)"
+    ]
+  },
+  {
+    "id": 403,
+    "category": "EDUCATIONAL",
+    "hook": "If you have (insert pain point) but not much time to (insert action) and you want to (insert result) then save these (insert noun) and (insert noun) steps/routines/tips.",
+    "urls": [
+      "https://www.instagram.com/reel/DGbQ6H0t1Mv/?igsh=eW5yaWtyeTJzdzUx"
+    ],
+    "placeholders": [
+      "(insert pain point)",
+      "(insert action)",
+      "(insert result)",
+      "(insert noun)"
+    ]
+  },
+  {
+    "id": 404,
+    "category": "EDUCATIONAL",
+    "hook": "I've had a (insert drea result) since I was (insert age).",
+    "urls": [
+      "https://www.instagram.com/reel/DHmabeBSFJT/?igsh=ZWUxbWJkNjBhaGV2"
+    ],
+    "placeholders": [
+      "(insert drea result)",
+      "(insert age)"
+    ]
+  },
+  {
+    "id": 405,
+    "category": "EDUCATIONAL",
+    "hook": "The reason I can (insert result) and be comfortable, not have any (insert pain point) is this right here.",
+    "urls": [
+      "https://www.instagram.com/reel/DF0vHL3Pahk/?igsh=MTg1OGRxOWN0dDJ2bA=="
+    ],
+    "placeholders": [
+      "(insert result)",
+      "(insert pain point)"
+    ]
+  },
+  {
+    "id": 406,
+    "category": "EDUCATIONAL",
+    "hook": "I spent (insert #) whole years with (insert condition) so you don't have too.",
+    "urls": [
+      "https://www.instagram.com/reel/C8fU6cyP3Hc/?igsh=MXF0aGVjNnZtMzJkaw=="
+    ],
+    "placeholders": [
+      "(insert #)",
+      "(insert condition)"
+    ]
+  },
+  {
+    "id": 407,
+    "category": "EDUCATIONAL",
+    "hook": "I have a (insert metric) (insert noun) because this is one of my workouts/routines/steps/tips/strategies/methods.",
+    "urls": [
+      "https://www.instagram.com/reel/DAB359mSW5F/?igsh=MTlleXp4Yms4Mm80Mw=="
+    ],
+    "placeholders": [
+      "(insert metric)",
+      "(insert noun)"
+    ]
+  },
+  {
+    "id": 408,
+    "category": "EDUCATIONAL",
+    "hook": "If you can't (insert skill), then follow this one minute routine/progressional/tutorial and you will have (insert skill) by the end of this video.",
+    "urls": [
+      "https://www.instagram.com/reel/DEd6_6yJOi3/?igsh=MXN0bW9lb3QwcHVuaQ=="
+    ],
+    "placeholders": [
+      "(insert skill)"
+    ]
+  },
+  {
+    "id": 409,
+    "category": "EDUCATIONAL",
+    "hook": "If your (insert current state) then the easiest way to have (insert dream state) is to have (insert result).",
+    "urls": [
+      "https://www.instagram.com/reel/DGefW1ANb0D/?igsh=bXZreWliZ2thb2Vz"
+    ],
+    "placeholders": [
+      "(insert current state)",
+      "(insert dream state)",
+      "(insert result)"
+    ]
+  },
+  {
+    "id": 410,
+    "category": "EDUCATIONAL",
+    "hook": "What would happen to you (insert noun) if you only (insert action) for an entire week.",
+    "urls": [
+      "https://www.instagram.com/reel/DFyxVP4xBm6/?igsh=MXdmM2xhdTBlMDRjNA=="
+    ],
+    "placeholders": [
+      "(insert noun)",
+      "(insert action)"
+    ]
+  },
+  {
+    "id": 411,
+    "category": "EDUCATIONAL",
+    "hook": "Taking a (insert noun) can increase your (insert result) but only with one strategy.",
+    "urls": [
+      "https://www.instagram.com/reel/C_z-Hy2S4j7/?igsh=d3diN3lldGZ6cWZz"
+    ],
+    "placeholders": [
+      "(insert noun)",
+      "(insert result)"
+    ]
+  },
+  {
+    "id": 412,
+    "category": "EDUCATIONAL",
+    "hook": "If you're serious about getting (insert result) then this is the only video you will ever need so save it for later and watch till the end.",
+    "urls": [
+      "https://www.instagram.com/reel/CsVU4YTuQlg/?igsh=MWE3a2R0NWxqNXJrdQ=="
+    ],
+    "placeholders": [
+      "(insert result)"
+    ]
+  },
+  {
+    "id": 413,
+    "category": "EDUCATIONAL",
+    "hook": "If I had to start over and (insert verb) my (insert noun) from scratch, these are the only (insert noun) I would do for someone that is new to (insert noun).",
+    "urls": [
+      "https://www.instagram.com/reel/DGR8OoSsssd/?igsh=MTBmOG9nbjhrZ24zcg=="
+    ],
+    "placeholders": [
+      "(insert verb)",
+      "(insert noun)"
+    ]
+  },
+  {
+    "id": 414,
+    "category": "EDUCATIONAL",
+    "hook": "Let's see what's inside (insert noun).",
+    "urls": [
+      "https://www.instagram.com/reel/C9z8e7aO6Z4/?igsh=MXdrZmdjaTZ3ZHI5cA=="
+    ],
+    "placeholders": [
+      "(insert noun)"
+    ]
+  },
+  {
+    "id": 415,
+    "category": "EDUCATIONAL",
+    "hook": "This is the reason (insert noun) is the size they are.",
+    "urls": [
+      "https://www.instagram.com/reel/DFUrWD3P_uA/?igsh=YzI4NmZveTc3ZDQy"
+    ],
+    "placeholders": [
+      "(insert noun)"
+    ]
+  },
+  {
+    "id": 416,
+    "category": "EDUCATIONAL",
+    "hook": "Here is a tier list of the best (insert noun) sources based off of how good they are for you (insert noun).",
+    "urls": [
+      "https://www.instagram.com/reel/DCuVL0VPLjU/?igsh=MXgzZDd5NXNvaG02aA=="
+    ],
+    "placeholders": [
+      "(insert noun)"
+    ]
+  },
+  {
+    "id": 417,
+    "category": "EDUCATIONAL",
+    "hook": "I don't really show the (insert noun) a lot of love because I don't like (insert action) but today I am going to show you (insert action).",
+    "urls": [
+      "https://www.instagram.com/reel/DExHLTotGlt/?igsh=MTRxN3c4bm13MzF4Mw=="
+    ],
+    "placeholders": [
+      "(insert noun)",
+      "(insert action)"
+    ]
+  },
+  {
+    "id": 418,
+    "category": "EDUCATIONAL",
+    "hook": "What if I told you to (insert verb) # (insert noun) everyday?",
+    "urls": [
+      "https://www.instagram.com/reel/DFKru9CSKpb/?utm_source=ig_web_copy_link"
+    ],
+    "placeholders": [
+      "(insert verb)",
+      "(insert noun)"
+    ]
+  },
+  {
+    "id": 419,
+    "category": "EDUCATIONAL",
+    "hook": "What would happen if you (insert dangerous action).",
+    "urls": [
+      "https://www.instagram.com/reel/DHgpcAXJMT8/?igsh=cmVoZ3VvOGM0bDJo"
+    ],
+    "placeholders": [
+      "(insert dangerous action)"
+    ]
+  },
+  {
+    "id": 420,
+    "category": "EDUCATIONAL",
+    "hook": "F*ck it, I am going to role # of (insert noun) in 60 seconds.",
+    "urls": [
+      "https://www.instagram.com/reel/DEnKwgGJi9p/?igsh=MWV0eTU3YjhuYndsbA=="
+    ],
+    "placeholders": [
+      "(insert noun)"
+    ]
+  },
+  {
+    "id": 421,
+    "category": "EDUCATIONAL",
+    "hook": "This is what a full (insert time) (insert action) looks like at top # (insert school) in (insert location).",
+    "urls": [
+      "https://www.instagram.com/reel/DFbEwDjTJh-/?igsh=anFpdWFkM2ExajZo"
+    ],
+    "placeholders": [
+      "(insert time)",
+      "(insert action)",
+      "(insert school)",
+      "(insert location)"
+    ]
+  },
+  {
+    "id": 422,
+    "category": "EDUCATIONAL",
+    "hook": "What's hommies, I am going to give you a cash course of what (insert noun) to ask for, based on what you want that (insert noun) to do for you.",
+    "urls": [
+      "https://www.instagram.com/reel/DFD3FqAvSh9/?igsh=MW11eGZhNmF5bDBuZQ=="
+    ],
+    "placeholders": [
+      "(insert noun)"
+    ]
+  },
+  {
+    "id": 423,
+    "category": "EDUCATIONAL",
+    "hook": "If your between the heights (insert height) to (insert height).",
+    "urls": [
+      "https://www.instagram.com/reel/DEaf5GfpUy7/?igsh=MXNsaDJtNHlnd21jMA=="
+    ],
+    "placeholders": [
+      "(insert height)"
+    ]
+  },
+  {
+    "id": 424,
+    "category": "EDUCATIONAL",
+    "hook": "This is a great trick.",
+    "urls": [
+      "https://www.instagram.com/reel/DJC1PslvU1Z/?igsh=a2QzbGZyMm92Y241"
+    ],
+    "placeholders": []
+  },
+  {
+    "id": 425,
+    "category": "EDUCATIONAL",
+    "hook": "(insert $) in (insert time) and people still think you need a 9-5.",
+    "urls": [
+      "https://www.instagram.com/reel/DIXVEpRSrDR/?igsh=MXA3a3FodmNwenNl"
+    ],
+    "placeholders": [
+      "(insert $)",
+      "(insert time)"
+    ]
+  },
+  {
+    "id": 426,
+    "category": "EDUCATIONAL",
+    "hook": "They say you can't (insert result) with (insert noun) but they're wrong.",
+    "urls": [
+      "https://www.instagram.com/reel/C17LtU2Ltov/?igsh=bmkzMm1saG04cTdh"
+    ],
+    "placeholders": [
+      "(insert result)",
+      "(insert noun)"
+    ]
+  },
+  {
+    "id": 427,
+    "category": "EDUCATIONAL",
+    "hook": "Here are # of pricing mistakes we made when starting our (insert business).",
+    "urls": [
+      "https://www.instagram.com/reel/DGmFoxiSikU/?igsh=ZTdzenI5aDdhbDVq"
+    ],
+    "placeholders": [
+      "(insert business)"
+    ]
+  },
+  {
+    "id": 428,
+    "category": "EDUCATIONAL",
+    "hook": "# things I'd do if I were to re-start (insert industry/niche/occupation/hobby).",
+    "urls": [
+      "https://www.instagram.com/reel/DGVJ3n3SGhc/?igsh=MXQwbWJwcGg2cjc1eA=="
+    ],
+    "placeholders": [
+      "(insert industry/niche/occupation/hobby)"
+    ]
+  },
+  {
+    "id": 429,
+    "category": "EDUCATIONAL",
+    "hook": "The (insert noun) of a (insert noun) will tell you a lot about the (insert noun).",
+    "urls": [
+      "https://www.instagram.com/reel/DGT9NI2pbX5/?igsh=MWhnaDh3NTZhdHA1eg=="
+    ],
+    "placeholders": [
+      "(insert noun)"
+    ]
+  },
+  {
+    "id": 430,
+    "category": "EDUCATIONAL",
+    "hook": "Here are some space saving (insert noun) hacks that saved our small space.",
+    "urls": [
+      "https://www.instagram.com/reel/DHWAfqwv5Xf/?igsh=cm93YWIwemxvZDYy"
+    ],
+    "placeholders": [
+      "(insert noun)"
+    ]
+  },
+  {
+    "id": 431,
+    "category": "EDUCATIONAL",
+    "hook": "Do you feel (insert pain point) by your (insert noun) consistent (insert pain point).",
+    "urls": [
+      "https://www.instagram.com/reel/DCXqEOfya7M/?igsh=MXRmZjR6M2VqbjdycA=="
+    ],
+    "placeholders": [
+      "(insert pain point)",
+      "(insert noun)"
+    ]
+  },
+  {
+    "id": 432,
+    "category": "EDUCATIONAL",
+    "hook": "My friends and I turned this (insert adjective) (insert noun) into this (insert adjective) (insert noun) in just (insert time).",
+    "urls": [
+      "https://www.instagram.com/reel/DG8YeQTs9XW/?igsh=MmFvMDh6MHV1cG53"
+    ],
+    "placeholders": [
+      "(insert adjective)",
+      "(insert noun)",
+      "(insert time)"
+    ]
+  },
+  {
+    "id": 433,
+    "category": "EDUCATIONAL",
+    "hook": "What happened to (insert adjective) (insert noun).",
+    "urls": [
+      "https://www.instagram.com/reel/DA_7YdHo3S2/?igsh=MWwzZWxuOTdrODU5eA=="
+    ],
+    "placeholders": [
+      "(insert adjective)",
+      "(insert noun)"
+    ]
+  },
+  {
+    "id": 434,
+    "category": "EDUCATIONAL",
+    "hook": "(insert noun) used to have (insert trait), now they don't.",
+    "urls": [
+      "https://www.instagram.com/reel/C5rJryFoZZH/?igsh=MWFwcW94aDVzcTNkMg=="
+    ],
+    "placeholders": [
+      "(insert noun)",
+      "(insert trait)"
+    ]
+  },
+  {
+    "id": 435,
+    "category": "EDUCATIONAL",
+    "hook": "Here is a complete cost breakdown to build my (insert sqft) home.",
+    "urls": [
+      "https://www.instagram.com/reel/DFBxNBuuKZw/?igsh=MTRoZHZhcDF6cG1k"
+    ],
+    "placeholders": [
+      "(insert sqft)"
+    ]
+  },
+  {
+    "id": 436,
+    "category": "EDUCATIONAL",
+    "hook": "It cost (insert $) to build my own (insert noun), acting as my own general contractor. Here is the complete coast breakdown.",
+    "urls": [
+      "https://www.instagram.com/reel/C_oT5Ibpvlf/?igsh=cjI2cjI2dzRidTQ0"
+    ],
+    "placeholders": [
+      "(insert $)",
+      "(insert noun)"
+    ]
+  },
+  {
+    "id": 437,
+    "category": "EDUCATIONAL",
+    "hook": "I paid (insert $) to build my own dream home and pool as an (insert title). Here is the complete cost breakdown.",
+    "urls": [
+      "https://www.instagram.com/reel/C_J2pr9uWut/?igsh=MW8zaHN4bHB0OTFxdQ=="
+    ],
+    "placeholders": [
+      "(insert $)",
+      "(insert title)"
+    ]
+  },
+  {
+    "id": 438,
+    "category": "EDUCATIONAL",
+    "hook": "I've (insert verb) over (insert #) of (insert noun) here are # things I would never do.",
+    "urls": [
+      "https://www.instagram.com/reel/DGgLtQEIgKH/?igsh=emgydmY5NzEyYnBv"
+    ],
+    "placeholders": [
+      "(insert verb)",
+      "(insert #)",
+      "(insert noun)"
+    ]
+  },
+  {
+    "id": 439,
+    "category": "EDUCATIONAL",
+    "hook": "If you want to (insert verb) in an exceptional (insert noun) you have got to stop half-assing things.",
+    "urls": [
+      "https://www.instagram.com/reel/DDAJK6STXlR/?igsh=MWI4c2xpY3p1OXl1cw=="
+    ],
+    "placeholders": [
+      "(insert verb)",
+      "(insert noun)"
+    ]
+  },
+  {
+    "id": 440,
+    "category": "EDUCATIONAL",
+    "hook": "It's also super hard to get (insert result) especially with the (insert condition).",
+    "urls": [
+      "https://www.instagram.com/reel/DENwo4Fvh6f/?igsh=dWVyMGZud3dteWs0"
+    ],
+    "placeholders": [
+      "(insert result)",
+      "(insert condition)"
+    ]
+  },
+  {
+    "id": 441,
+    "category": "EDUCATIONAL",
+    "hook": "It has taken me # years if (insert occupation/skill/hobby) to realize I have been (insert action) wrong this entire time.",
+    "urls": [
+      "https://www.instagram.com/reel/DFBJYnGyr_a/?igsh=b2NrM2o5MGw4OHhl"
+    ],
+    "placeholders": [
+      "(insert occupation/skill/hobby)",
+      "(insert action)"
+    ]
+  },
+  {
+    "id": 442,
+    "category": "EDUCATIONAL",
+    "hook": "Remember (insert method/strategy name) for you next (insert noun).",
+    "urls": [
+      "https://www.instagram.com/reel/C6a9V7vuein/?igsh=ZTNsd2QzZHBhbTJ2"
+    ],
+    "placeholders": [
+      "(insert method/strategy name)",
+      "(insert noun)"
+    ]
+  },
+  {
+    "id": 443,
+    "category": "EDUCATIONAL",
+    "hook": "Remember (insert #) (insert noun) combo for you next (insert noun).",
+    "urls": [
+      "https://www.instagram.com/reel/C3nW4P4L_xf/?igsh=cXF5eno1eHVzMWY0"
+    ],
+    "placeholders": [
+      "(insert #)",
+      "(insert noun)"
+    ]
+  },
+  {
+    "id": 444,
+    "category": "EDUCATIONAL",
+    "hook": "(insert industry/niche) tips for if you're broke.",
+    "urls": [
+      "https://www.instagram.com/reel/DDkbXWpucvG/?igsh=dmI2NmgzbjExZzh0"
+    ],
+    "placeholders": [
+      "(insert industry/niche)"
+    ]
+  },
+  {
+    "id": 445,
+    "category": "EDUCATIONAL",
+    "hook": "What (insert noun) and (insert noun) do I really need?",
+    "urls": [
+      "https://www.instagram.com/reel/DGoOJxMyffy/?igsh=OHF5NHJkbzB3dXow"
+    ],
+    "placeholders": [
+      "(insert noun)"
+    ]
+  },
+  {
+    "id": 446,
+    "category": "EDUCATIONAL",
+    "hook": "Every time you (insert action) your passing you (insert adjective) (insert noun) just because you don't know what they are.",
+    "urls": [
+      "https://www.instagram.com/reel/DEiHlooJML/?igsh=MWZ3dnl6anI3cTh4bA=="
+    ],
+    "placeholders": [
+      "(insert action)",
+      "(insert adjective)",
+      "(insert noun)"
+    ]
+  },
+  {
+    "id": 447,
+    "category": "EDUCATIONAL",
+    "hook": "Alright you little DIY freaks here's how to build the sauciest (insert noun) of all time.",
+    "urls": [
+      "https://www.instagram.com/reel/DGCUWxRJ0A4/?igsh=MWo2MzNvejQ5ZW5hNQ=="
+    ],
+    "placeholders": [
+      "(insert noun)"
+    ]
+  },
+  {
+    "id": 448,
+    "category": "EDUCATIONAL",
+    "hook": "Normally I would never say this but please stop (insert action) until you're ready to (insert action).",
+    "urls": [
+      "https://www.instagram.com/reel/DFVrVTFx1Cu/?igsh=cm56Zm11andjc2sx"
+    ],
+    "placeholders": [
+      "(insert action)"
+    ]
+  },
+  {
+    "id": 449,
+    "category": "EDUCATIONAL",
+    "hook": "(insert noun) for all the (insert condition) guys/girls out there.",
+    "urls": [
+      "https://www.instagram.com/reel/DIj9O4Az5GC/?igsh=MWRpeGRrcGphb3o1eQ=="
+    ],
+    "placeholders": [
+      "(insert noun)",
+      "(insert condition)"
+    ]
+  },
+  {
+    "id": 450,
+    "category": "EDUCATIONAL",
+    "hook": "How to take better (insert noun).",
+    "urls": [
+      "https://www.instagram.com/reel/DFLP70LKvi1/?igsh=cXo1MWhodnNrYzg="
+    ],
+    "placeholders": [
+      "(insert noun)"
+    ]
+  },
+  {
+    "id": 451,
+    "category": "EDUCATIONAL",
+    "hook": "This is every single (insert noun) in my collection.",
+    "urls": [
+      "https://www.instagram.com/reel/DEaUlTYI47b/?igsh=MXhvcHVxZjZvZzd0bg=="
+    ],
+    "placeholders": [
+      "(insert noun)"
+    ]
+  },
+  {
+    "id": 452,
+    "category": "EDUCATIONAL",
+    "hook": "Invest in (insert adjective) (insert noun).",
+    "urls": [
+      "https://www.instagram.com/reel/DGllDnGP4GS/?igsh=MXA2ZDE3NThvc2xjdg=="
+    ],
+    "placeholders": [
+      "(insert adjective)",
+      "(insert noun)"
+    ]
+  },
+  {
+    "id": 453,
+    "category": "EDUCATIONAL",
+    "hook": "For people who (insert action) and are also into (insert noun) what the hell are we doing.",
+    "urls": [
+      "https://www.instagram.com/reel/DAGWXZ5OnJ_/?igsh=a2NjMTRrMjl0dzk4"
+    ],
+    "placeholders": [
+      "(insert action)",
+      "(insert noun)"
+    ]
+  },
+  {
+    "id": 454,
+    "category": "EDUCATIONAL",
+    "hook": "Here's how to build a good (insert noun) rotation.",
+    "urls": [
+      "https://www.instagram.com/reel/DDkarIGP6Da/?igsh=MW1uNTdrZ2lpcmZ0Yg=="
+    ],
+    "placeholders": [
+      "(insert noun)"
+    ]
+  },
+  {
+    "id": 455,
+    "category": "EDUCATIONAL",
+    "hook": "This guy has made (insert $) profit in one day using the technique he is about to use.",
+    "urls": [
+      "https://www.instagram.com/reel/DFgTirDB5xe/?igsh=OG5pa2lnNTYwYzhw"
+    ],
+    "placeholders": [
+      "(insert $)"
+    ]
+  },
+  {
+    "id": 456,
+    "category": "EDUCATIONAL",
+    "hook": "This book will teach you more about the (insert niche/industry/topic) than all of these books here.",
+    "urls": [
+      "https://www.instagram.com/reel/DE2qZvqoDAO/?igsh=MWUzanZ4ajNiemZxdA=="
+    ],
+    "placeholders": [
+      "(insert niche/industry/topic)"
+    ]
+  },
+  {
+    "id": 457,
+    "category": "EDUCATIONAL",
+    "hook": "If you wear a (insert noun) or (insert noun) with (insert noun) and a different (insert trait) (insert noun) then you have (insert result).",
+    "urls": [
+      "https://www.instagram.com/reel/DG1XhISy7_f/?igsh=MXR4ODF2c2k2aGJlbQ=="
+    ],
+    "placeholders": [
+      "(insert noun)",
+      "(insert trait)",
+      "(insert result)"
+    ]
+  },
+  {
+    "id": 458,
+    "category": "EDUCATIONAL",
+    "hook": "Every (insert noun) explained in one sentence.",
+    "urls": [
+      "https://www.instagram.com/reel/DD7Z0GWJrMB/?igsh=MXBlNjF0YzF5c2tobg=="
+    ],
+    "placeholders": [
+      "(insert noun)"
+    ]
+  },
+  {
+    "id": 459,
+    "category": "EDUCATIONAL",
+    "hook": "If you keep failing your (insert noun), just figure out where you're failing it.",
+    "urls": [
+      "https://www.instagram.com/reel/DCUAbdBB_k_/?igsh=MTh5bWNwcjMyaTkyeA=="
+    ],
+    "placeholders": [
+      "(insert noun)"
+    ]
+  },
+  {
+    "id": 460,
+    "category": "EDUCATIONAL",
+    "hook": "How long does it take to complete the impossible mile.",
+    "urls": [
+      "https://www.instagram.com/reel/DEtSZ28PQi1/?igsh=MWxvcmN6cHl0bWpoMg=="
+    ],
+    "placeholders": []
+  },
+  {
+    "id": 461,
+    "category": "EDUCATIONAL",
+    "hook": "(insert noun) is believed to be super bad for us. Causing (insert symptom), (insert symptom), (insert symptom), and even (insert symptom).",
+    "urls": [
+      "https://www.instagram.com/reel/DIMbDQhsNyG/?igsh=MTl5dmVrbmV1OWgzdg=="
+    ],
+    "placeholders": [
+      "(insert noun)",
+      "(insert symptom)"
+    ]
+  },
+  {
+    "id": 462,
+    "category": "EDUCATIONAL",
+    "hook": "(insert noun) can make you go bald!",
+    "urls": [
+      "https://www.instagram.com/reel/DFnnhxyvDzC/?igsh=YXUxOGhoazRnc28w"
+    ],
+    "placeholders": [
+      "(insert noun)"
+    ]
+  },
+  {
+    "id": 463,
+    "category": "EDUCATIONAL",
+    "hook": "I'll tell you a story, We have # (insert noun) that were invented to solve 3 different problems.",
+    "urls": [
+      "https://www.instagram.com/reel/DF9D6aCT4R2/?igsh=NnVucjM3OWhkNnFj"
+    ],
+    "placeholders": [
+      "(insert noun)"
+    ]
+  },
+  {
+    "id": 464,
+    "category": "EDUCATIONAL",
+    "hook": "(insert industry) tier list for 2025.",
+    "urls": [
+      "https://www.instagram.com/reel/DG1WCj0PIML/?igsh=MWlwZzcydTdpc2V2aQ=="
+    ],
+    "placeholders": [
+      "(insert industry)"
+    ]
+  },
+  {
+    "id": 465,
+    "category": "EDUCATIONAL",
+    "hook": "How to start your (insert noun) from scratch.",
+    "urls": [
+      "https://www.instagram.com/reel/DG1VtMUSQ9h/?igsh=dzE3b3FlbXZjc3R6"
+    ],
+    "placeholders": [
+      "(insert noun)"
+    ]
+  },
+  {
+    "id": 466,
+    "category": "EDUCATIONAL",
+    "hook": "Exposing the only (insert noun) you will ever need.",
+    "urls": [
+      "https://www.instagram.com/reel/DBXc7jiofht/?igsh=MTIzMGllaHVhcW5xNg=="
+    ],
+    "placeholders": [
+      "(insert noun)"
+    ]
+  },
+  {
+    "id": 467,
+    "category": "EDUCATIONAL",
+    "hook": "How to dress like a (insert person).",
+    "urls": [
+      "https://www.instagram.com/reel/DCRJoGbo3oa/?igsh=d3Mzc3E4MWF2d3M="
+    ],
+    "placeholders": [
+      "(insert person)"
+    ]
+  },
+  {
+    "id": 468,
+    "category": "EDUCATIONAL",
+    "hook": "Every (insert store type) has a million (insert noun) withdifferent (insert noun). But some of them are more special than others.",
+    "urls": [
+      "https://www.instagram.com/reel/DEabsX3pRsJ/?igsh=ZmlkZ3draG16OXJq"
+    ],
+    "placeholders": [
+      "(insert store type)",
+      "(insert noun)"
+    ]
+  },
+  {
+    "id": 469,
+    "category": "EDUCATIONAL",
+    "hook": "This is exactly how you and your friends are going to get (insert result) before this (insert time).",
+    "urls": [
+      "https://www.instagram.com/reel/DId6_M-AwGL/?igsh=bW8zc212eTR0Y3V5"
+    ],
+    "placeholders": [
+      "(insert result)",
+      "(insert time)"
+    ]
+  },
+  {
+    "id": 470,
+    "category": "EDUCATIONAL",
+    "hook": "If you're afraid to (insert action), then (insert action).",
+    "urls": [
+      "https://www.instagram.com/reel/DHEL0_cRwNA/?igsh=MTRsY2phZ3d0MzFmag=="
+    ],
+    "placeholders": [
+      "(insert action)"
+    ]
+  },
+  {
+    "id": 471,
+    "category": "EDUCATIONAL",
+    "hook": "If you want to start a (insert noun) in (insert year) here are some things you are going to need.",
+    "urls": [
+      "https://www.instagram.com/reel/DEdSzXhzTEH/?igsh=cXI2MDcyd2ZobHVy"
+    ],
+    "placeholders": [
+      "(insert noun)",
+      "(insert year)"
+    ]
+  },
+  {
+    "id": 472,
+    "category": "EDUCATIONAL",
+    "hook": "Putting you on brands you may have never heard of.",
+    "urls": [
+      "https://www.instagram.com/reel/DIOvPayMKgS/?igsh=bGlzMGJ2YXJkdG50"
+    ],
+    "placeholders": []
+  },
+  {
+    "id": 473,
+    "category": "COMPARISON",
+    "hook": "This is an (insert noun), and this is an (insert noun).",
+    "urls": [
+      "https://www.instagram.com/p/DHiMzqvR_MQ/"
+    ],
+    "placeholders": [
+      "(insert noun)"
+    ]
+  },
+  {
+    "id": 474,
+    "category": "COMPARISON",
+    "hook": "This (insert noun) and this (insert noun) have the same amount of (insert noun).",
+    "urls": [
+      "https://www.instagram.com/fitfoodieliving/reel/DBHpSdgRdvh/"
+    ],
+    "placeholders": [
+      "(insert noun)"
+    ]
+  },
+  {
+    "id": 475,
+    "category": "COMPARISON",
+    "hook": "A lot of people ask me what's better (insert option #1) or (insert option #2) for (insert dream result) I achieved (insert dream result) doing one of these and it's not even close.",
+    "urls": [
+      "https://www.instagram.com/p/DHGn-H-xNeV/"
+    ],
+    "placeholders": [
+      "(insert option #1)",
+      "(insert option #2)",
+      "(insert dream result)"
+    ]
+  },
+  {
+    "id": 476,
+    "category": "COMPARISON",
+    "hook": "For this (insert item) you could have all of these (insert item).",
+    "urls": [
+      "https://www.instagram.com/reel/C27sCLIxGIu/"
+    ],
+    "placeholders": [
+      "(insert item)"
+    ]
+  },
+  {
+    "id": 477,
+    "category": "COMPARISON",
+    "hook": "He/she always (insert action), and he/she does (insert action).",
+    "urls": [
+      "https://www.instagram.com/reel/C9FQ-W1OJtc/"
+    ],
+    "placeholders": [
+      "(insert action)"
+    ]
+  },
+  {
+    "id": 478,
+    "category": "COMPARISON",
+    "hook": "For this (insert noun), you could have all of (insert noun).",
+    "urls": [
+      "https://www.instagram.com/alexgamblecoach/reel/C3r2FM5vhAH/"
+    ],
+    "placeholders": [
+      "(insert noun)"
+    ]
+  },
+  {
+    "id": 479,
+    "category": "COMPARISON",
+    "hook": "This (option #1) has (insert noun) in it, and (option #2) has (insert noun) in it.",
+    "urls": [
+      "https://www.instagram.com/reel/DBTo-UctI9R/"
+    ],
+    "placeholders": [
+      "(option #1)",
+      "(insert noun)",
+      "(option #2)"
+    ]
+  },
+  {
+    "id": 480,
+    "category": "COMPARISON",
+    "hook": "This group didn't (insert action) and this group did.",
+    "urls": [
+      "https://www.instagram.com/reel/C9wOIgSJZG1/?utm_source=ig_web_copy_link"
+    ],
+    "placeholders": [
+      "(insert action)"
+    ]
+  },
+  {
+    "id": 481,
+    "category": "COMPARISON",
+    "hook": "For this (insert noun), you could have this whole (insert noun).",
+    "urls": [
+      "https://www.instagram.com/noahperlofit/reel/C3dwIEGxeB0/"
+    ],
+    "placeholders": [
+      "(insert noun)"
+    ]
+  },
+  {
+    "id": 482,
+    "category": "COMPARISON",
+    "hook": "This is (insert metric) of (insert noun) for (insert price), and this is also (insert metric) of (insert noun) for (insert price).",
+    "urls": [
+      "https://www.instagram.com/p/DCj8U4WJPmj/"
+    ],
+    "placeholders": [
+      "(insert metric)",
+      "(insert noun)",
+      "(insert price)"
+    ]
+  },
+  {
+    "id": 483,
+    "category": "COMPARISON",
+    "hook": "How long would it take you to go from (insert before state) like this (with pain point) to (insert dream result) with (insert desire).",
+    "urls": [
+      "https://www.instagram.com/share/BAFmRk0wS1"
+    ],
+    "placeholders": [
+      "(insert before state)",
+      "(with pain point)",
+      "(insert dream result)",
+      "(insert desire)"
+    ]
+  },
+  {
+    "id": 484,
+    "category": "COMPARISON",
+    "hook": "If you're between the ages # - # and you want to become (insert dream result) and I mean really (insert dream result). Then you have to do these # things.",
+    "urls": [
+      "https://www.instagram.com/share/_o1hsHAQW"
+    ],
+    "placeholders": [
+      "(insert dream result)"
+    ]
+  },
+  {
+    "id": 485,
+    "category": "COMPARISON",
+    "hook": "This (insert noun) has (insert metric) and will get you (insert dream result), and this (insert noun) has (insert metric) and will get you (insert dream result).",
+    "urls": [
+      "https://www.instagram.com/p/DC2OpMNJMG2/"
+    ],
+    "placeholders": [
+      "(insert noun)",
+      "(insert metric)",
+      "(insert dream result)"
+    ]
+  },
+  {
+    "id": 486,
+    "category": "COMPARISON",
+    "hook": "One (insert noun), and # of my (insert noun) have the same (insert metric).",
+    "urls": [
+      "https://www.instagram.com/p/DHCafPPxo3w/"
+    ],
+    "placeholders": [
+      "(insert noun)",
+      "(insert metric)"
+    ]
+  },
+  {
+    "id": 487,
+    "category": "COMPARISON",
+    "hook": "This is a (insert noun) from (insert restaurant/store/place) for (insert metric), and this is the same (insert noun) from (insert restaurant/store/place) for (insert metric).",
+    "urls": [
+      "https://www.instagram.com/p/DDP3euvJPC4/"
+    ],
+    "placeholders": [
+      "(insert noun)",
+      "(insert restaurant/store/place)",
+      "(insert metric)"
+    ]
+  },
+  {
+    "id": 488,
+    "category": "COMPARISON",
+    "hook": "This is a (insert noun), this is also a (insert noun).",
+    "urls": [
+      "https://www.instagram.com/p/DIYZKjtxK7Z/"
+    ],
+    "placeholders": [
+      "(insert noun)"
+    ]
+  },
+  {
+    "id": 489,
+    "category": "COMPARISON",
+    "hook": "This is (insert noun) before you (insert action), this is (insert noun) after you (insert action).",
+    "urls": [
+      "https://www.instagram.com/p/DDfEcIyTncw/"
+    ],
+    "placeholders": [
+      "(insert noun)",
+      "(insert action)"
+    ]
+  },
+  {
+    "id": 490,
+    "category": "COMPARISON",
+    "hook": "These two groups (insert similar result) but this group (insert result).",
+    "urls": [
+      "https://www.instagram.com/tombaileypt/reel/C9bg-usp89W/"
+    ],
+    "placeholders": [
+      "(insert similar result)",
+      "(insert result)"
+    ]
+  },
+  {
+    "id": 491,
+    "category": "COMPARISON",
+    "hook": "The (insert noun) offers you a (option #1) and a (option #2) what do you choose?",
+    "urls": [
+      "https://www.instagram.com/share/_-96Kqts3"
+    ],
+    "placeholders": [
+      "(insert noun)",
+      "(option #1)",
+      "(option #2)"
+    ]
+  },
+  {
+    "id": 492,
+    "category": "COMPARISON",
+    "hook": "(insert #) (insert noun) I would have this one if I was (insert verb), and I would have this one if I was (insert verb).",
+    "urls": [
+      "https://www.instagram.com/p/DEyUjeIyn-w/"
+    ],
+    "placeholders": [
+      "(insert #)",
+      "(insert noun)",
+      "(insert verb)"
+    ]
+  },
+  {
+    "id": 493,
+    "category": "COMPARISON",
+    "hook": "This is (insert noun) at (insert metric), and it's perfect for (insert verb). This is (insert noun) at (insert metric).",
+    "urls": [
+      "https://www.instagram.com/p/DFckqW0T8cM/"
+    ],
+    "placeholders": [
+      "(insert noun)",
+      "(insert metric)",
+      "(insert verb)"
+    ]
+  },
+  {
+    "id": 494,
+    "category": "COMPARISON",
+    "hook": "This is (insert metric) of (insert noun), this is also (insert metric).",
+    "urls": [
+      "https://www.instagram.com/p/DHGElSpPqeu/"
+    ],
+    "placeholders": [
+      "(insert metric)",
+      "(insert noun)"
+    ]
+  },
+  {
+    "id": 495,
+    "category": "COMPARISON",
+    "hook": "(insert metric) and (insert metric) both sides are (insert adjective) and look the same. Let's see why.",
+    "urls": [
+      "https://www.instagram.com/p/DIO0xJypZvT/"
+    ],
+    "placeholders": [
+      "(insert metric)",
+      "(insert adjective)"
+    ]
+  },
+  {
+    "id": 496,
+    "category": "COMPARISON",
+    "hook": "(insert result) (insert noun) vs. (insert result) (insert noun).",
+    "urls": [
+      "https://www.instagram.com/p/DFOBiz0ptWc/"
+    ],
+    "placeholders": [
+      "(insert result)",
+      "(insert noun)"
+    ]
+  },
+  {
+    "id": 497,
+    "category": "COMPARISON",
+    "hook": "Both these (insert noun) are exactly the same. I have not changed a single (insert noun). But this one is (insert metic) and this one is (insert metric).",
+    "urls": [
+      "https://www.instagram.com/p/DB67qDIih-2/"
+    ],
+    "placeholders": [
+      "(insert noun)",
+      "(insert metic)",
+      "(insert metric)"
+    ]
+  },
+  {
+    "id": 498,
+    "category": "COMPARISON",
+    "hook": "Would you feel more (insert trait) in this (insert noun) or this one?",
+    "urls": [
+      "https://www.instagram.com/p/DGYr4vMKo3T/"
+    ],
+    "placeholders": [
+      "(insert trait)",
+      "(insert noun)"
+    ]
+  },
+  {
+    "id": 499,
+    "category": "COMPARISON",
+    "hook": "Both groups gained the same amount of (insert noun). Expect this grouped (insert action) # days a week, and this group (insert action) #.",
+    "urls": [
+      "https://www.instagram.com/reel/DCRDDUuC1YL/?igsh=eTA3eTV6OGt3dG5x"
+    ],
+    "placeholders": [
+      "(insert noun)",
+      "(insert action)"
+    ]
+  },
+  {
+    "id": 500,
+    "category": "COMPARISON",
+    "hook": "Cheap vs. Expensive (insert noun).",
+    "urls": [
+      "https://www.instagram.com/reel/DFXKXBaPyn0/?igsh=NDVuNG90bHNhOXY="
+    ],
+    "placeholders": [
+      "(insert noun)"
+    ]
+  },
+  {
+    "id": 501,
+    "category": "COMPARISON",
+    "hook": "You will (insert result) a week if you (insert action) on a (insert journey). But you will only (insert result) this much a week if you (insert action) on a (insert journey).",
+    "urls": [
+      "https://www.instagram.com/reel/DG0qjQ7S-GD/?igsh=cndidHU3NXZwd282"
+    ],
+    "placeholders": [
+      "(insert result)",
+      "(insert action)",
+      "(insert journey)"
+    ]
+  },
+  {
+    "id": 502,
+    "category": "COMPARISON",
+    "hook": "This is what your (insert noun) looks like when you don't take (insert noun). And this is what your (insert noun) looks like when you take (insert noun).",
+    "urls": [
+      "https://www.instagram.com/reel/DIn291GI4Fa/?igsh=b294b3ZyMmx5bDJk"
+    ],
+    "placeholders": [
+      "(insert noun)"
+    ]
+  },
+  {
+    "id": 503,
+    "category": "COMPARISON",
+    "hook": "This is me after (insert action) in the (insert location) with (insert condition). And this is me just (insert action) in the middle of (insert location).",
+    "urls": [
+      "https://www.instagram.com/reel/DDNgWJliAUR/?igsh=MW03ZndyNWo4bXlodA=="
+    ],
+    "placeholders": [
+      "(insert action)",
+      "(insert location)",
+      "(insert condition)"
+    ]
+  },
+  {
+    "id": 504,
+    "category": "MYTH BUSTING",
+    "hook": "(insert item) (insert fact), (insert complete opposite item) (insert similar fact).",
+    "urls": [
+      "https://www.instagram.com/reel/C_bBILMsNzh/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA=="
+    ],
+    "placeholders": [
+      "(insert item)",
+      "(insert fact)",
+      "(insert complete opposite item)",
+      "(insert similar fact)"
+    ]
+  },
+  {
+    "id": 505,
+    "category": "MYTH BUSTING",
+    "hook": "This is why doing (insert action) makes you (insert pain point).",
+    "urls": [
+      "https://www.instagram.com/p/C8BpxhQNKCj/"
+    ],
+    "placeholders": [
+      "(insert action)",
+      "(insert pain point)"
+    ]
+  },
+  {
+    "id": 506,
+    "category": "MYTH BUSTING",
+    "hook": "This is how you (insert dream result) while (insert guilty pleasure).",
+    "urls": [
+      "https://www.instagram.com/p/C3spnM9IOKG/"
+    ],
+    "placeholders": [
+      "(insert dream result)",
+      "(insert guilty pleasure)"
+    ]
+  },
+  {
+    "id": 507,
+    "category": "MYTH BUSTING",
+    "hook": "(insert item) (insert fact), (insert item) (insert similar fact), (insert complete opposite item) (insert similar fact).",
+    "urls": [
+      "https://www.instagram.com/p/DDmz346s6x2/"
+    ],
+    "placeholders": [
+      "(insert item)",
+      "(insert fact)",
+      "(insert similar fact)",
+      "(insert complete opposite item)"
+    ]
+  },
+  {
+    "id": 508,
+    "category": "MYTH BUSTING",
+    "hook": "If you're really a (insert dream result), why aren't you doing (insert common belief)?",
+    "urls": [
+      "https://www.instagram.com/reel/DEPpiQkobO7/"
+    ],
+    "placeholders": [
+      "(insert dream result)",
+      "(insert common belief)"
+    ]
+  },
+  {
+    "id": 509,
+    "category": "MYTH BUSTING",
+    "hook": "Just because you do (insert action) doesn't make you a good (insert label).",
+    "urls": [
+      "https://www.instagram.com/reel/DHrRQ2uv22F/"
+    ],
+    "placeholders": [
+      "(insert action)",
+      "(insert label)"
+    ]
+  },
+  {
+    "id": 510,
+    "category": "MYTH BUSTING",
+    "hook": "This is what (insert number) of (insert item) looks like.",
+    "urls": [
+      "https://www.instagram.com/p/C60q1FPPrLW/"
+    ],
+    "placeholders": [
+      "(insert number)",
+      "(insert item)"
+    ]
+  },
+  {
+    "id": 511,
+    "category": "MYTH BUSTING",
+    "hook": "If you are (insert action) just once per (month/day/year) than you are f*ucked.",
+    "urls": [
+      "https://www.instagram.com/reel/DAvjqruooP3/?igsh=cXcwcnAyMmo1ZTFv"
+    ],
+    "placeholders": [
+      "(insert action)",
+      "(month/day/year)"
+    ]
+  },
+  {
+    "id": 512,
+    "category": "MYTH BUSTING",
+    "hook": "This is me when I (insert action) (insert frequency), and this is me still (insert action) (insert frequency).",
+    "urls": [
+      "https://www.instagram.com/p/DAmA1Wnqh4X/"
+    ],
+    "placeholders": [
+      "(insert action)",
+      "(insert frequency)"
+    ]
+  },
+  {
+    "id": 513,
+    "category": "MYTH BUSTING",
+    "hook": "No your (insert noun) is not cause (insert result).",
+    "urls": [
+      "https://www.instagram.com/p/DCeVnXro9Xd/"
+    ],
+    "placeholders": [
+      "(insert noun)",
+      "(insert result)"
+    ]
+  },
+  {
+    "id": 514,
+    "category": "MYTH BUSTING",
+    "hook": "Let me de-influence you from (insert action).",
+    "urls": [
+      "https://www.instagram.com/reel/DEXaRPkOSjV/?igsh=MXYxZm05YzRzdXVyMg%3D%3D"
+    ],
+    "placeholders": [
+      "(insert action)"
+    ]
+  },
+  {
+    "id": 515,
+    "category": "MYTH BUSTING",
+    "hook": "More (insert target audience) need to hear this, (insert common belief) will not (insert result).",
+    "urls": [
+      "https://www.instagram.com/reel/C_oaRbkuJaG/"
+    ],
+    "placeholders": [
+      "(insert target audience)",
+      "(insert common belief)",
+      "(insert result)"
+    ]
+  },
+  {
+    "id": 516,
+    "category": "MYTH BUSTING",
+    "hook": "It's time to throw away your (insert item), you don't need it anymore.",
+    "urls": [
+      "https://www.instagram.com/reel/C6qt2B4NKA1/"
+    ],
+    "placeholders": [
+      "(insert item)"
+    ]
+  },
+  {
+    "id": 517,
+    "category": "MYTH BUSTING",
+    "hook": "They said, \"(insert famous cliché or quote)\" That's a lie.",
+    "urls": [
+      "https://www.instagram.com/reel/DDmm7AXxKLa/"
+    ],
+    "placeholders": [
+      "(insert famous cliché or quote)"
+    ]
+  },
+  {
+    "id": 518,
+    "category": "MYTH BUSTING",
+    "hook": "Don't (insert action) until you've done this one thing.",
+    "urls": [
+      "https://www.instagram.com/p/DA0kc0DCM0h/"
+    ],
+    "placeholders": [
+      "(insert action)"
+    ]
+  },
+  {
+    "id": 519,
+    "category": "MYTH BUSTING",
+    "hook": "Stop using (insert item) for (insert result).",
+    "urls": [
+      "https://www.instagram.com/p/DBe3QaNyQEi/"
+    ],
+    "placeholders": [
+      "(insert item)",
+      "(insert result)"
+    ]
+  },
+  {
+    "id": 520,
+    "category": "MYTH BUSTING",
+    "hook": "You cannot be (insert dream result) before you enter (insert age group). I stopped acting like the (insert person/title) in my life and you shouldn't be the (insert person/title) either.",
+    "urls": [
+      "https://www.instagram.com/p/DBROBQTK9De/https:/https://www.instagram.com/p/C9pwV7rPMVo//www.instagram.com/p/C-3m2q5pkLq/"
+    ],
+    "placeholders": [
+      "(insert dream result)",
+      "(insert age group)",
+      "(insert person/title)"
+    ]
+  },
+  {
+    "id": 521,
+    "category": "MYTH BUSTING",
+    "hook": "Your life is boring because you don't (insert action).",
+    "urls": [
+      "https://www.instagram.com/reel/DFAr9dPA4F4/?igsh=eWVxamg2eDF2cTBt"
+    ],
+    "placeholders": [
+      "(insert action)"
+    ]
+  },
+  {
+    "id": 522,
+    "category": "MYTH BUSTING",
+    "hook": "This is (insert large number) worth of (insert noun).",
+    "urls": [
+      "https://www.instagram.com/georgiaheins/reel/C-QSr3qS4Cb/"
+    ],
+    "placeholders": [
+      "(insert large number)",
+      "(insert noun)"
+    ]
+  },
+  {
+    "id": 523,
+    "category": "MYTH BUSTING",
+    "hook": "Just because you have never (insert action) before, doesn't make you a (insert label) person.",
+    "urls": [
+      "https://www.instagram.com/p/DGb8XGgtwN5/"
+    ],
+    "placeholders": [
+      "(insert action)",
+      "(insert label)"
+    ]
+  },
+  {
+    "id": 524,
+    "category": "MYTH BUSTING",
+    "hook": "This is how we think we (insert pain point), but you would have to (insert action) on top of (insert action) # of times for that to happen.",
+    "urls": [
+      "https://www.instagram.com/alexgamblecoach/reel/C9Zb1ZOP-Tl/"
+    ],
+    "placeholders": [
+      "(insert pain point)",
+      "(insert action)"
+    ]
+  },
+  {
+    "id": 525,
+    "category": "MYTH BUSTING",
+    "hook": "(Insert noun) is actually a really good (Insert noun) for (insert result).",
+    "urls": [
+      "https://www.instagram.com/reel/C5yQUs6LQMM/?utm_source=ig_web_copy_link"
+    ],
+    "placeholders": [
+      "(Insert noun)",
+      "(insert result)"
+    ]
+  },
+  {
+    "id": 526,
+    "category": "MYTH BUSTING",
+    "hook": "# things I would never (insert action) in my (insert age range) if I wanted to (insert dream result) by (insert agerange).",
+    "urls": [
+      "https://www.instagram.com/share/BAGNNxOLAP"
+    ],
+    "placeholders": [
+      "(insert action)",
+      "(insert age range)",
+      "(insert dream result)",
+      "(insert agerange)"
+    ]
+  },
+  {
+    "id": 527,
+    "category": "MYTH BUSTING",
+    "hook": "If you look in the mirror and notice (insert observation) here's what you do to (insert dream result).",
+    "urls": [
+      "https://www.instagram.com/share/BAPOeL5mmh"
+    ],
+    "placeholders": [
+      "(insert observation)",
+      "(insert dream result)"
+    ]
+  },
+  {
+    "id": 528,
+    "category": "MYTH BUSTING",
+    "hook": "I haven't done (insert common action) in over # years, and it's healed (insert noun).",
+    "urls": [
+      "https://www.instagram.com/p/DGTiPPMygzM/"
+    ],
+    "placeholders": [
+      "(insert common action)",
+      "(insert noun)"
+    ]
+  },
+  {
+    "id": 529,
+    "category": "MYTH BUSTING",
+    "hook": "(insert dream outcome) that don't taste/look like pure bootyhole.",
+    "urls": [
+      "https://www.instagram.com/p/DG8lDUFoouT/"
+    ],
+    "placeholders": [
+      "(insert dream outcome)"
+    ]
+  },
+  {
+    "id": 530,
+    "category": "MYTH BUSTING",
+    "hook": "You are not (insert bad label), you are not (insert bad label), you just can't (insert adjective) .",
+    "urls": [
+      "https://www.instagram.com/p/DBWFRQqO3Nt/"
+    ],
+    "placeholders": [
+      "(insert bad label)",
+      "(insert adjective)"
+    ]
+  },
+  {
+    "id": 531,
+    "category": "MYTH BUSTING",
+    "hook": "My biggest regret in (insert life event) was (insert accomplishment).",
+    "urls": [
+      "https://www.instagram.com/p/C22y9caxGf6/"
+    ],
+    "placeholders": [
+      "(insert life event)",
+      "(insert accomplishment)"
+    ]
+  },
+  {
+    "id": 532,
+    "category": "MYTH BUSTING",
+    "hook": "(insert action) I have never (insert action) before, to prove (insert action) is easy.",
+    "urls": [
+      "https://www.instagram.com/p/DDh_Y0PzPi9/"
+    ],
+    "placeholders": [
+      "(insert action)"
+    ]
+  },
+  {
+    "id": 533,
+    "category": "MYTH BUSTING",
+    "hook": "For the price of this many (insert noun) at the (insert place/store/restaurant) you could make this many at home.",
+    "urls": [
+      "https://www.instagram.com/p/DCKUo2tSsBe/"
+    ],
+    "placeholders": [
+      "(insert noun)",
+      "(insert place/store/restaurant)"
+    ]
+  },
+  {
+    "id": 534,
+    "category": "MYTH BUSTING",
+    "hook": "If you (insert action) this (insert noun) then yes i'm judging you.",
+    "urls": [
+      "https://www.instagram.com/p/DIKYWrVpgp4/"
+    ],
+    "placeholders": [
+      "(insert action)",
+      "(insert noun)"
+    ]
+  },
+  {
+    "id": 535,
+    "category": "MYTH BUSTING",
+    "hook": "You are (insert action) too many (insert noun) that you didn't know.",
+    "urls": [
+      "https://www.instagram.com/p/DHzxZ28x4KX/"
+    ],
+    "placeholders": [
+      "(insert action)",
+      "(insert noun)"
+    ]
+  },
+  {
+    "id": 536,
+    "category": "MYTH BUSTING",
+    "hook": "I have never met a single person that (insert action), (insert action), (insert action), (insert action), and still has time to (insert dream result).",
+    "urls": [
+      "https://www.instagram.com/p/C84rOEixNKS/"
+    ],
+    "placeholders": [
+      "(insert action)",
+      "(insert dream result)"
+    ]
+  },
+  {
+    "id": 537,
+    "category": "MYTH BUSTING",
+    "hook": "(insert well known person or brand) is trying to get this video removed from the internet because he/she exposes their product for being (insert negative result). Watch this now before it's gone.",
+    "urls": [
+      "https://www.instagram.com/p/DB7OnuqSYBr/"
+    ],
+    "placeholders": [
+      "(insert well known person or brand)",
+      "(insert negative result)"
+    ]
+  },
+  {
+    "id": 538,
+    "category": "MYTH BUSTING",
+    "hook": "What if I told you making your own (insert noun) is actually super easy and only costs (insert price).",
+    "urls": [
+      "https://www.instagram.com/p/DH1SDq_qBny/"
+    ],
+    "placeholders": [
+      "(insert noun)",
+      "(insert price)"
+    ]
+  },
+  {
+    "id": 539,
+    "category": "MYTH BUSTING",
+    "hook": "I said it before and I am going to say it again (insert mind blowing fact).",
+    "urls": [
+      "https://www.instagram.com/p/DDFJKmqozH6/"
+    ],
+    "placeholders": [
+      "(insert mind blowing fact)"
+    ]
+  },
+  {
+    "id": 540,
+    "category": "MYTH BUSTING",
+    "hook": "There is absolutely no reason for you to be (insert pain point) every single day just because you are trying to (insert dream result).",
+    "urls": [
+      "https://www.instagram.com/p/DHaw56FzsOe/"
+    ],
+    "placeholders": [
+      "(insert pain point)",
+      "(insert dream result)"
+    ]
+  },
+  {
+    "id": 541,
+    "category": "MYTH BUSTING",
+    "hook": "Don't make the mistake of (insert action), (insert action), (insert action).",
+    "urls": [
+      "https://www.instagram.com/p/DIFEWODyeM0/"
+    ],
+    "placeholders": [
+      "(insert action)"
+    ]
+  },
+  {
+    "id": 542,
+    "category": "MYTH BUSTING",
+    "hook": "You are not bad at (insert action), you probably were just never taught how to (insert action).",
+    "urls": [
+      "https://www.instagram.com/p/DHYuMQYp0Kv/"
+    ],
+    "placeholders": [
+      "(insert action)"
+    ]
+  },
+  {
+    "id": 543,
+    "category": "MYTH BUSTING",
+    "hook": "If you're a young (insert person) and you are a (insert result) (insert title), let me tell you something you got a bright future buddy.",
+    "urls": [
+      "https://www.instagram.com/p/DIfDhHqTlkW/"
+    ],
+    "placeholders": [
+      "(insert person)",
+      "(insert result)",
+      "(insert title)"
+    ]
+  },
+  {
+    "id": 544,
+    "category": "MYTH BUSTING",
+    "hook": "I can't (insert verb) (insert noun) anymore.",
+    "urls": [
+      "https://www.instagram.com/p/DIyeda6xw9w/"
+    ],
+    "placeholders": [
+      "(insert verb)",
+      "(insert noun)"
+    ]
+  },
+  {
+    "id": 545,
+    "category": "MYTH BUSTING",
+    "hook": "Believe it or not this (insert noun) was not (insert verb) with a (insert noun).",
+    "urls": [
+      "https://www.instagram.com/p/C2SNZy0gL-x/"
+    ],
+    "placeholders": [
+      "(insert noun)",
+      "(insert verb)"
+    ]
+  },
+  {
+    "id": 546,
+    "category": "MYTH BUSTING",
+    "hook": "(insert noun) are not (insert adjective) and they are not a cop-out. I think they can actually be made into something really really (insert adjective).",
+    "urls": [
+      "https://www.instagram.com/p/DHRsoELBphP/"
+    ],
+    "placeholders": [
+      "(insert noun)",
+      "(insert adjective)"
+    ]
+  },
+  {
+    "id": 547,
+    "category": "MYTH BUSTING",
+    "hook": "If your (insert noun) are not lasting you at least (insert time frame) you are probably doing them wrong.",
+    "urls": [
+      "https://www.instagram.com/p/DETLyaexWaQ/"
+    ],
+    "placeholders": [
+      "(insert noun)",
+      "(insert time frame)"
+    ]
+  },
+  {
+    "id": 548,
+    "category": "MYTH BUSTING",
+    "hook": "This is why you should always (insert verb) your (insert noun) before (insert verb).",
+    "urls": [
+      "https://www.instagram.com/p/DHU2-6vxXxm/"
+    ],
+    "placeholders": [
+      "(insert verb)",
+      "(insert noun)"
+    ]
+  },
+  {
+    "id": 549,
+    "category": "MYTH BUSTING",
+    "hook": "You're using your (insert noun) wrong and I am going to show you how to use it the right way.",
+    "urls": [
+      "https://www.instagram.com/p/DIOwnaJJ976/"
+    ],
+    "placeholders": [
+      "(insert noun)"
+    ]
+  },
+  {
+    "id": 550,
+    "category": "MYTH BUSTING",
+    "hook": "Everyone on the internet is going to tell you making (insert noun) is impossible. But I am going to show youhow to make them from home.",
+    "urls": [
+      "https://www.instagram.com/p/DF6K0b0Rt9b/"
+    ],
+    "placeholders": [
+      "(insert noun)"
+    ]
+  },
+  {
+    "id": 551,
+    "category": "MYTH BUSTING",
+    "hook": "I will let you in on a secret (insert verb) is the easiest thing in the world.",
+    "urls": [
+      "https://www.instagram.com/p/DDHW7loz2jm/"
+    ],
+    "placeholders": [
+      "(insert verb)"
+    ]
+  },
+  {
+    "id": 552,
+    "category": "MYTH BUSTING",
+    "hook": "Are you still (insert verb) (insert noun) like this? While I worked at (insert noun) and let me show you how to do it like a pro.",
+    "urls": [
+      "https://www.instagram.com/p/DGdz4nPSXvz/"
+    ],
+    "placeholders": [
+      "(insert verb)",
+      "(insert noun)"
+    ]
+  },
+  {
+    "id": 553,
+    "category": "MYTH BUSTING",
+    "hook": "Instead of (insert verb) (insert noun) like this, try this method instead.",
+    "urls": [
+      "https://www.instagram.com/p/DH9gry2heFS/"
+    ],
+    "placeholders": [
+      "(insert verb)",
+      "(insert noun)"
+    ]
+  },
+  {
+    "id": 554,
+    "category": "MYTH BUSTING",
+    "hook": "(insert verb) does not mean your (insert adjective), it means your just (insert adjective).",
+    "urls": [
+      "https://www.instagram.com/p/DAw01riSVei/"
+    ],
+    "placeholders": [
+      "(insert verb)",
+      "(insert adjective)"
+    ]
+  },
+  {
+    "id": 555,
+    "category": "MYTH BUSTING",
+    "hook": "If you (insert action) like this, then you're doing it wrong.",
+    "urls": [
+      "https://www.instagram.com/p/DHcv_7uBv1p/"
+    ],
+    "placeholders": [
+      "(insert action)"
+    ]
+  },
+  {
+    "id": 556,
+    "category": "MYTH BUSTING",
+    "hook": "I am going to hold you hand while I tell you this. If you only have # of (insert noun) you are not doing it the right way.",
+    "urls": [
+      "https://www.instagram.com/p/DCZ9dK9Jjlw/"
+    ],
+    "placeholders": [
+      "(insert noun)"
+    ]
+  },
+  {
+    "id": 557,
+    "category": "MYTH BUSTING",
+    "hook": "# things you should never put in your (insert noun).",
+    "urls": [
+      "https://www.instagram.com/p/DDxoAs_TciE/"
+    ],
+    "placeholders": [
+      "(insert noun)"
+    ]
+  },
+  {
+    "id": 558,
+    "category": "MYTH BUSTING",
+    "hook": "(insert noun) are not as disgusting as you think.",
+    "urls": [
+      "https://www.instagram.com/reel/DHBslKRvZ7_/?igsh=MW83azY5b2s2YTEzag=="
+    ],
+    "placeholders": [
+      "(insert noun)"
+    ]
+  },
+  {
+    "id": 559,
+    "category": "MYTH BUSTING",
+    "hook": "(insert noun) is better for (insert result) than (insert noun). And yes I am going to back up my claim with studies.",
+    "urls": [
+      "https://www.instagram.com/reel/DFYHUihoaFK/?igsh=MXF3ZDZ2dmRwZmZpeA=="
+    ],
+    "placeholders": [
+      "(insert noun)",
+      "(insert result)"
+    ]
+  },
+  {
+    "id": 560,
+    "category": "MYTH BUSTING",
+    "hook": "Being (insert result) is not just based on (insert noun). You may not believe this but I could have been (insert adjective) then this guy/girl if I had just changed a few things.",
+    "urls": [
+      "https://www.instagram.com/reel/DH2VMvQNFXc/?igsh=MTNrejltdnZ3YW94eg%3D%3D"
+    ],
+    "placeholders": [
+      "(insert result)",
+      "(insert noun)",
+      "(insert adjective)"
+    ]
+  },
+  {
+    "id": 561,
+    "category": "STORYTELLING",
+    "hook": "I started my (insert business) when I was (insert age) with (insert $).",
+    "urls": [
+      "https://www.instagram.com/p/C9GHw6MO48j/"
+    ],
+    "placeholders": [
+      "(insert business)",
+      "(insert age)",
+      "(insert $)"
+    ]
+  },
+  {
+    "id": 562,
+    "category": "STORYTELLING",
+    "hook": "X years ago my (insert person) told me (insert quote).",
+    "urls": [
+      "https://www.instagram.com/p/C84meBcM9NB/"
+    ],
+    "placeholders": [
+      "(insert person)",
+      "(insert quote)"
+    ]
+  },
+  {
+    "id": 563,
+    "category": "STORYTELLING",
+    "hook": "I have (insert time) to get my sh*t together.",
+    "urls": [
+      "https://www.instagram.com/reel/C79z4euRhlV/"
+    ],
+    "placeholders": [
+      "(insert time)"
+    ]
+  },
+  {
+    "id": 564,
+    "category": "STORYTELLING",
+    "hook": "I don't have a backup plan so this kind of needs to work.",
+    "urls": [
+      "https://www.instagram.com/p/C7XpT7tPwCP/"
+    ],
+    "placeholders": []
+  },
+  {
+    "id": 565,
+    "category": "STORYTELLING",
+    "hook": "This is how my (insert event/item/result) changed my life.",
+    "urls": [
+      "https://www.instagram.com/p/C9t1s7myhI7/"
+    ],
+    "placeholders": [
+      "(insert event/item/result)"
+    ]
+  },
+  {
+    "id": 566,
+    "category": "STORYTELLING",
+    "hook": "So about a month ago my (insert person) and I did (insert action).",
+    "urls": [
+      "https://www.instagram.com/p/DImqKRqy4xr/"
+    ],
+    "placeholders": [
+      "(insert person)",
+      "(insert action)"
+    ]
+  },
+  {
+    "id": 567,
+    "category": "STORYTELLING",
+    "hook": "I have (insert action) over (insert #) in my life.",
+    "urls": [
+      "https://www.instagram.com/p/C9GM_SJpJ3k/"
+    ],
+    "placeholders": [
+      "(insert action)",
+      "(insert #)"
+    ]
+  },
+  {
+    "id": 568,
+    "category": "STORYTELLING",
+    "hook": "This is a picture of my (insert what picture is).",
+    "urls": [
+      "https://www.instagram.com/reel/C_njKwBOuLi/"
+    ],
+    "placeholders": [
+      "(insert what picture is)"
+    ]
+  },
+  {
+    "id": 569,
+    "category": "STORYTELLING",
+    "hook": "X years ago I decided to (insert decision).",
+    "urls": [
+      "https://www.instagram.com/p/C-IOTqUtbth/"
+    ],
+    "placeholders": [
+      "(insert decision)"
+    ]
+  },
+  {
+    "id": 570,
+    "category": "STORYTELLING",
+    "hook": "Yesterday I was at (insert location) when I noticed something (insert adjective).",
+    "urls": [
+      "https://www.instagram.com/reel/DFLw3SmSNti/"
+    ],
+    "placeholders": [
+      "(insert location)",
+      "(insert adjective)"
+    ]
+  },
+  {
+    "id": 571,
+    "category": "STORYTELLING",
+    "hook": "X years ago I was (insert action) because I (insert pain point).",
+    "urls": [
+      "https://www.instagram.com/reel/DEq8rUQyR92/"
+    ],
+    "placeholders": [
+      "(insert action)",
+      "(insert pain point)"
+    ]
+  },
+  {
+    "id": 572,
+    "category": "STORYTELLING",
+    "hook": "Is it possible to (insert action) while (insert action) in X days.",
+    "urls": [
+      "https://www.instagram.com/reel/DEgmPM_yqsz/"
+    ],
+    "placeholders": [
+      "(insert action)"
+    ]
+  },
+  {
+    "id": 573,
+    "category": "STORYTELLING",
+    "hook": "When is it time to do (insert action).",
+    "urls": [
+      "https://www.instagram.com/reel/DDrwl5ix3a0/?igsh=MW14dGUybG5rYnhxdQ=="
+    ],
+    "placeholders": [
+      "(insert action)"
+    ]
+  },
+  {
+    "id": 574,
+    "category": "STORYTELLING",
+    "hook": "So I did (insert action) last week.",
+    "urls": [
+      "https://www.instagram.com/share/BAIu4m7QIH"
+    ],
+    "placeholders": [
+      "(insert action)"
+    ]
+  },
+  {
+    "id": 575,
+    "category": "STORYTELLING",
+    "hook": "When I was (insert description) I was always (insert bad habit).",
+    "urls": [
+      "https://www.instagram.com/p/CzevtHvyxxX/"
+    ],
+    "placeholders": [
+      "(insert description)",
+      "(insert bad habit)"
+    ]
+  },
+  {
+    "id": 576,
+    "category": "STORYTELLING",
+    "hook": "If you are anything like me, you take your (insert event/item) very seriously.",
+    "urls": [
+      "https://www.instagram.com/p/DBnbVTMSaJb/"
+    ],
+    "placeholders": [
+      "(insert event/item)"
+    ]
+  },
+  {
+    "id": 577,
+    "category": "STORYTELLING",
+    "hook": "In (insert time), I went from (insert before state) to (insert after state).",
+    "urls": [
+      "https://www.instagram.com/reel/DFfnKFWusVf/?igsh=MXE1d3ZybnJ6eXIwZg=="
+    ],
+    "placeholders": [
+      "(insert time)",
+      "(insert before state)",
+      "(insert after state)"
+    ]
+  },
+  {
+    "id": 578,
+    "category": "STORYTELLING",
+    "hook": "X years ago we (insert action) to (insert result).",
+    "urls": [
+      "https://www.instagram.com/p/C_ZVKRfSMm_/"
+    ],
+    "placeholders": [
+      "(insert action)",
+      "(insert result)"
+    ]
+  },
+  {
+    "id": 579,
+    "category": "STORYTELLING",
+    "hook": "Hi I am (insert first name) and I am starting (insert business) from scratch.",
+    "urls": [
+      "https://www.instagram.com/reel/DDEBm2jOYMG/?igsh=cXl6cjNwc3pnajF4"
+    ],
+    "placeholders": [
+      "(insert first name)",
+      "(insert business)"
+    ]
+  },
+  {
+    "id": 580,
+    "category": "STORYTELLING",
+    "hook": "This is the story of how I managed to do (insert achievement).",
+    "urls": [
+      "https://www.instagram.com/reel/DCg1__Wsy7F/?igsh=ZGhrM3B5eTVrZzht"
+    ],
+    "placeholders": [
+      "(insert achievement)"
+    ]
+  },
+  {
+    "id": 581,
+    "category": "STORYTELLING",
+    "hook": "I am (insert age) having an identity crisis.",
+    "urls": [
+      "https://www.instagram.com/reel/DDJM-ivP9-v/?igsh=ZDh0bG51azdpMDc0"
+    ],
+    "placeholders": [
+      "(insert age)"
+    ]
+  },
+  {
+    "id": 582,
+    "category": "STORYTELLING",
+    "hook": "(# days/months/years) ago I quit (insert thing).",
+    "urls": [
+      "https://www.instagram.com/reel/C-5yJQmoPsM/?igsh=ejRheHR1ODg4NW83"
+    ],
+    "placeholders": [
+      "(# days/months/years)",
+      "(insert thing)"
+    ]
+  },
+  {
+    "id": 583,
+    "category": "STORYTELLING",
+    "hook": "This is probably the scariest thing I have ever done.",
+    "urls": [
+      "https://www.instagram.com/reel/DAYtnokvm-J/?igsh=dmN0ZTNudGtodGpr"
+    ],
+    "placeholders": []
+  },
+  {
+    "id": 584,
+    "category": "STORYTELLING",
+    "hook": "This girl/boy was in her/his flop era.",
+    "urls": [
+      "https://www.instagram.com/reel/DAOowDot7OB/?igsh=MW9ibGhiNHhsZjRweg%3D%3D"
+    ],
+    "placeholders": []
+  },
+  {
+    "id": 585,
+    "category": "STORYTELLING",
+    "hook": "Is it possible for (insert description) to make (insert $) a month?",
+    "urls": [
+      "https://www.instagram.com/reel/DFkNykWxPoe/?igsh=OXQ0ODJkcmlpeml0"
+    ],
+    "placeholders": [
+      "(insert description)",
+      "(insert $)"
+    ]
+  },
+  {
+    "id": 586,
+    "category": "STORYTELLING",
+    "hook": "I did everything right.",
+    "urls": [
+      "https://www.instagram.com/p/DDohj4MI-7U/"
+    ],
+    "placeholders": []
+  },
+  {
+    "id": 587,
+    "category": "STORYTELLING",
+    "hook": "So I recently started feeling \"the pressure\" everyone talks about.",
+    "urls": [
+      "https://www.instagram.com/reel/C9KNzOkIk6m/?igsh=MTAzOGQ1Zm53OXNjaw%3D%3D"
+    ],
+    "placeholders": []
+  },
+  {
+    "id": 588,
+    "category": "STORYTELLING",
+    "hook": "Can you (insert dream result) after (insert shortcut).",
+    "urls": [
+      "https://www.instagram.com/reel/C6uGU4xxKV_/"
+    ],
+    "placeholders": [
+      "(insert dream result)",
+      "(insert shortcut)"
+    ]
+  },
+  {
+    "id": 589,
+    "category": "STORYTELLING",
+    "hook": "After X years of I (insert action) because I realized one thing: (insert statement).",
+    "urls": [
+      "https://www.instagram.com/reel/DEJiasASTVx/"
+    ],
+    "placeholders": [
+      "(insert action)",
+      "(insert statement)"
+    ]
+  },
+  {
+    "id": 590,
+    "category": "STORYTELLING",
+    "hook": "It all started when (insert person) (insert action).",
+    "urls": [
+      "https://www.instagram.com/p/DC5ioSRMrnS/"
+    ],
+    "placeholders": [
+      "(insert person)",
+      "(insert action)"
+    ]
+  },
+  {
+    "id": 591,
+    "category": "STORYTELLING",
+    "hook": "X years ago (insert people) (insert action).",
+    "urls": [
+      "https://www.instagram.com/p/C_50kObxUwc/"
+    ],
+    "placeholders": [
+      "(insert people)",
+      "(insert action)"
+    ]
+  },
+  {
+    "id": 592,
+    "category": "STORYTELLING",
+    "hook": "I'm (insert action) in (insert time) and I just (insert action).",
+    "urls": [
+      "https://www.instagram.com/p/DFf7WpdREbp/"
+    ],
+    "placeholders": [
+      "(insert action)",
+      "(insert time)"
+    ]
+  },
+  {
+    "id": 593,
+    "category": "STORYTELLING",
+    "hook": "1 Year Ago today, I ___.",
+    "urls": [
+      "https://www.instagram.com/reel/DDvdqxIJcbe/?igsh=MWZxZDI1Z25vcnlibw%3D%3D"
+    ],
+    "placeholders": []
+  },
+  {
+    "id": 594,
+    "category": "STORYTELLING",
+    "hook": "I'm (insert age) and I'm not ashamed to admit that >>",
+    "urls": [
+      "https://www.instagram.com/reel/DFOqo61NrJu/?igsh=MnIyNnFrczB0aDBx"
+    ],
+    "placeholders": [
+      "(insert age)"
+    ]
+  },
+  {
+    "id": 595,
+    "category": "STORYTELLING",
+    "hook": "When I (insert action), people said (insert feedback).",
+    "urls": [
+      "https://www.instagram.com/reel/DEj-ntbyxb_/?igsh=MW8xdjFpYWRtc2hmdQ=="
+    ],
+    "placeholders": [
+      "(insert action)",
+      "(insert feedback)"
+    ]
+  },
+  {
+    "id": 596,
+    "category": "STORYTELLING",
+    "hook": "X days/weeks/months/years into my (insert action), my worst nightmare became my reality.",
+    "urls": [
+      "https://www.instagram.com/p/DETO9Z0u5cN/"
+    ],
+    "placeholders": [
+      "(insert action)"
+    ]
+  },
+  {
+    "id": 597,
+    "category": "STORYTELLING",
+    "hook": "It all started when this boy/girl, (insert action).",
+    "urls": [
+      "https://www.instagram.com/p/DC5ioSRMrnS/"
+    ],
+    "placeholders": [
+      "(insert action)"
+    ]
+  },
+  {
+    "id": 598,
+    "category": "STORYTELLING",
+    "hook": "X days/weeks/months ago my (insert person) and I (insert action), (insert action), and (insert action) this is how it's going.",
+    "urls": [
+      "https://www.instagram.com/p/C_50kObxUwc/"
+    ],
+    "placeholders": [
+      "(insert person)",
+      "(insert action)"
+    ]
+  },
+  {
+    "id": 599,
+    "category": "STORYTELLING",
+    "hook": "I started my (insert business) when I was (insert age) with (insert $)",
+    "urls": [
+      "https://www.instagram.com/p/C9GHw6MO48j/"
+    ],
+    "placeholders": [
+      "(insert business)",
+      "(insert age)",
+      "(insert $)"
+    ]
+  },
+  {
+    "id": 600,
+    "category": "STORYTELLING",
+    "hook": "X days/months/years ago my (insert person) told me (insert statement)",
+    "urls": [
+      "https://www.instagram.com/p/C84meBcM9NB/"
+    ],
+    "placeholders": [
+      "(insert person)",
+      "(insert statement)"
+    ]
+  },
+  {
+    "id": 601,
+    "category": "STORYTELLING",
+    "hook": "When I (insert action), people said (insert feedback)",
+    "urls": [
+      "https://www.instagram.com/reel/DEj-ntbyxb_/?igsh=MW8xdjFpYWRtc2hmdQ=="
+    ],
+    "placeholders": [
+      "(insert action)",
+      "(insert feedback)"
+    ]
+  },
+  {
+    "id": 602,
+    "category": "STORYTELLING",
+    "hook": "I woke up this morning thinking about (insert thought)",
+    "urls": [
+      "https://www.instagram.com/reel/DEtoEgJSVhy/"
+    ],
+    "placeholders": [
+      "(insert thought)"
+    ]
+  },
+  {
+    "id": 603,
+    "category": "STORYTELLING",
+    "hook": "X days/months/years I (insert life event) and decided to quit (insert bad habit)",
+    "urls": [
+      "https://www.instagram.com/reel/DEd9AFGydqg/"
+    ],
+    "placeholders": [
+      "(insert life event)",
+      "(insert bad habit)"
+    ]
+  },
+  {
+    "id": 604,
+    "category": "STORYTELLING",
+    "hook": "X days/months/years I started (insert action) again after being stuck at (insert pain point)",
+    "urls": [
+      "https://www.instagram.com/reel/DEUEvFzyL_o/"
+    ],
+    "placeholders": [
+      "(insert action)",
+      "(insert pain point)"
+    ]
+  },
+  {
+    "id": 605,
+    "category": "STORYTELLING",
+    "hook": "X days/months/years I started (insert action) thinking it would magically solve (insert pain point) but here is what ended up happening",
+    "urls": [
+      "https://www.instagram.com/reel/DDY83YuSJ-9/"
+    ],
+    "placeholders": [
+      "(insert action)",
+      "(insert pain point)"
+    ]
+  },
+  {
+    "id": 606,
+    "category": "STORYTELLING",
+    "hook": "I am an X year old (insert occupation) from (insert location) and I just (insert action)",
+    "urls": [
+      "https://www.instagram.com/reel/DDWIHZESamL/"
+    ],
+    "placeholders": [
+      "(insert occupation)",
+      "(insert location)",
+      "(insert action)"
+    ]
+  },
+  {
+    "id": 607,
+    "category": "STORYTELLING",
+    "hook": "I don't have a backup plan so this kind of needs to work…",
+    "urls": [
+      "https://www.instagram.com/p/C7XpT7tPwCP/"
+    ],
+    "placeholders": []
+  },
+  {
+    "id": 608,
+    "category": "STORYTELLING",
+    "hook": "This is how my X changed my life",
+    "urls": [
+      "https://www.instagram.com/p/C9t1s7myhI7/"
+    ],
+    "placeholders": []
+  },
+  {
+    "id": 609,
+    "category": "STORYTELLING",
+    "hook": "I have (insert action) over (insert #) in my life",
+    "urls": [
+      "https://www.instagram.com/p/C9GM_SJpJ3k/"
+    ],
+    "placeholders": [
+      "(insert action)",
+      "(insert #)"
+    ]
+  },
+  {
+    "id": 610,
+    "category": "STORYTELLING",
+    "hook": "This is a picture of my (insert what picture is of)",
+    "urls": [
+      "https://www.instagram.com/reel/C_njKwBOuLi/"
+    ],
+    "placeholders": [
+      "(insert what picture is of)"
+    ]
+  },
+  {
+    "id": 611,
+    "category": "STORYTELLING",
+    "hook": "X days/months/years ago I decided to (insert decision)",
+    "urls": [
+      "https://www.instagram.com/p/C-IOTqUtbth/"
+    ],
+    "placeholders": [
+      "(insert decision)"
+    ]
+  },
+  {
+    "id": 612,
+    "category": "STORYTELLING",
+    "hook": "Yesterday I was at (insert location) when I noticed something (insert adjective)",
+    "urls": [
+      "https://www.instagram.com/reel/DFLw3SmSNti/"
+    ],
+    "placeholders": [
+      "(insert location)",
+      "(insert adjective)"
+    ]
+  },
+  {
+    "id": 613,
+    "category": "STORYTELLING",
+    "hook": "X days/months/years ago I was (insert action) because I (insert pain point)",
+    "urls": [
+      "https://www.instagram.com/reel/DEq8rUQyR92/"
+    ],
+    "placeholders": [
+      "(insert action)",
+      "(insert pain point)"
+    ]
+  },
+  {
+    "id": 614,
+    "category": "STORYTELLING",
+    "hook": "Is it possible to (insert dream result) while (insert action) in X days",
+    "urls": [
+      "https://www.instagram.com/reel/DEgmPM_yqsz/"
+    ],
+    "placeholders": [
+      "(insert dream result)",
+      "(insert action)"
+    ]
+  },
+  {
+    "id": 615,
+    "category": "STORYTELLING",
+    "hook": "When is it time to do (insert action)",
+    "urls": [
+      "https://www.instagram.com/reel/DDrwl5ix3a0/?igsh=MW14dGUybG5rYnhxdQ=="
+    ],
+    "placeholders": [
+      "(insert action)"
+    ]
+  },
+  {
+    "id": 616,
+    "category": "STORYTELLING",
+    "hook": "So I did (insert action) last week",
+    "urls": [
+      "https://www.instagram.com/share/BAIu4m7QIH"
+    ],
+    "placeholders": [
+      "(insert action)"
+    ]
+  },
+  {
+    "id": 617,
+    "category": "STORYTELLING",
+    "hook": "When I was (insert description) I was always (insert bad habit)",
+    "urls": [
+      "https://www.instagram.com/p/CzevtHvyxxX/"
+    ],
+    "placeholders": [
+      "(insert description)",
+      "(insert bad habit)"
+    ]
+  },
+  {
+    "id": 618,
+    "category": "STORYTELLING",
+    "hook": "If you are anything like me, you take your (insert action) very seriously",
+    "urls": [
+      "https://www.instagram.com/p/DBnbVTMSaJb/"
+    ],
+    "placeholders": [
+      "(insert action)"
+    ]
+  },
+  {
+    "id": 619,
+    "category": "STORYTELLING",
+    "hook": "In (insert time frame), I went from (insert before) to (insert dream result)",
+    "urls": [
+      "https://www.instagram.com/reel/DFfnKFWusVf/?igsh=MXE1d3ZybnJ6eXIwZg=="
+    ],
+    "placeholders": [
+      "(insert time frame)",
+      "(insert before)",
+      "(insert dream result)"
+    ]
+  },
+  {
+    "id": 620,
+    "category": "STORYTELLING",
+    "hook": "X days/months/years I (insert big risk)",
+    "urls": [
+      "https://www.instagram.com/p/C_ZVKRfSMm_/"
+    ],
+    "placeholders": [
+      "(insert big risk)"
+    ]
+  },
+  {
+    "id": 621,
+    "category": "STORYTELLING",
+    "hook": "I am starting/started a (insert business) from scratch",
+    "urls": [
+      "https://www.instagram.com/reel/DDEBm2jOYMG/?igsh=cXl6cjNwc3pnajF4"
+    ],
+    "placeholders": [
+      "(insert business)"
+    ]
+  },
+  {
+    "id": 622,
+    "category": "STORYTELLING",
+    "hook": "This is the story of how I managed to do (insert achievement)",
+    "urls": [
+      "https://www.instagram.com/reel/DCg1__Wsy7F/?igsh=ZGhrM3B5eTVrZzht"
+    ],
+    "placeholders": [
+      "(insert achievement)"
+    ]
+  },
+  {
+    "id": 623,
+    "category": "STORYTELLING",
+    "hook": "I am (insert age) having an identity crisis",
+    "urls": [
+      "https://www.instagram.com/reel/DDJM-ivP9-v/?igsh=ZDh0bG51azdpMDc0"
+    ],
+    "placeholders": [
+      "(insert age)"
+    ]
+  },
+  {
+    "id": 624,
+    "category": "STORYTELLING",
+    "hook": "X days/months/years ago I quit (insert habit)",
+    "urls": [
+      "https://www.instagram.com/reel/C-5yJQmoPsM/?igsh=ejRheHR1ODg4NW83"
+    ],
+    "placeholders": [
+      "(insert habit)"
+    ]
+  },
+  {
+    "id": 625,
+    "category": "STORYTELLING",
+    "hook": "X days/months/years ago I stopped (insert action/or habit) and started (insert action/or habit)",
+    "urls": [
+      "https://www.instagram.com/reel/DDvdqxIJcbe/?igsh=MWZxZDI1Z25vcnlibw%3D%3D"
+    ],
+    "placeholders": [
+      "(insert action/or habit)"
+    ]
+  },
+  {
+    "id": 626,
+    "category": "STORYTELLING",
+    "hook": "This is probably the scariest thing I have ever done",
+    "urls": [
+      "https://www.instagram.com/reel/DAYtnokvm-J/?igsh=dmN0ZTNudGtodGpr"
+    ],
+    "placeholders": []
+  },
+  {
+    "id": 627,
+    "category": "STORYTELLING",
+    "hook": "This girl/boy was in her/his flop era",
+    "urls": [
+      "https://www.instagram.com/reel/DAOowDot7OB/?igsh=MW9ibGhiNHhsZjRweg%3D%3D"
+    ],
+    "placeholders": []
+  },
+  {
+    "id": 628,
+    "category": "STORYTELLING",
+    "hook": "Is it possible for (insert avatar) to (insert dream result)?",
+    "urls": [
+      "https://www.instagram.com/reel/DFkNykWxPoe/?igsh=OXQ0ODJkcmlpeml0"
+    ],
+    "placeholders": [
+      "(insert avatar)",
+      "(insert dream result)"
+    ]
+  },
+  {
+    "id": 629,
+    "category": "STORYTELLING",
+    "hook": "I did everything right/wrong",
+    "urls": [
+      "https://www.instagram.com/p/DDohj4MI-7U/"
+    ],
+    "placeholders": []
+  },
+  {
+    "id": 630,
+    "category": "STORYTELLING",
+    "hook": "So I recently started feeling (insert feeling) everyone talks about",
+    "urls": [
+      "https://www.instagram.com/reel/C9KNzOkIk6m/?igsh=MTAzOGQ1Zm53OXNjaw%3D%3D"
+    ],
+    "placeholders": [
+      "(insert feeling)"
+    ]
+  },
+  {
+    "id": 631,
+    "category": "STORYTELLING",
+    "hook": "Can you (insert dream result) after (insert shortcut)",
+    "urls": [
+      "https://www.instagram.com/reel/C6uGU4xxKV_/"
+    ],
+    "placeholders": [
+      "(insert dream result)",
+      "(insert shortcut)"
+    ]
+  },
+  {
+    "id": 632,
+    "category": "STORYTELLING",
+    "hook": "After X years of (insert action/or habit) I stopped/started (insert action/or habit)",
+    "urls": [
+      "https://www.instagram.com/reel/DEJiasASTVx/"
+    ],
+    "placeholders": [
+      "(insert action/or habit)"
+    ]
+  },
+  {
+    "id": 633,
+    "category": "STORYTELLING",
+    "hook": "It all started when (insert person) (insert action)",
+    "urls": [
+      "https://www.instagram.com/p/DC5ioSRMrnS/"
+    ],
+    "placeholders": [
+      "(insert person)",
+      "(insert action)"
+    ]
+  },
+  {
+    "id": 634,
+    "category": "STORYTELLING",
+    "hook": "X days/months/years ago (insert people) (insert action)",
+    "urls": [
+      "https://www.instagram.com/p/C_50kObxUwc/"
+    ],
+    "placeholders": [
+      "(insert people)",
+      "(insert action)"
+    ]
+  },
+  {
+    "id": 635,
+    "category": "STORYTELLING",
+    "hook": "X days/months/years, I ___",
+    "urls": [
+      "https://www.instagram.com/reel/DDvdqxIJcbe/?igsh=MWZxZDI1Z25vcnlibw%3D%3D"
+    ],
+    "placeholders": []
+  },
+  {
+    "id": 636,
+    "category": "STORYTELLING",
+    "hook": "I'm (insert age) and I'm not ashamed to admit that",
+    "urls": [
+      "https://www.instagram.com/reel/DFOqo61NrJu/?igsh=MnIyNnFrczB0aDBx"
+    ],
+    "placeholders": [
+      "(insert age)"
+    ]
+  },
+  {
+    "id": 637,
+    "category": "STORYTELLING",
+    "hook": "The secret is out I am (insert action)",
+    "urls": [
+      "https://www.instagram.com/p/C97orJ_J8vW/"
+    ],
+    "placeholders": [
+      "(insert action)"
+    ]
+  },
+  {
+    "id": 638,
+    "category": "STORYTELLING",
+    "hook": "I got (insert dream result) without (pain point/points) here's how",
+    "urls": [
+      "https://www.instagram.com/p/C6G56RQrf9N/"
+    ],
+    "placeholders": [
+      "(insert dream result)",
+      "(pain point/points)"
+    ]
+  },
+  {
+    "id": 639,
+    "category": "STORYTELLING",
+    "hook": "So I (insert shocking action) for over (insert time frame)",
+    "urls": [
+      "https://www.instagram.com/reel/C94_dh1JEeE/"
+    ],
+    "placeholders": [
+      "(insert shocking action)",
+      "(insert time frame)"
+    ]
+  },
+  {
+    "id": 640,
+    "category": "STORYTELLING",
+    "hook": "So I messed up",
+    "urls": [
+      "https://www.instagram.com/reel/DD9yJvGRdoO/"
+    ],
+    "placeholders": []
+  },
+  {
+    "id": 641,
+    "category": "STORYTELLING",
+    "hook": "I developed an X addiction so strong I physically can not stop (insert action)",
+    "urls": [
+      "https://www.instagram.com/reel/C-CPzwMReyb/?igsh=MXBiYmdmc3dudm5vcg%3D%3D"
+    ],
+    "placeholders": [
+      "(insert action)"
+    ]
+  },
+  {
+    "id": 642,
+    "category": "STORYTELLING",
+    "hook": "X years it took me from (insert bad situation/result) to (insert good situation/result)",
+    "urls": [
+      "https://www.instagram.com/p/C8Cpii4PB1u/"
+    ],
+    "placeholders": [
+      "(insert bad situation/result)",
+      "(insert good situation/result)"
+    ]
+  },
+  {
+    "id": 643,
+    "category": "STORYTELLING",
+    "hook": "X Months/Years ago I (insert action) to (insert action)",
+    "urls": [
+      "https://www.instagram.com/reel/DFJCpPYTtxw/?igsh=M2oxZjVlNHp6MjQ%3D"
+    ],
+    "placeholders": [
+      "(insert action)"
+    ]
+  },
+  {
+    "id": 644,
+    "category": "STORYTELLING",
+    "hook": "I (insert action)",
+    "urls": [
+      "https://www.instagram.com/reel/DEVd9n0SEGK/?igsh=MWgwMmYyZXppMnE2Ng=="
+    ],
+    "placeholders": [
+      "(insert action)"
+    ]
+  },
+  {
+    "id": 645,
+    "category": "STORYTELLING",
+    "hook": "There is nothing more embarrassing than X",
+    "urls": [
+      "https://www.instagram.com/reel/C_s9nCBvHTE/?igsh=eWtjdjZsenoxZjVo"
+    ],
+    "placeholders": []
+  },
+  {
+    "id": 646,
+    "category": "STORYTELLING",
+    "hook": "I am a (insert title) by day and a (insert title) by night",
+    "urls": [
+      "https://www.instagram.com/reel/DDxlpp3yLup/?igsh=MXZzNThxN2F2ZTUzcQ=="
+    ],
+    "placeholders": [
+      "(insert title)"
+    ]
+  },
+  {
+    "id": 647,
+    "category": "STORYTELLING",
+    "hook": "Come with me to make (insert object)",
+    "urls": [
+      "https://www.instagram.com/p/DA8icSZuuX7/"
+    ],
+    "placeholders": [
+      "(insert object)"
+    ]
+  },
+  {
+    "id": 648,
+    "category": "STORYTELLING",
+    "hook": "Come with me to break up with (insert object/company/etc)",
+    "urls": [
+      "https://www.instagram.com/reel/DGDiMQMvslT/?igsh=MXc0aTdxMXc2bjVmaA=="
+    ],
+    "placeholders": [
+      "(insert object/company/etc)"
+    ]
+  },
+  {
+    "id": 649,
+    "category": "STORYTELLING",
+    "hook": "I started (insert business) at (age/life event) and I had no idea I would (insert result/outcome)",
+    "urls": [
+      "https://www.instagram.com/reel/C_oKE1BJZnw/?igsh=MTk4ZWJ0dnVycmNrbw%3D%3D"
+    ],
+    "placeholders": [
+      "(insert business)",
+      "(age/life event)",
+      "(insert result/outcome)"
+    ]
+  },
+  {
+    "id": 650,
+    "category": "STORYTELLING",
+    "hook": "You know the feminine urge to open (insert business)",
+    "urls": [
+      "https://www.instagram.com/p/DChR0akynLv/"
+    ],
+    "placeholders": [
+      "(insert business)"
+    ]
+  },
+  {
+    "id": 651,
+    "category": "STORYTELLING",
+    "hook": "It's been (insert time) since we (insert experience)",
+    "urls": [
+      "https://www.instagram.com/reel/DFbFikLNj5c/?igsh=MTBjbnRla2Fsc25zcQ%3D%3D"
+    ],
+    "placeholders": [
+      "(insert time)",
+      "(insert experience)"
+    ]
+  },
+  {
+    "id": 652,
+    "category": "STORYTELLING",
+    "hook": "I think (insert belief/opinion) so I have been taking matters into my own hands",
+    "urls": [
+      "https://www.instagram.com/reel/DFq4B3uSYSh/?igsh=ejd2bXM1bTFpZ2ll"
+    ],
+    "placeholders": [
+      "(insert belief/opinion)"
+    ]
+  },
+  {
+    "id": 653,
+    "category": "STORYTELLING",
+    "hook": "I was shocked when I found out (insert fact)",
+    "urls": [
+      "https://www.instagram.com/reel/DCz5caZymCk/?igsh=MXVzeGkxc2U1YWl2dQ%3D%3D"
+    ],
+    "placeholders": [
+      "(insert fact)"
+    ]
+  },
+  {
+    "id": 654,
+    "category": "STORYTELLING",
+    "hook": "So I just turned (insert age)",
+    "urls": [
+      "https://www.instagram.com/reel/DAfc0ZsRA_f/?igsh=MWFuZDRremIxN2VnOA=="
+    ],
+    "placeholders": [
+      "(insert age)"
+    ]
+  },
+  {
+    "id": 655,
+    "category": "STORYTELLING",
+    "hook": "This is how I got to (insert cool opportunity) in my X week/month/year of doing/starting (insert business or job)",
+    "urls": [
+      "https://www.instagram.com/reel/DD36juzzvlO/?igsh=MWt0a2FsdWdlbTNwcA%3D%3D"
+    ],
+    "placeholders": [
+      "(insert cool opportunity)",
+      "(insert business or job)"
+    ]
+  },
+  {
+    "id": 656,
+    "category": "STORYTELLING",
+    "hook": "What happens when you (insert action) then you end up (insert result) but you (insert challenge)",
+    "urls": [
+      "https://www.instagram.com/reel/DEIty1ju6EF/?igsh=MWdqemN4bHFxeXFzcg%3D%3D"
+    ],
+    "placeholders": [
+      "(insert action)",
+      "(insert result)",
+      "(insert challenge)"
+    ]
+  },
+  {
+    "id": 657,
+    "category": "STORYTELLING",
+    "hook": "What if I told you that (insert dream result) without (insert pain point)",
+    "urls": [
+      "https://www.instagram.com/reel/DDpTqOovShl/?igsh=MjlxanprY2Z1NWsw"
+    ],
+    "placeholders": [
+      "(insert dream result)",
+      "(insert pain point)"
+    ]
+  },
+  {
+    "id": 658,
+    "category": "STORYTELLING",
+    "hook": "I went on # of (insert noun) this year, and here is the one trait I learned that you need to have to (insert dream result).",
+    "urls": [
+      "https://www.instagram.com/p/DG7b8SAMjNJ/"
+    ],
+    "placeholders": [
+      "(insert noun)",
+      "(insert dream result)"
+    ]
+  },
+  {
+    "id": 659,
+    "category": "STORYTELLING",
+    "hook": "X days/months/years ago I was (insert action), every waking hour because I was (insert trait) and I wanted (insert result).",
+    "urls": [
+      "https://www.instagram.com/reel/DFUgKb4RGlI/"
+    ],
+    "placeholders": [
+      "(insert action)",
+      "(insert trait)",
+      "(insert result)"
+    ]
+  },
+  {
+    "id": 660,
+    "category": "STORYTELLING",
+    "hook": "X days/months/years ago I was (insert life event), because I was (insert action) instead of (insert action).",
+    "urls": [
+      "https://www.instagram.com/reel/DFuMWtZSSEx/"
+    ],
+    "placeholders": [
+      "(insert life event)",
+      "(insert action)"
+    ]
+  },
+  {
+    "id": 661,
+    "category": "STORYTELLING",
+    "hook": "This is (insert person) we have known each other from X years, X days, X hours, X minutes.",
+    "urls": [
+      "https://www.instagram.com/p/DHyp6wPiRgc/"
+    ],
+    "placeholders": [
+      "(insert person)"
+    ]
+  },
+  {
+    "id": 662,
+    "category": "STORYTELLING",
+    "hook": "Put a finger down if you told the entire internet you were going to create a (insert noun) without having any idea how to (insert action) or any idea how to start?",
+    "urls": [
+      "https://www.instagram.com/p/DGixMnEJ5l3/"
+    ],
+    "placeholders": [
+      "(insert noun)",
+      "(insert action)"
+    ]
+  },
+  {
+    "id": 663,
+    "category": "STORYTELLING",
+    "hook": "I think (insert noun) should be better than this, so i;ve been taking matters into my own hands.",
+    "urls": [
+      "https://www.instagram.com/reel/DFq4B3uSYSh/"
+    ],
+    "placeholders": [
+      "(insert noun)"
+    ]
+  },
+  {
+    "id": 664,
+    "category": "STORYTELLING",
+    "hook": "This is me (insert life state), yes my (insert observation) all my (insert persons) were (insert action) but I couldn't because I had to (insert scenario)",
+    "urls": [
+      "https://www.instagram.com/p/DAjykz5uqk3/"
+    ],
+    "placeholders": [
+      "(insert life state)",
+      "(insert observation)",
+      "(insert persons)",
+      "(insert action)",
+      "(insert scenario)"
+    ]
+  },
+  {
+    "id": 665,
+    "category": "STORYTELLING",
+    "hook": "I used to be in a super toxic relationship back in (insert time frame) so let me tell you about it.",
+    "urls": [
+      "https://www.instagram.com/p/DDsiifAu14W/"
+    ],
+    "placeholders": [
+      "(insert time frame)"
+    ]
+  },
+  {
+    "id": 666,
+    "category": "STORYTELLING",
+    "hook": "How I married my middle school/highschool/college girlfriend/boyfriend.",
+    "urls": [
+      "https://www.instagram.com/p/DCcFOykRggl/"
+    ],
+    "placeholders": []
+  },
+  {
+    "id": 667,
+    "category": "STORYTELLING",
+    "hook": "(insert person) always expects you to have (insert result) but the problem is….",
+    "urls": [
+      "https://www.instagram.com/p/C_0whsRP2Op/"
+    ],
+    "placeholders": [
+      "(insert person)",
+      "(insert result)"
+    ]
+  },
+  {
+    "id": 668,
+    "category": "STORYTELLING",
+    "hook": "My (insert label) (insert name) and I, started (insert business) in (insert year).",
+    "urls": [
+      "https://www.instagram.com/p/DFtp0PRuorw/"
+    ],
+    "placeholders": [
+      "(insert label)",
+      "(insert name)",
+      "(insert business)",
+      "(insert year)"
+    ]
+  },
+  {
+    "id": 669,
+    "category": "STORYTELLING",
+    "hook": "X days/months/years ago my (insert label) (insert name) and I (insert action) to (insert result).",
+    "urls": [
+      "https://www.instagram.com/p/DBkmeBPvd7b/"
+    ],
+    "placeholders": [
+      "(insert label)",
+      "(insert name)",
+      "(insert action)",
+      "(insert result)"
+    ]
+  },
+  {
+    "id": 670,
+    "category": "STORYTELLING",
+    "hook": "You are not (insert label) is something I wish I could have told my younger self.",
+    "urls": [
+      "https://www.instagram.com/p/DGQrQ7LvWlV/"
+    ],
+    "placeholders": [
+      "(insert label)"
+    ]
+  },
+  {
+    "id": 671,
+    "category": "STORYTELLING",
+    "hook": "Is it possible to get (insert dream result) with only (insert action) for only 1 day.",
+    "urls": [
+      "https://www.instagram.com/p/DDTjr8rxAjO/"
+    ],
+    "placeholders": [
+      "(insert dream result)",
+      "(insert action)"
+    ]
+  },
+  {
+    "id": 672,
+    "category": "STORYTELLING",
+    "hook": "I have no idea what I am doing at (insert place).",
+    "urls": [
+      "https://www.instagram.com/p/DF-ubrfxnVV/"
+    ],
+    "placeholders": [
+      "(insert place)"
+    ]
+  },
+  {
+    "id": 673,
+    "category": "STORYTELLING",
+    "hook": "I got (insert result) at (insert age) and (insert result) by (insert age) if you are scared about (insert result) this is for you.",
+    "urls": [
+      "https://www.instagram.com/p/DF9aqV_JPlA/"
+    ],
+    "placeholders": [
+      "(insert result)",
+      "(insert age)"
+    ]
+  },
+  {
+    "id": 674,
+    "category": "STORYTELLING",
+    "hook": "Is it possible to (insert action) successful (insert noun) for (insert noun) in just 1 hour?",
+    "urls": [
+      "https://www.instagram.com/p/C9ARkyWMR8C/"
+    ],
+    "placeholders": [
+      "(insert action)",
+      "(insert noun)"
+    ]
+  },
+  {
+    "id": 675,
+    "category": "STORYTELLING",
+    "hook": "(insert year) - I think I am going to (insert goal).",
+    "urls": [
+      "https://www.instagram.com/p/DDP5UpoR9Sl/"
+    ],
+    "placeholders": [
+      "(insert year)",
+      "(insert goal)"
+    ]
+  },
+  {
+    "id": 676,
+    "category": "STORYTELLING",
+    "hook": "So I bought this (insert noun) last week and quickly realized I have no idea how to (insert action).",
+    "urls": [
+      "https://www.instagram.com/share/BAE6C2ZZ78"
+    ],
+    "placeholders": [
+      "(insert noun)",
+      "(insert action)"
+    ]
+  },
+  {
+    "id": 677,
+    "category": "STORYTELLING",
+    "hook": "X days/months/years ago I bought a (insert noun) as a (insert age) with a full-time (insert job).",
+    "urls": [
+      "https://www.instagram.com/share/_tH1dbAEq"
+    ],
+    "placeholders": [
+      "(insert noun)",
+      "(insert age)",
+      "(insert job)"
+    ]
+  },
+  {
+    "id": 678,
+    "category": "STORYTELLING",
+    "hook": "We (insert action) over # of the most (insert adjective) (insert profession) and # responded.",
+    "urls": [
+      "https://www.instagram.com/reel/DEOUKcLPUZe/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA=="
+    ],
+    "placeholders": [
+      "(insert action)",
+      "(insert adjective)",
+      "(insert profession)"
+    ]
+  },
+  {
+    "id": 679,
+    "category": "STORYTELLING",
+    "hook": "I hate to say this but my wake up call wasn't as (insert scenario) no my first wake up call was (insert scenario).",
+    "urls": [
+      "https://www.instagram.com/share/BAJjwss1-k"
+    ],
+    "placeholders": [
+      "(insert scenario)"
+    ]
+  },
+  {
+    "id": 680,
+    "category": "STORYTELLING",
+    "hook": "Is it possible to get (insert dream result) without your daddy being the CEO of apple.",
+    "urls": [
+      "https://www.instagram.com/share/_58N3lM2x"
+    ],
+    "placeholders": [
+      "(insert dream result)"
+    ]
+  },
+  {
+    "id": 681,
+    "category": "STORYTELLING",
+    "hook": "If you're new to this channel let me catch you up.",
+    "urls": [
+      "https://www.instagram.com/p/DFsxrUWI7EY/"
+    ],
+    "placeholders": []
+  },
+  {
+    "id": 682,
+    "category": "STORYTELLING",
+    "hook": "The worst part about being a (insert title) is I literally donot…",
+    "urls": [
+      "https://www.instagram.com/p/DDV2GYxpnmu/"
+    ],
+    "placeholders": [
+      "(insert title)"
+    ]
+  },
+  {
+    "id": 683,
+    "category": "STORYTELLING",
+    "hook": "Living in a (insert adjective) household has led me to literally having (insert bad result).",
+    "urls": [
+      "https://www.instagram.com/p/DFqJbiIqCCH/"
+    ],
+    "placeholders": [
+      "(insert adjective)",
+      "(insert bad result)"
+    ]
+  },
+  {
+    "id": 684,
+    "category": "STORYTELLING",
+    "hook": "Nothing could have prepared me for how it feels being in your (insert age group) and (insert situation).",
+    "urls": [
+      "https://www.instagram.com/p/DCPdQiGoOoz/"
+    ],
+    "placeholders": [
+      "(insert age group)",
+      "(insert situation)"
+    ]
+  },
+  {
+    "id": 685,
+    "category": "STORYTELLING",
+    "hook": "So apparently your frontal lobe does not develop fully until your age 25, so here are some things I have realized since it came in.",
+    "urls": [
+      "https://www.instagram.com/p/DGllUMjIMY3/"
+    ],
+    "placeholders": []
+  },
+  {
+    "id": 686,
+    "category": "STORYTELLING",
+    "hook": "I tried a # hour (insert noun) routine, which is much harder than you think.",
+    "urls": [
+      "https://www.instagram.com/p/DH8wOG0Ke0a/"
+    ],
+    "placeholders": [
+      "(insert noun)"
+    ]
+  },
+  {
+    "id": 687,
+    "category": "STORYTELLING",
+    "hook": "You think you're a (insert label)? Well let me introduce you to my life.",
+    "urls": [
+      "https://www.instagram.com/p/DHoAC5HtwCn/"
+    ],
+    "placeholders": [
+      "(insert label)"
+    ]
+  },
+  {
+    "id": 688,
+    "category": "STORYTELLING",
+    "hook": "My (insert person) and I tried a whole (insert time frame) without (insert action).",
+    "urls": [
+      "https://www.instagram.com/p/DBwOrvcoKvI/"
+    ],
+    "placeholders": [
+      "(insert person)",
+      "(insert time frame)",
+      "(insert action)"
+    ]
+  },
+  {
+    "id": 689,
+    "category": "STORYTELLING",
+    "hook": "(insert quote) the first time I heard this I was (insert action), and my (insert person) just dropped that line out of nowhere.",
+    "urls": [
+      "https://www.instagram.com/p/DDAcNRXy2KD/"
+    ],
+    "placeholders": [
+      "(insert quote)",
+      "(insert action)",
+      "(insert person)"
+    ]
+  },
+  {
+    "id": 690,
+    "category": "STORYTELLING",
+    "hook": "Build a (insert noun) with me while I (insert action).",
+    "urls": [
+      "https://www.instagram.com/p/DFESQ5bMLUy/"
+    ],
+    "placeholders": [
+      "(insert noun)",
+      "(insert action)"
+    ]
+  },
+  {
+    "id": 691,
+    "category": "STORYTELLING",
+    "hook": "I have had 0 (insert noun) in (insert time frame).",
+    "urls": [
+      "https://www.instagram.com/p/DBuQULzybXD/"
+    ],
+    "placeholders": [
+      "(insert noun)",
+      "(insert time frame)"
+    ]
+  },
+  {
+    "id": 692,
+    "category": "STORYTELLING",
+    "hook": "It was until I build # of (insert noun) and completed over # of (insert noun) that I realized (insert action) is not really that complicated.",
+    "urls": [
+      "https://www.instagram.com/p/DEd-dLWvcem/"
+    ],
+    "placeholders": [
+      "(insert noun)",
+      "(insert action)"
+    ]
+  },
+  {
+    "id": 693,
+    "category": "STORYTELLING",
+    "hook": "X days/months/years ago me and my (insert person) bought (insert noun) for (insert price).",
+    "urls": [
+      "https://www.instagram.com/p/DICw6TgsuSk/"
+    ],
+    "placeholders": [
+      "(insert person)",
+      "(insert noun)",
+      "(insert price)"
+    ]
+  },
+  {
+    "id": 694,
+    "category": "STORYTELLING",
+    "hook": "I am (insert life event) in (insert time frame) and I just wrote a letter that I wish my (insert age) self would have read.",
+    "urls": [
+      "https://www.instagram.com/p/DFf7WpdREbp/"
+    ],
+    "placeholders": [
+      "(insert life event)",
+      "(insert time frame)",
+      "(insert age)"
+    ]
+  },
+  {
+    "id": 695,
+    "category": "STORYTELLING",
+    "hook": "I am leaving my (insert salary) dream job at (insert company) to (insert action).",
+    "urls": [
+      "https://www.instagram.com/p/DH542doMca8/"
+    ],
+    "placeholders": [
+      "(insert salary)",
+      "(insert company)",
+      "(insert action)"
+    ]
+  },
+  {
+    "id": 696,
+    "category": "STORYTELLING",
+    "hook": "This is day # of making fake (insert noun) for our dream clients until one of them starts working with us.",
+    "urls": [
+      "https://www.instagram.com/p/DB587F_NYOD/"
+    ],
+    "placeholders": [
+      "(insert noun)"
+    ]
+  },
+  {
+    "id": 697,
+    "category": "STORYTELLING",
+    "hook": "X days/months/years ago I went extremely viral for (insert action).",
+    "urls": [
+      "https://www.instagram.com/p/DDYV5gNJ9iq/"
+    ],
+    "placeholders": [
+      "(insert action)"
+    ]
+  },
+  {
+    "id": 698,
+    "category": "STORYTELLING",
+    "hook": "Have you ever wondered why (insert noun) (insert adjective) is much better than (insert noun).",
+    "urls": [
+      "https://www.instagram.com/p/DH2JoeSRvJq/"
+    ],
+    "placeholders": [
+      "(insert noun)",
+      "(insert adjective)"
+    ]
+  },
+  {
+    "id": 699,
+    "category": "STORYTELLING",
+    "hook": "For those of you who don't know I have been bootstrapping a (insert business type) to see how big I can scale it.",
+    "urls": [
+      "https://www.instagram.com/p/C40yJ7BpdJD/"
+    ],
+    "placeholders": [
+      "(insert business type)"
+    ]
+  },
+  {
+    "id": 700,
+    "category": "STORYTELLING",
+    "hook": "When I told my (insert person) I was going to start doing this he/she thought it was the worst idea ever.",
+    "urls": [
+      "https://www.instagram.com/p/DGhD18oBVds/"
+    ],
+    "placeholders": [
+      "(insert person)"
+    ]
+  },
+  {
+    "id": 701,
+    "category": "STORYTELLING",
+    "hook": "These are dumb things I have done in (insert stage) of (insert action) for my (insert noun).",
+    "urls": [
+      "https://www.instagram.com/p/DGwUdIEy0u_/"
+    ],
+    "placeholders": [
+      "(insert stage)",
+      "(insert action)",
+      "(insert noun)"
+    ]
+  },
+  {
+    "id": 702,
+    "category": "STORYTELLING",
+    "hook": "This (insert noun) single handedly changed my career.",
+    "urls": [
+      "https://www.instagram.com/p/DC9zT1dx5yT/"
+    ],
+    "placeholders": [
+      "(insert noun)"
+    ]
+  },
+  {
+    "id": 703,
+    "category": "STORYTELLING",
+    "hook": "Have you ever tried to (insert action) something that was supposed to look like this but ended up looking like this.",
+    "urls": [
+      "https://www.instagram.com/p/DHo4Lj7sXlc/"
+    ],
+    "placeholders": [
+      "(insert action)"
+    ]
+  },
+  {
+    "id": 704,
+    "category": "STORYTELLING",
+    "hook": "Hi my name is (insert name) and this was me (insert time frame) ago a (insert label) in (insert noun).",
+    "urls": [
+      "https://www.instagram.com/p/DIO1bNruotJ/"
+    ],
+    "placeholders": [
+      "(insert name)",
+      "(insert time frame)",
+      "(insert label)",
+      "(insert noun)"
+    ]
+  },
+  {
+    "id": 705,
+    "category": "STORYTELLING",
+    "hook": "Day # of (insert action) until I (insert dream result).",
+    "urls": [
+      "https://www.instagram.com/p/DG3uAhCPeDB/"
+    ],
+    "placeholders": [
+      "(insert action)",
+      "(insert dream result)"
+    ]
+  },
+  {
+    "id": 706,
+    "category": "STORYTELLING",
+    "hook": "I just (insert action) to make (insert noun).",
+    "urls": [
+      "https://www.instagram.com/p/DHrtql8y1Mv/"
+    ],
+    "placeholders": [
+      "(insert action)",
+      "(insert noun)"
+    ]
+  },
+  {
+    "id": 707,
+    "category": "STORYTELLING",
+    "hook": "I (insert action) to every (insert person) in the world. Here is how many people responded.",
+    "urls": [
+      "https://www.instagram.com/p/DCC-6Y7CZVm/"
+    ],
+    "placeholders": [
+      "(insert action)",
+      "(insert person)"
+    ]
+  },
+  {
+    "id": 708,
+    "category": "STORYTELLING",
+    "hook": "What happens when you (insert action), (insert action), (insert action), etc.",
+    "urls": [
+      "https://www.instagram.com/p/DCo8e3Xi-di/"
+    ],
+    "placeholders": [
+      "(insert action)"
+    ]
+  },
+  {
+    "id": 709,
+    "category": "STORYTELLING",
+    "hook": "Ever since I was (insert adjective) my (insert person) made it very clear to me that he/she was (insert adjective) about certain aspects of (insert noun).",
+    "urls": [
+      "https://www.instagram.com/p/CRZU6CDBcuY/"
+    ],
+    "placeholders": [
+      "(insert adjective)",
+      "(insert person)",
+      "(insert noun)"
+    ]
+  },
+  {
+    "id": 710,
+    "category": "STORYTELLING",
+    "hook": "One day you're gonna get dumped. Not by your girlfriend, not by your boyfriend, not by your fiance, not by your spouse. But by your (insert noun).",
+    "urls": [
+      "https://www.instagram.com/p/DD3BkA3vaI9/"
+    ],
+    "placeholders": [
+      "(insert noun)"
+    ]
+  },
+  {
+    "id": 711,
+    "category": "STORYTELLING",
+    "hook": "I am (insert name) (insert age) you might know me from my (insert accomplishment), (insert accomplishment), or (insert accomplishment).",
+    "urls": [
+      "https://www.instagram.com/p/DCN08rLTux3/"
+    ],
+    "placeholders": [
+      "(insert name)",
+      "(insert age)",
+      "(insert accomplishment)"
+    ]
+  },
+  {
+    "id": 712,
+    "category": "STORYTELLING",
+    "hook": "I was today years old when I found out that if you have (insert trait), (insert noun) will look really (insert adjective) on you.",
+    "urls": [
+      "https://www.instagram.com/p/DDu_J9ZytmA/"
+    ],
+    "placeholders": [
+      "(insert trait)",
+      "(insert noun)",
+      "(insert adjective)"
+    ]
+  },
+  {
+    "id": 713,
+    "category": "STORYTELLING",
+    "hook": "People are shocked to hear that these are my natural (insert noun).",
+    "urls": [
+      "https://www.instagram.com/p/DEvMF5Kzqz7/"
+    ],
+    "placeholders": [
+      "(insert noun)"
+    ]
+  },
+  {
+    "id": 714,
+    "category": "STORYTELLING",
+    "hook": "Have you ever noticed that some (insert noun) feel (insert description) while others feel (insert description).",
+    "urls": [
+      "https://www.instagram.com/p/DIOy5C2A8sb/"
+    ],
+    "placeholders": [
+      "(insert noun)",
+      "(insert description)"
+    ]
+  },
+  {
+    "id": 715,
+    "category": "STORYTELLING",
+    "hook": "This video got # of views, with a lot of (insert adjective) feedback. Let's try it out and see if it makes a difference to my (insert noun).",
+    "urls": [
+      "https://www.instagram.com/p/DFDQ99NuwNF/"
+    ],
+    "placeholders": [
+      "(insert adjective)",
+      "(insert noun)"
+    ]
+  },
+  {
+    "id": 716,
+    "category": "STORYTELLING",
+    "hook": "If you've ever come across one of my reels and thought (insert adjective) that woman/man has (insert adjective) (insert noun). But here's a little secret: my (insert noun) was not always like this.",
+    "urls": [
+      "https://www.instagram.com/p/DFYqX_gz5iD/"
+    ],
+    "placeholders": [
+      "(insert adjective)",
+      "(insert noun)"
+    ]
+  },
+  {
+    "id": 717,
+    "category": "STORYTELLING",
+    "hook": "Welcome back to my (insert noun) series where I will be teaching you everything I know, no gatekeeping here.",
+    "urls": [
+      "https://www.instagram.com/p/DGTx0R1zU1v/"
+    ],
+    "placeholders": [
+      "(insert noun)"
+    ]
+  },
+  {
+    "id": 718,
+    "category": "STORYTELLING",
+    "hook": "After (insert time period) of having (insert bad result) come get my (insert noun) done with me.",
+    "urls": [
+      "https://www.instagram.com/p/DDf3qgvP54t/"
+    ],
+    "placeholders": [
+      "(insert time period)",
+      "(insert bad result)",
+      "(insert noun)"
+    ]
+  },
+  {
+    "id": 719,
+    "category": "STORYTELLING",
+    "hook": "Hi I am (insert name) and I am a (insert negative label).",
+    "urls": [
+      "https://www.instagram.com/p/DGCMTIdpcvQ/"
+    ],
+    "placeholders": [
+      "(insert name)",
+      "(insert negative label)"
+    ]
+  },
+  {
+    "id": 720,
+    "category": "STORYTELLING",
+    "hook": "Here is how I lost a (insert time frame) of my life.",
+    "urls": [
+      "https://www.instagram.com/p/DAQog1uPOrX/"
+    ],
+    "placeholders": [
+      "(insert time frame)"
+    ]
+  },
+  {
+    "id": 721,
+    "category": "STORYTELLING",
+    "hook": "I feel really bad for saying this but sometimes you just need to (insert harsh truth).",
+    "urls": [
+      "https://www.instagram.com/p/DE-3lwtPE1v/"
+    ],
+    "placeholders": [
+      "(insert harsh truth)"
+    ]
+  },
+  {
+    "id": 722,
+    "category": "STORYTELLING",
+    "hook": "As you may know I have been (insert action) to (insert dream result).",
+    "urls": [
+      "https://www.instagram.com/p/DF-_e2MNx8u/"
+    ],
+    "placeholders": [
+      "(insert action)",
+      "(insert dream result)"
+    ]
+  },
+  {
+    "id": 723,
+    "category": "STORYTELLING",
+    "hook": "I (insert action) almost everyday for a week and here is what happened.",
+    "urls": [
+      "https://www.instagram.com/p/DCAJiSMPRyj/"
+    ],
+    "placeholders": [
+      "(insert action)"
+    ]
+  },
+  {
+    "id": 724,
+    "category": "STORYTELLING",
+    "hook": "(insert action) everyday has literally changed my life. In particular helping me (insert dream result).",
+    "urls": [
+      "https://www.instagram.com/p/DBuHW1Io1H2/"
+    ],
+    "placeholders": [
+      "(insert action)",
+      "(insert dream result)"
+    ]
+  },
+  {
+    "id": 725,
+    "category": "STORYTELLING",
+    "hook": "I had this weird idea that if I added some (insert action), (insert action), (insert action), etc…",
+    "urls": [
+      "https://www.instagram.com/p/C-lMnQ4pCIs/"
+    ],
+    "placeholders": [
+      "(insert action)"
+    ]
+  },
+  {
+    "id": 726,
+    "category": "STORYTELLING",
+    "hook": "Did you know that if you combined (insert noun), (insert noun), (insert noun), etc…",
+    "urls": [
+      "https://www.instagram.com/p/C_tMbf_p4-Q/"
+    ],
+    "placeholders": [
+      "(insert noun)"
+    ]
+  },
+  {
+    "id": 727,
+    "category": "STORYTELLING",
+    "hook": "When you're sad but then you remember you have (insert noun).",
+    "urls": [
+      "https://www.instagram.com/p/DA1P8ANJxjv/"
+    ],
+    "placeholders": [
+      "(insert noun)"
+    ]
+  },
+  {
+    "id": 728,
+    "category": "STORYTELLING",
+    "hook": "I spent (insert price) on a (insert noun) here's all the (insert noun) I got.",
+    "urls": [
+      "https://www.instagram.com/p/DHHHlXnpG-a/"
+    ],
+    "placeholders": [
+      "(insert price)",
+      "(insert noun)"
+    ]
+  },
+  {
+    "id": 729,
+    "category": "STORYTELLING",
+    "hook": "You know those days where it feels like (insert scenario) well today was that day for me.",
+    "urls": [
+      "https://www.instagram.com/p/DHgZAkCRzQ7/"
+    ],
+    "placeholders": [
+      "(insert scenario)"
+    ]
+  },
+  {
+    "id": 730,
+    "category": "STORYTELLING",
+    "hook": "I have (inset amount of thing), (insert amount of time), and a pipe dream to get ready for (insert event).",
+    "urls": [
+      "https://www.instagram.com/p/DGLxdjvR3Se/"
+    ],
+    "placeholders": [
+      "(inset amount of thing)",
+      "(insert amount of time)",
+      "(insert event)"
+    ]
+  },
+  {
+    "id": 731,
+    "category": "STORYTELLING",
+    "hook": "So I was just (insert action) to do my (insert action) of the day when I saw that…",
+    "urls": [
+      "https://www.instagram.com/p/DIbTyiMyVek/"
+    ],
+    "placeholders": [
+      "(insert action)"
+    ]
+  },
+  {
+    "id": 732,
+    "category": "STORYTELLING",
+    "hook": "Welcome back to another episode of (insert series name) where I (insert action).",
+    "urls": [
+      "https://www.instagram.com/p/DHrfrLyyevs/"
+    ],
+    "placeholders": [
+      "(insert series name)",
+      "(insert action)"
+    ]
+  },
+  {
+    "id": 733,
+    "category": "STORYTELLING",
+    "hook": "We are not even (insert time frame) into (insert year) and have gone from being a (insert before state) to (insert after state).",
+    "urls": [
+      "https://www.instagram.com/p/DFzAPKqsRip/"
+    ],
+    "placeholders": [
+      "(insert time frame)",
+      "(insert year)",
+      "(insert before state)",
+      "(insert after state)"
+    ]
+  },
+  {
+    "id": 734,
+    "category": "STORYTELLING",
+    "hook": "I (insert action) but I don't have (insert noun).",
+    "urls": [
+      "https://www.instagram.com/p/DG3qeUpv--T/"
+    ],
+    "placeholders": [
+      "(insert action)",
+      "(insert noun)"
+    ]
+  },
+  {
+    "id": 735,
+    "category": "STORYTELLING",
+    "hook": "I worked (insert hours) in just (insert days) making all of this (insert noun) for my (insert noun).",
+    "urls": [
+      "https://www.instagram.com/p/DGMTIk2s5Bq/"
+    ],
+    "placeholders": [
+      "(insert hours)",
+      "(insert days)",
+      "(insert noun)"
+    ]
+  },
+  {
+    "id": 736,
+    "category": "STORYTELLING",
+    "hook": "If you told (insert age) me that I wouldn't be a (insert title) I would probably tell you to go screw yourself.",
+    "urls": [
+      "https://www.instagram.com/p/DGPLfdUv5Zd/"
+    ],
+    "placeholders": [
+      "(insert age)",
+      "(insert title)"
+    ]
+  },
+  {
+    "id": 737,
+    "category": "STORYTELLING",
+    "hook": "I (insert action) all of the (insert noun) you want with all the (insert adjective) that you need.",
+    "urls": [
+      "https://www.instagram.com/p/DGd_iXpxGxe/"
+    ],
+    "placeholders": [
+      "(insert action)",
+      "(insert noun)",
+      "(insert adjective)"
+    ]
+  },
+  {
+    "id": 738,
+    "category": "STORYTELLING",
+    "hook": "Someone just (insert negative result) my business.",
+    "urls": [
+      "https://www.instagram.com/p/DG3EbrsReCj/"
+    ],
+    "placeholders": [
+      "(insert negative result)"
+    ]
+  },
+  {
+    "id": 739,
+    "category": "STORYTELLING",
+    "hook": "Can you please pack my (insert price) (insert noun) with me? Of course!",
+    "urls": [
+      "https://www.instagram.com/p/DFM4apJSCnJ/"
+    ],
+    "placeholders": [
+      "(insert price)",
+      "(insert noun)"
+    ]
+  },
+  {
+    "id": 740,
+    "category": "STORYTELLING",
+    "hook": "The ultimate assembly video of my (insert huge metric) (insert noun).",
+    "urls": [
+      "https://www.instagram.com/reel/DG6zBv9xjKN/?igsh=MWJ3YW04aG5idDc3NQ=="
+    ],
+    "placeholders": [
+      "(insert huge metric)",
+      "(insert noun)"
+    ]
+  },
+  {
+    "id": 741,
+    "category": "STORYTELLING",
+    "hook": "I am on a journey to find the best (insert noun) for (insert target audience) and today we went to (insert location).",
+    "urls": [
+      "https://www.instagram.com/reel/DF0gUSRPywO/?igsh=dzYxc2I0amw2OHhr"
+    ],
+    "placeholders": [
+      "(insert noun)",
+      "(insert target audience)",
+      "(insert location)"
+    ]
+  },
+  {
+    "id": 742,
+    "category": "STORYTELLING",
+    "hook": "Here's how I made a wireless (insert noun) that is valued at (insert price).",
+    "urls": [
+      "https://www.instagram.com/p/DHgznKnCq0U/"
+    ],
+    "placeholders": [
+      "(insert noun)",
+      "(insert price)"
+    ]
+  },
+  {
+    "id": 743,
+    "category": "STORYTELLING",
+    "hook": "We pretty much (insert action) our entire (insert noun) into (insert noun).",
+    "urls": [
+      "https://www.instagram.com/p/DC-CO9QTF3R/"
+    ],
+    "placeholders": [
+      "(insert action)",
+      "(insert noun)"
+    ]
+  },
+  {
+    "id": 744,
+    "category": "STORYTELLING",
+    "hook": "X days/weeks/months/years ago I purchased (insert price) (insert noun) as a (insert label) with only a (insert price) deposit.",
+    "urls": [
+      "https://www.instagram.com/p/DHatudoNK8S/"
+    ],
+    "placeholders": [
+      "(insert price)",
+      "(insert noun)",
+      "(insert label)"
+    ]
+  },
+  {
+    "id": 745,
+    "category": "STORYTELLING",
+    "hook": "For our entire # year relationship my (insert person) has been hiding something pretty important from me.",
+    "urls": [
+      "https://www.instagram.com/p/DHsfGj6TGeA/"
+    ],
+    "placeholders": [
+      "(insert person)"
+    ]
+  },
+  {
+    "id": 746,
+    "category": "STORYTELLING",
+    "hook": "I always had the biggest dream of (insert dream).",
+    "urls": [
+      "https://www.instagram.com/kelseypoulter/reel/DHoe6OgRf6-/"
+    ],
+    "placeholders": [
+      "(insert dream)"
+    ]
+  },
+  {
+    "id": 747,
+    "category": "STORYTELLING",
+    "hook": "(Insert noun) is cringe right now but let me tell you what a game changer it was for me.",
+    "urls": [
+      "https://www.instagram.com/p/DCmBEffyaPC/"
+    ],
+    "placeholders": [
+      "(Insert noun)"
+    ]
+  },
+  {
+    "id": 748,
+    "category": "STORYTELLING",
+    "hook": "Hey everyone I am (insert name) I am (insert age) and I am starting a (insert business) from scratch.",
+    "urls": [
+      "https://www.instagram.com/p/DDEBm2jOYMG/"
+    ],
+    "placeholders": [
+      "(insert name)",
+      "(insert age)",
+      "(insert business)"
+    ]
+  },
+  {
+    "id": 749,
+    "category": "STORYTELLING",
+    "hook": "I didn't realize how bad I lost myself.",
+    "urls": [
+      "https://www.instagram.com/p/DIU81u_pdBM/"
+    ],
+    "placeholders": []
+  },
+  {
+    "id": 750,
+    "category": "STORYTELLING",
+    "hook": "I just left my (insert salary) a year new grad job, and now I am just a disappointment.",
+    "urls": [
+      "https://www.instagram.com/p/DIWt7j-O40r/"
+    ],
+    "placeholders": [
+      "(insert salary)"
+    ]
+  },
+  {
+    "id": 751,
+    "category": "STORYTELLING",
+    "hook": "Me and my (insert person) are supposed to be (insert action), but instead we (insert action).",
+    "urls": [
+      "https://www.instagram.com/p/DHjhY8Vx2bw/"
+    ],
+    "placeholders": [
+      "(insert person)",
+      "(insert action)"
+    ]
+  },
+  {
+    "id": 752,
+    "category": "STORYTELLING",
+    "hook": "(insert year) (insert occurrence).",
+    "urls": [
+      "https://www.instagram.com/ultimateivyleagueguide/reel/DBv1NuKOF7u/"
+    ],
+    "placeholders": [
+      "(insert year)",
+      "(insert occurrence)"
+    ]
+  },
+  {
+    "id": 753,
+    "category": "STORYTELLING",
+    "hook": "I think I got (insert verb).",
+    "urls": [
+      "https://www.instagram.com/p/DGN51kGIU51/"
+    ],
+    "placeholders": [
+      "(insert verb)"
+    ]
+  },
+  {
+    "id": 754,
+    "category": "STORYTELLING",
+    "hook": "My (insert person) wanted a (insert noun) for (insert event) so I said thanks for the suggestion but that's not my vibe and made them (insert noun) instead.",
+    "urls": [
+      "https://www.instagram.com/p/DCmRfypJw93/"
+    ],
+    "placeholders": [
+      "(insert person)",
+      "(insert noun)",
+      "(insert event)"
+    ]
+  },
+  {
+    "id": 755,
+    "category": "STORYTELLING",
+    "hook": "I've (insert verb) this almost every single day of my entire life.",
+    "urls": [
+      "https://www.instagram.com/p/DGygqjJSIXS/"
+    ],
+    "placeholders": [
+      "(insert verb)"
+    ]
+  },
+  {
+    "id": 756,
+    "category": "STORYTELLING",
+    "hook": "Buying things I don't need because I have adult money.",
+    "urls": [
+      "https://www.instagram.com/p/DFJZaQsS7f6/"
+    ],
+    "placeholders": []
+  },
+  {
+    "id": 757,
+    "category": "STORYTELLING",
+    "hook": "A fun fact about my (insert person) (insert name) is.",
+    "urls": [
+      "https://www.instagram.com/p/DIXslTXRPiZ/"
+    ],
+    "placeholders": [
+      "(insert person)",
+      "(insert name)"
+    ]
+  },
+  {
+    "id": 758,
+    "category": "STORYTELLING",
+    "hook": "My entire life I grew up (insert adjective) and (insert adjective) it was just my (insert person) raising the # of us.",
+    "urls": [
+      "https://www.instagram.com/p/DI68Z2axGjl/"
+    ],
+    "placeholders": [
+      "(insert adjective)",
+      "(insert person)"
+    ]
+  },
+  {
+    "id": 759,
+    "category": "STORYTELLING",
+    "hook": "I spent an entire (insert time) (insert verb) but was it a waste of time?",
+    "urls": [
+      "https://www.instagram.com/p/DExfsiBu1mI/"
+    ],
+    "placeholders": [
+      "(insert time)",
+      "(insert verb)"
+    ]
+  },
+  {
+    "id": 760,
+    "category": "STORYTELLING",
+    "hook": "I am about to go on the biggest bender of my entire life!",
+    "urls": [
+      "https://www.instagram.com/p/DI4JR8TOMdS/"
+    ],
+    "placeholders": []
+  },
+  {
+    "id": 761,
+    "category": "STORYTELLING",
+    "hook": "I think I am getting (insert verb) today.",
+    "urls": [
+      "https://www.instagram.com/p/DIyy31iILqd/"
+    ],
+    "placeholders": [
+      "(insert verb)"
+    ]
+  },
+  {
+    "id": 762,
+    "category": "STORYTELLING",
+    "hook": "Welcome back to me (insert verb) my (insert person) (insert noun).",
+    "urls": [
+      "https://www.instagram.com/p/DIwpRgJJQPs/"
+    ],
+    "placeholders": [
+      "(insert verb)",
+      "(insert person)",
+      "(insert noun)"
+    ]
+  },
+  {
+    "id": 763,
+    "category": "STORYTELLING",
+    "hook": "I always wondered what it was like to (insert action).",
+    "urls": [
+      "https://www.instagram.com/p/DI1FPNwOoAk/"
+    ],
+    "placeholders": [
+      "(insert action)"
+    ]
+  },
+  {
+    "id": 764,
+    "category": "STORYTELLING",
+    "hook": "So (insert time frame) ago me and my (insert person) had a little too much fun.",
+    "urls": [
+      "https://www.instagram.com/p/DGg5Lz2SN0T/"
+    ],
+    "placeholders": [
+      "(insert time frame)",
+      "(insert person)"
+    ]
+  },
+  {
+    "id": 765,
+    "category": "STORYTELLING",
+    "hook": "Selling (insert noun) at (insert location) has made me more money than my (insert person/title) and today I am going to be investing that money into (insert noun).",
+    "urls": [
+      "https://www.instagram.com/p/DINf-krxetg/"
+    ],
+    "placeholders": [
+      "(insert noun)",
+      "(insert location)",
+      "(insert person/title)"
+    ]
+  },
+  {
+    "id": 766,
+    "category": "STORYTELLING",
+    "hook": "Welcome back to day #, where I (insert verb) a (insert noun) everyday until I am (insert adjective)",
+    "urls": [
+      "https://www.instagram.com/p/DFGbEQTziGB/"
+    ],
+    "placeholders": [
+      "(insert verb)",
+      "(insert noun)",
+      "(insert adjective)"
+    ]
+  },
+  {
+    "id": 767,
+    "category": "STORYTELLING",
+    "hook": "(Insert person), (Insert person), or that one (Insert person) we just don't have (insert title) like we did back then.",
+    "urls": [
+      "https://www.instagram.com/p/DG24V2LOxBj/"
+    ],
+    "placeholders": [
+      "(Insert person)",
+      "(insert title)"
+    ]
+  },
+  {
+    "id": 768,
+    "category": "STORYTELLING",
+    "hook": "Day # of trying to (insert action) all year.",
+    "urls": [
+      "https://www.instagram.com/p/DEOoZX_xFLz/"
+    ],
+    "placeholders": [
+      "(insert action)"
+    ]
+  },
+  {
+    "id": 769,
+    "category": "STORYTELLING",
+    "hook": "This was the (insert noun) that changed my life forever.",
+    "urls": [
+      "https://www.instagram.com/p/DHm-oK2sa90/"
+    ],
+    "placeholders": [
+      "(insert noun)"
+    ]
+  },
+  {
+    "id": 770,
+    "category": "STORYTELLING",
+    "hook": "Over # of you saw this video.",
+    "urls": [
+      "https://www.instagram.com/p/DF8rBLCP4SG/"
+    ],
+    "placeholders": []
+  },
+  {
+    "id": 771,
+    "category": "STORYTELLING",
+    "hook": "Today I woke up and realized (insert realization).",
+    "urls": [
+      "https://www.instagram.com/p/DH-K4dER2wd/"
+    ],
+    "placeholders": [
+      "(insert realization)"
+    ]
+  },
+  {
+    "id": 772,
+    "category": "STORYTELLING",
+    "hook": "I am (insert verb) a (insert noun), on my (insert noun).",
+    "urls": [
+      "https://www.instagram.com/p/DIz0whmxWk5/"
+    ],
+    "placeholders": [
+      "(insert verb)",
+      "(insert noun)"
+    ]
+  },
+  {
+    "id": 773,
+    "category": "STORYTELLING",
+    "hook": "Remember that time you were (insert adjective) so you (insert action) but the moment (insert person) (insert verb) you (insert action).",
+    "urls": [
+      "https://www.instagram.com/p/DImOQx6TGCo/"
+    ],
+    "placeholders": [
+      "(insert adjective)",
+      "(insert action)",
+      "(insert person)",
+      "(insert verb)"
+    ]
+  },
+  {
+    "id": 774,
+    "category": "STORYTELLING",
+    "hook": "Okay real talk, I wasn't always this (insert adjective).",
+    "urls": [
+      "https://www.instagram.com/p/DIgzMCWuK1l/"
+    ],
+    "placeholders": [
+      "(insert adjective)"
+    ]
+  },
+  {
+    "id": 775,
+    "category": "STORYTELLING",
+    "hook": "Is it possible to stop (insert pain point) and (insert dream result) in (insert time frame) even if you're in (insert noun) and all of your (insert person) think getting (insert verb) is (insert trait).",
+    "urls": [
+      "https://www.instagram.com/p/DIH7JjItEK0/"
+    ],
+    "placeholders": [
+      "(insert pain point)",
+      "(insert dream result)",
+      "(insert time frame)",
+      "(insert noun)",
+      "(insert person)",
+      "(insert verb)",
+      "(insert trait)"
+    ]
+  },
+  {
+    "id": 776,
+    "category": "STORYTELLING",
+    "hook": "(insert question) I hate this question.",
+    "urls": [
+      "https://www.instagram.com/p/DIwy5TCT0SN/"
+    ],
+    "placeholders": [
+      "(insert question)"
+    ]
+  },
+  {
+    "id": 777,
+    "category": "STORYTELLING",
+    "hook": "Last year I (insert verb) (insert noun) for (insert $).",
+    "urls": [
+      "https://www.instagram.com/p/DICMQXWOize/"
+    ],
+    "placeholders": [
+      "(insert verb)",
+      "(insert noun)",
+      "(insert $)"
+    ]
+  },
+  {
+    "id": 778,
+    "category": "STORYTELLING",
+    "hook": "Let's make (insert #) (insert noun).",
+    "urls": [
+      "https://www.instagram.com/p/DFRdOhxMQ9H/"
+    ],
+    "placeholders": [
+      "(insert #)",
+      "(insert noun)"
+    ]
+  },
+  {
+    "id": 779,
+    "category": "STORYTELLING",
+    "hook": "I had just (insert time) to (insert verb) (insert #) of (insert noun) for a (insert person). And you have until the end of the video to guess who they are for.",
+    "urls": [
+      "https://www.instagram.com/p/C6O91GDLbUc/"
+    ],
+    "placeholders": [
+      "(insert time)",
+      "(insert verb)",
+      "(insert #)",
+      "(insert noun)",
+      "(insert person)"
+    ]
+  },
+  {
+    "id": 780,
+    "category": "STORYTELLING",
+    "hook": "I only have (insert time) to finish over (insert number) of (insert noun) orders, including (insert number) of (insert noun), (insert number) of (insert noun), (insert number) of (insert noun), and (insert noun).",
+    "urls": [
+      "https://www.instagram.com/p/C7CMet3rNJG/"
+    ],
+    "placeholders": [
+      "(insert time)",
+      "(insert number)",
+      "(insert noun)"
+    ]
+  },
+  {
+    "id": 781,
+    "category": "STORYTELLING",
+    "hook": "I (insert verb) (insert number) (insert noun) and I had to throw (insert number) of them away.",
+    "urls": [
+      "https://www.instagram.com/p/DGGicrYRhyi/"
+    ],
+    "placeholders": [
+      "(insert verb)",
+      "(insert number)",
+      "(insert noun)"
+    ]
+  },
+  {
+    "id": 782,
+    "category": "STORYTELLING",
+    "hook": "Have you ever seen (insert #) (insert noun) in one place?",
+    "urls": [
+      "https://www.instagram.com/p/DH2RXm7RTGT/"
+    ],
+    "placeholders": [
+      "(insert #)",
+      "(insert noun)"
+    ]
+  },
+  {
+    "id": 783,
+    "category": "STORYTELLING",
+    "hook": "I have a confession. I have no problem (insert verb) for my (insert noun) but it's the process of actually (insert noun) that feels so (insert adjective).",
+    "urls": [
+      "https://www.instagram.com/p/DBrEouTxlUk/"
+    ],
+    "placeholders": [
+      "(insert verb)",
+      "(insert noun)",
+      "(insert adjective)"
+    ]
+  },
+  {
+    "id": 784,
+    "category": "STORYTELLING",
+    "hook": "I am (insert age) and I have an identity crisis.",
+    "urls": [
+      "https://www.instagram.com/p/DBtZYwby3Nx/"
+    ],
+    "placeholders": [
+      "(insert age)"
+    ]
+  },
+  {
+    "id": 785,
+    "category": "STORYTELLING",
+    "hook": "I have been a (insert title) for # years of my life I started when I was # years old working at (insert location/place) in (insert location).",
+    "urls": [
+      "https://www.instagram.com/p/DIo_nLOz7p1/"
+    ],
+    "placeholders": [
+      "(insert title)",
+      "(insert location/place)",
+      "(insert location)"
+    ]
+  },
+  {
+    "id": 786,
+    "category": "STORYTELLING",
+    "hook": "When I was growing up one (insert noun) I always (insert verb) with my (insert person) was (insert noun).",
+    "urls": [
+      "https://www.instagram.com/p/DIv7DnJRg42/"
+    ],
+    "placeholders": [
+      "(insert noun)",
+      "(insert verb)",
+      "(insert person)"
+    ]
+  },
+  {
+    "id": 787,
+    "category": "STORYTELLING",
+    "hook": "Once upon a time we bought a (insert noun) on (insert noun)",
+    "urls": [
+      "https://www.instagram.com/p/DIgryegxxsB/"
+    ],
+    "placeholders": [
+      "(insert noun)"
+    ]
+  },
+  {
+    "id": 788,
+    "category": "STORYTELLING",
+    "hook": "If I want my (insert person) to be (insert dream result one day) that means I got to (insert action) now.",
+    "urls": [
+      "https://www.instagram.com/p/DIW2ZlcvlaG/"
+    ],
+    "placeholders": [
+      "(insert person)",
+      "(insert dream result one day)",
+      "(insert action)"
+    ]
+  },
+  {
+    "id": 789,
+    "category": "STORYTELLING",
+    "hook": "Hi I am (insert name) and I have been secretly (insert action) for # years.",
+    "urls": [
+      "https://www.instagram.com/p/DIz_U_1NY5J/"
+    ],
+    "placeholders": [
+      "(insert name)",
+      "(insert action)"
+    ]
+  },
+  {
+    "id": 790,
+    "category": "STORYTELLING",
+    "hook": "Can you name something more terrifying than a (insert person) with a (insert noun).",
+    "urls": [
+      "https://www.instagram.com/p/DH8UvF7NWHN/"
+    ],
+    "placeholders": [
+      "(insert person)",
+      "(insert noun)"
+    ]
+  },
+  {
+    "id": 791,
+    "category": "STORYTELLING",
+    "hook": "# months/years ago my friends and I started a (insert business). And it turned out to be the biggest (insert result).",
+    "urls": [
+      "https://www.instagram.com/p/DHHB_GOy09_/"
+    ],
+    "placeholders": [
+      "(insert business)",
+      "(insert result)"
+    ]
+  },
+  {
+    "id": 792,
+    "category": "STORYTELLING",
+    "hook": "This is the ultimate assembly video of my (insert noun).",
+    "urls": [
+      "https://www.instagram.com/p/DG6zBv9xjKN/"
+    ],
+    "placeholders": [
+      "(insert noun)"
+    ]
+  },
+  {
+    "id": 793,
+    "category": "STORYTELLING",
+    "hook": "So (insert time) ago my (insert person) and I bought a (insert noun).",
+    "urls": [
+      "https://www.instagram.com/reel/DImqKRqy4xr/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA=="
+    ],
+    "placeholders": [
+      "(insert time)",
+      "(insert person)",
+      "(insert noun)"
+    ]
+  },
+  {
+    "id": 794,
+    "category": "STORYTELLING",
+    "hook": "I am on a journey to find the best (insert noun) for (insert person) and today we (insert action).",
+    "urls": [
+      "https://www.instagram.com/p/DF0gUSRPywO/"
+    ],
+    "placeholders": [
+      "(insert noun)",
+      "(insert person)",
+      "(insert action)"
+    ]
+  },
+  {
+    "id": 795,
+    "category": "STORYTELLING",
+    "hook": "This week I tried to see if I could (insert result) for all of my (insert noun) just by (insert action) the night before.",
+    "urls": [
+      "https://www.instagram.com/reel/DEIFRU_vg3e/?igsh=MXh6amc4enR3NGY3MA=="
+    ],
+    "placeholders": [
+      "(insert result)",
+      "(insert noun)",
+      "(insert action)"
+    ]
+  },
+  {
+    "id": 796,
+    "category": "STORYTELLING",
+    "hook": "In (insert year) I started (insert action) and I gave my life to (insert person).",
+    "urls": [
+      "https://www.instagram.com/reel/DEgeFb_Oj9J/?igsh=bjRnZWxjcTVzcm84"
+    ],
+    "placeholders": [
+      "(insert year)",
+      "(insert action)",
+      "(insert person)"
+    ]
+  },
+  {
+    "id": 797,
+    "category": "STORYTELLING",
+    "hook": "I lied to the (insert person) who (insert action).",
+    "urls": [
+      "https://www.instagram.com/p/DExR-xeiVfp/"
+    ],
+    "placeholders": [
+      "(insert person)",
+      "(insert action)"
+    ]
+  },
+  {
+    "id": 798,
+    "category": "STORYTELLING",
+    "hook": "Something I never thought I would have on my bingo card as a (insert title) was…",
+    "urls": [
+      "https://www.instagram.com/p/DIaBg2ySrJP/"
+    ],
+    "placeholders": [
+      "(insert title)"
+    ]
+  },
+  {
+    "id": 799,
+    "category": "STORYTELLING",
+    "hook": "I had to spend (insert &) on this free (insert noun) before it even started.",
+    "urls": [
+      "https://www.instagram.com/p/DI_btRGiv_A/"
+    ],
+    "placeholders": [
+      "(insert &)",
+      "(insert noun)"
+    ]
+  },
+  {
+    "id": 800,
+    "category": "STORYTELLING",
+    "hook": "I just left my 9-5 corporate job to start my (insert business.",
+    "urls": [
+      "https://www.instagram.com/p/DFVkgfAPimi/"
+    ],
+    "placeholders": []
+  },
+  {
+    "id": 801,
+    "category": "STORYTELLING",
+    "hook": "I feel like # years ago I had my life together as a (insert title) but just slowly over time things have shifted.",
+    "urls": [
+      "https://www.instagram.com/p/DF8XdbERfjy/"
+    ],
+    "placeholders": [
+      "(insert title)"
+    ]
+  },
+  {
+    "id": 802,
+    "category": "STORYTELLING",
+    "hook": "(insert year) I met my (insert person) when working at (insert job).",
+    "urls": [
+      "https://www.instagram.com/p/DHrK16iM1-B/"
+    ],
+    "placeholders": [
+      "(insert year)",
+      "(insert person)",
+      "(insert job)"
+    ]
+  },
+  {
+    "id": 803,
+    "category": "STORYTELLING",
+    "hook": "My house has this weird (insert trait) and it's haunted me ever since I first toured.",
+    "urls": [
+      "https://www.instagram.com/p/DI38P5ANOa1/"
+    ],
+    "placeholders": [
+      "(insert trait)"
+    ]
+  },
+  {
+    "id": 804,
+    "category": "STORYTELLING",
+    "hook": "My (insert person) and I moved in together and ended up losing (insert $).",
+    "urls": [
+      "https://www.instagram.com/reel/DG-uLBeuoQR/?igsh=MWwzNjBxbjJyNmthbg=="
+    ],
+    "placeholders": [
+      "(insert person)",
+      "(insert $)"
+    ]
+  },
+  {
+    "id": 805,
+    "category": "STORYTELLING",
+    "hook": "X years ago we decided we wanted to know exactly where our (insert noun) was coming from.",
+    "urls": [
+      "https://www.instagram.com/reel/DGly7tKRY0I/?igsh=MXF0NWp1Y3Rhbnk3NQ=="
+    ],
+    "placeholders": [
+      "(insert noun)"
+    ]
+  },
+  {
+    "id": 806,
+    "category": "STORYTELLING",
+    "hook": "I made (insert $) doing (insert side hustle) as a side hustle.",
+    "urls": [
+      "https://www.instagram.com/reel/DI1s4r7pwHv/?igsh=MXN6dGU0aTRnNTZt"
+    ],
+    "placeholders": [
+      "(insert $)",
+      "(insert side hustle)"
+    ]
+  },
+  {
+    "id": 807,
+    "category": "STORYTELLING",
+    "hook": "I have no intention of…",
+    "urls": [
+      "https://www.instagram.com/reel/DImh0cbigzk/?igsh=Z2Niam5yOWJ2cmcw"
+    ],
+    "placeholders": []
+  },
+  {
+    "id": 808,
+    "category": "STORYTELLING",
+    "hook": "Growing up my parents used to get upset when I (insert action), (insert action), or (insert action) they would get frustrated.",
+    "urls": [
+      "https://www.instagram.com/reel/DD25g3ayYbg/?igsh=MWV1NTZ5YnplZDRtcw=="
+    ],
+    "placeholders": [
+      "(insert action)"
+    ]
+  },
+  {
+    "id": 809,
+    "category": "STORYTELLING",
+    "hook": "Hi my name is (insert name) and this is my home.",
+    "urls": [
+      "https://www.instagram.com/reel/DDDvhNoOKLU/?igsh=OHVvMjFxeXM0eTQy"
+    ],
+    "placeholders": [
+      "(insert name)"
+    ]
+  },
+  {
+    "id": 810,
+    "category": "STORYTELLING",
+    "hook": "This is how much (insert adjective) (insert noun) cost me in (insert location) and a (insert age) (insert occupation).",
+    "urls": [
+      "https://www.instagram.com/reel/DHYDpXxzF1U/?igsh=MTVkMTdiNDA4ZTZ5ZA=="
+    ],
+    "placeholders": [
+      "(insert adjective)",
+      "(insert noun)",
+      "(insert location)",
+      "(insert age)",
+      "(insert occupation)"
+    ]
+  },
+  {
+    "id": 811,
+    "category": "STORYTELLING",
+    "hook": "Nearly # years/months ago today I packed my bags and left for (insert location), thinking I would only be gone for (insert time).",
+    "urls": [
+      "https://www.instagram.com/reel/DEadcffulgR/?igsh=NmxmNGdteWZ1M3Fz"
+    ],
+    "placeholders": [
+      "(insert location)",
+      "(insert time)"
+    ]
+  },
+  {
+    "id": 812,
+    "category": "STORYTELLING",
+    "hook": "I am attempting to be the first person to (insert goal), day #.",
+    "urls": [
+      "https://www.instagram.com/reel/DB0ogikvRjL/?igsh=MW16d2lyOWd6OXNjeg=="
+    ],
+    "placeholders": [
+      "(insert goal)"
+    ]
+  },
+  {
+    "id": 813,
+    "category": "STORYTELLING",
+    "hook": "When we first moved to the (insert location), my (insert person) bought a (insert noun) in (insert location).",
+    "urls": [
+      "https://www.instagram.com/reel/DINcg69x3zC/?igsh=NzdpZzI0eW02YTNq"
+    ],
+    "placeholders": [
+      "(insert location)",
+      "(insert person)",
+      "(insert noun)"
+    ]
+  },
+  {
+    "id": 814,
+    "category": "STORYTELLING",
+    "hook": "My (insert person) told me he/she wanted a (insert noun) and instead of waiting around I decided to build it right now.",
+    "urls": [
+      "https://www.instagram.com/reel/DD5GjKvx7d_/?igsh=dHh2bjJiczJ5b3pp"
+    ],
+    "placeholders": [
+      "(insert person)",
+      "(insert noun)"
+    ]
+  },
+  {
+    "id": 815,
+    "category": "STORYTELLING",
+    "hook": "My parents had # sons/daughters/kids thiers me, my (insert person), and (insert person).",
+    "urls": [
+      "https://www.instagram.com/reel/DHIm7I7TAOU/?igsh=cnZlaGtkZWI3MXRk"
+    ],
+    "placeholders": [
+      "(insert person)"
+    ]
+  },
+  {
+    "id": 816,
+    "category": "STORYTELLING",
+    "hook": "(insert time) I bought a (insert adjective) (insert noun) because it's cheaper than a (insert adjective) (insert noun).",
+    "urls": [
+      "https://www.instagram.com/reel/DFA-_6rSp7Q/?igsh=OTFmZWR0N3pxeW8w"
+    ],
+    "placeholders": [
+      "(insert time)",
+      "(insert adjective)",
+      "(insert noun)"
+    ]
+  },
+  {
+    "id": 817,
+    "category": "STORYTELLING",
+    "hook": "Did you know that if you wake up at (insert time), and (insert action)...",
+    "urls": [
+      "https://www.instagram.com/reel/DHCAe7lTiGn/?igsh=c2Z0ZXJxN2w0emFt"
+    ],
+    "placeholders": [
+      "(insert time)",
+      "(insert action)"
+    ]
+  },
+  {
+    "id": 818,
+    "category": "STORYTELLING",
+    "hook": "I already know I am going to get a bunch of hate for this but the (insert noun) is getting taken out today.",
+    "urls": [
+      "https://www.instagram.com/reel/DGErAlDujW_/?igsh=ejJkNzY3Z3hxaTl4"
+    ],
+    "placeholders": [
+      "(insert noun)"
+    ]
+  },
+  {
+    "id": 819,
+    "category": "STORYTELLING",
+    "hook": "People know me for nearly losing (insert noun) and dying in (insert location).",
+    "urls": [
+      "https://www.instagram.com/reel/DCvyp8lqoSU/?igsh=a3psNnJvcWtrcnly"
+    ],
+    "placeholders": [
+      "(insert noun)",
+      "(insert location)"
+    ]
+  },
+  {
+    "id": 820,
+    "category": "STORYTELLING",
+    "hook": "I am going to do it, i'm going to flip this… house.",
+    "urls": [
+      "https://www.instagram.com/reel/DGidAKiuEpN/?igsh=dWVkeDZkZmJ6dGEz"
+    ],
+    "placeholders": []
+  },
+  {
+    "id": 821,
+    "category": "STORYTELLING",
+    "hook": "Dude, it's day #. And I almost went (insert result).",
+    "urls": [
+      "https://www.instagram.com/reel/DDfST-vi3Vj/?igsh=N2V1ZmdpeDVpZ3Fl"
+    ],
+    "placeholders": [
+      "(insert result)"
+    ]
+  },
+  {
+    "id": 822,
+    "category": "STORYTELLING",
+    "hook": "My (insert person) lives (insert exact number of miles) away from my house.",
+    "urls": [
+      "https://www.instagram.com/reel/DJAO6ULRkvZ/?igsh=MTN6eW1naTRyOGppbQ=="
+    ],
+    "placeholders": [
+      "(insert person)",
+      "(insert exact number of miles)"
+    ]
+  },
+  {
+    "id": 823,
+    "category": "STORYTELLING",
+    "hook": "Why am I (insert action) at # months pregnant?",
+    "urls": [
+      "https://www.instagram.com/reel/DCU89MNOr9z/?igsh=MThnZ2dhdTNpYXBmcw=="
+    ],
+    "placeholders": [
+      "(insert action)"
+    ]
+  },
+  {
+    "id": 824,
+    "category": "STORYTELLING",
+    "hook": "Last year for (insert holiday) we (insert action).",
+    "urls": [
+      "https://www.instagram.com/reel/DDN6gx5NDIH/?igsh=MXJ1b2ZmMzhnd3R0aw=="
+    ],
+    "placeholders": [
+      "(insert holiday)",
+      "(insert action)"
+    ]
+  },
+  {
+    "id": 825,
+    "category": "STORYTELLING",
+    "hook": "We spent all day (insert action), burning through (insert metric) of (insert noun), and now I am having a fully blown (insert noun) choice crisis.",
+    "urls": [
+      "https://www.instagram.com/reel/DIN67zVzrrX/?igsh=MWpzYnluMmNranJhMQ=="
+    ],
+    "placeholders": [
+      "(insert action)",
+      "(insert metric)",
+      "(insert noun)"
+    ]
+  },
+  {
+    "id": 826,
+    "category": "STORYTELLING",
+    "hook": "Day # of my (insert persons) room makeover. Which I kind of took to the extreme but let's start from the beginning.",
+    "urls": [
+      "https://www.instagram.com/reel/DCuMERyPVD4/?igsh=Ynk1NndwZXA4aDdy"
+    ],
+    "placeholders": [
+      "(insert persons)"
+    ]
+  },
+  {
+    "id": 827,
+    "category": "STORYTELLING",
+    "hook": "Every year we make the questionable decision of (insert decision).",
+    "urls": [
+      "https://www.instagram.com/reel/DD1w5dTqaWa/?igsh=MWMyc3huc21kaHR3bg=="
+    ],
+    "placeholders": [
+      "(insert decision)"
+    ]
+  },
+  {
+    "id": 828,
+    "category": "STORYTELLING",
+    "hook": "This is what I (insert action) in a day as someone who is trying to (insert action) less and (insert action) more.",
+    "urls": [
+      "https://www.instagram.com/reel/DEqcQsap3cm/?igsh=OXRkcHN3Y3p5dGVx"
+    ],
+    "placeholders": [
+      "(insert action)"
+    ]
+  },
+  {
+    "id": 829,
+    "category": "STORYTELLING",
+    "hook": "I have been (insert title) for (insert time) now, and I have gained (insert #) of followers just by sharing (insert content type).",
+    "urls": [
+      "https://www.instagram.com/reel/DESlFyRSaeC/?igsh=MWxyNHowa2R2OTY0Mg=="
+    ],
+    "placeholders": [
+      "(insert title)",
+      "(insert time)",
+      "(insert #)",
+      "(insert content type)"
+    ]
+  },
+  {
+    "id": 830,
+    "category": "STORYTELLING",
+    "hook": "My (insert person) hasn't (insert action) in over # years.",
+    "urls": [
+      "https://www.instagram.com/reel/DItpYikupRg/?igsh=b2tnenZid2pnN21j"
+    ],
+    "placeholders": [
+      "(insert person)",
+      "(insert action)"
+    ]
+  },
+  {
+    "id": 831,
+    "category": "STORYTELLING",
+    "hook": "# years ago my (insert person) and I started (insert action).",
+    "urls": [
+      "https://www.instagram.com/reel/DI5lkjpPfMn/?igsh=eXNzaWZmb3VjcGFw"
+    ],
+    "placeholders": [
+      "(insert person)",
+      "(insert action)"
+    ]
+  },
+  {
+    "id": 832,
+    "category": "STORYTELLING",
+    "hook": "I have a problem. Which is that my (insert noun) it (insert pain point) and (insert pain point). So i'm going to build my own (insert noun) that has (insert benefit).",
+    "urls": [
+      "https://www.instagram.com/reel/DI6qlyqJ9WP/?igsh=N2szbnhja2o0ZWtu"
+    ],
+    "placeholders": [
+      "(insert noun)",
+      "(insert pain point)",
+      "(insert benefit)"
+    ]
+  },
+  {
+    "id": 833,
+    "category": "STORYTELLING",
+    "hook": "This week in fatherhood/motherhood I am please to report that I (insert result).",
+    "urls": [
+      "https://www.instagram.com/reel/DF3nqffSL7r/?igsh=MXdzMTk3bnQxOWwyeA=="
+    ],
+    "placeholders": [
+      "(insert result)"
+    ]
+  },
+  {
+    "id": 834,
+    "category": "STORYTELLING",
+    "hook": "Some say the strongest bond is between (insert person) and his/her (insert person).",
+    "urls": [
+      "https://www.instagram.com/reel/DF9uy9DzyJW/?igsh=MTMwc2EzeWk2YmdudQ=="
+    ],
+    "placeholders": [
+      "(insert person)"
+    ]
+  },
+  {
+    "id": 835,
+    "category": "STORYTELLING",
+    "hook": "Hi i'm (insert name) and I am a (insert title), this is my (insert person) and he/she loves (insert noun).",
+    "urls": [
+      "https://www.instagram.com/reel/DGO2HGtOu-C/?igsh=MXAyZ2tzbWJyMW12Mw=="
+    ],
+    "placeholders": [
+      "(insert name)",
+      "(insert title)",
+      "(insert person)",
+      "(insert noun)"
+    ]
+  },
+  {
+    "id": 836,
+    "category": "STORYTELLING",
+    "hook": "What is this massive stack of (insert noun) that I am holding in my hand, well it is the (insert noun) for the (insert number) of (insert noun) I have done this year.",
+    "urls": [
+      "https://www.instagram.com/reel/DDiXCKmurWf/?igsh=MTJiN2N1MGtvbnd0NQ=="
+    ],
+    "placeholders": [
+      "(insert noun)",
+      "(insert number)"
+    ]
+  },
+  {
+    "id": 837,
+    "category": "STORYTELLING",
+    "hook": "I (insert traumatic event) at (insert age) but it's what happened after that, that actually changed my life.",
+    "urls": [
+      "https://www.instagram.com/reel/DFGfX6NP6Pn/?igsh=bGlrYTZmNXhqenAy"
+    ],
+    "placeholders": [
+      "(insert traumatic event)",
+      "(insert age)"
+    ]
+  },
+  {
+    "id": 838,
+    "category": "STORYTELLING",
+    "hook": "I was walking past this (insert store) when I say they had (insert noun).",
+    "urls": [
+      "https://www.instagram.com/reel/DGwAia_yWQT/?igsh=MWZjaXcxcXFlczZ3aA=="
+    ],
+    "placeholders": [
+      "(insert store)",
+      "(insert noun)"
+    ]
+  },
+  {
+    "id": 839,
+    "category": "STORYTELLING",
+    "hook": "Fourtnely my (insert person) and I have a tendency to be a little bit impulsive.",
+    "urls": [
+      "https://www.instagram.com/reel/DGNL0Buyid_/?igsh=ZGl5YmZ4bTJjdXNy"
+    ],
+    "placeholders": [
+      "(insert person)"
+    ]
+  },
+  {
+    "id": 840,
+    "category": "STORYTELLING",
+    "hook": "Yesterday I (insert action) in (insert hours) and (insert minutes).",
+    "urls": [
+      "https://www.instagram.com/p/DJAIpU1N7b0/"
+    ],
+    "placeholders": [
+      "(insert action)",
+      "(insert hours)",
+      "(insert minutes)"
+    ]
+  },
+  {
+    "id": 841,
+    "category": "STORYTELLING",
+    "hook": "Would you buy a house with no (insert noun), well my (insert person) did!",
+    "urls": [
+      "https://www.instagram.com/p/DDxL49LJwSV/"
+    ],
+    "placeholders": [
+      "(insert noun)",
+      "(insert person)"
+    ]
+  },
+  {
+    "id": 842,
+    "category": "STORYTELLING",
+    "hook": "How long does it take to catch (insert high number) of (insert noun)?",
+    "urls": [
+      "https://www.instagram.com/p/DIIU8EuRq_H/"
+    ],
+    "placeholders": [
+      "(insert high number)",
+      "(insert noun)"
+    ]
+  },
+  {
+    "id": 843,
+    "category": "STORYTELLING",
+    "hook": "We got an insane deal on our (insert noun) a year ago because it needed to be (insert action).",
+    "urls": [
+      "https://www.instagram.com/reel/DHO0BEavIkr/?igsh=MWRhem4yYzA1Y2ExNw=="
+    ],
+    "placeholders": [
+      "(insert noun)",
+      "(insert action)"
+    ]
+  },
+  {
+    "id": 844,
+    "category": "STORYTELLING",
+    "hook": "There is a man/woman that comments on every single video I upload.",
+    "urls": [
+      "https://www.instagram.com/reel/DGc_8U7i-yF/?igsh=eDhpcG9rbGtrbzg4"
+    ],
+    "placeholders": []
+  },
+  {
+    "id": 845,
+    "category": "STORYTELLING",
+    "hook": "Buying (insert noun) that need a lot of work, can work out in your favor.",
+    "urls": [
+      "https://www.instagram.com/reel/DCtwyViukxT/?igsh=emQxcTF1NGx5b2Zi"
+    ],
+    "placeholders": [
+      "(insert noun)"
+    ]
+  },
+  {
+    "id": 846,
+    "category": "STORYTELLING",
+    "hook": "In # days I am selling my (insert noun) and moving out of the country.",
+    "urls": [
+      "https://www.instagram.com/reel/DCimp5XxA7o/?igsh=MW9qc2hjZHRnMmZyZQ=="
+    ],
+    "placeholders": [
+      "(insert noun)"
+    ]
+  },
+  {
+    "id": 847,
+    "category": "STORYTELLING",
+    "hook": "I think of my (insert noun) as my own personal (insert noun).",
+    "urls": [
+      "https://www.instagram.com/reel/DHWAUjrROF4/?igsh=MWthZzBuMnVsZ3FzbA=="
+    ],
+    "placeholders": [
+      "(insert noun)"
+    ]
+  },
+  {
+    "id": 848,
+    "category": "STORYTELLING",
+    "hook": "It's been (insert time) since I bought my dream (insert noun), and I want to take you through what the last (insert time) has been like.",
+    "urls": [
+      "https://www.instagram.com/reel/DFlD6AYyyHm/?igsh=em1hbXI2enF1MTBm"
+    ],
+    "placeholders": [
+      "(insert time)",
+      "(insert noun)"
+    ]
+  },
+  {
+    "id": 849,
+    "category": "STORYTELLING",
+    "hook": "(insert $) home (insert bad result) in just # time/months.",
+    "urls": [
+      "https://www.instagram.com/reel/DGKGa06O7a_/?igsh=bHdsa2lobXNxMmth"
+    ],
+    "placeholders": [
+      "(insert $)",
+      "(insert bad result)"
+    ]
+  },
+  {
+    "id": 850,
+    "category": "STORYTELLING",
+    "hook": "Come with me to (insert action) the (insert title) didn't (insert action).",
+    "urls": [
+      "https://www.instagram.com/reel/DEydm_GP0B8/?igsh=MWY1OTBpMmd0MXk2dg=="
+    ],
+    "placeholders": [
+      "(insert action)",
+      "(insert title)"
+    ]
+  },
+  {
+    "id": 851,
+    "category": "STORYTELLING",
+    "hook": "I am revmong all my (insert noun) friendly upgrades before we (insert action). Today we are removing (insert noun).",
+    "urls": [
+      "https://www.instagram.com/reel/DAXBKELOkLP/?igsh=MmloOHc1bXM5cHhh"
+    ],
+    "placeholders": [
+      "(insert noun)",
+      "(insert action)"
+    ]
+  },
+  {
+    "id": 852,
+    "category": "STORYTELLING",
+    "hook": "Let's try to unclog a (insert noun).",
+    "urls": [
+      "https://www.instagram.com/reel/DGUOKrcRFKT/?igsh=MXBjZWFrZGs3Mzl6dA=="
+    ],
+    "placeholders": [
+      "(insert noun)"
+    ]
+  },
+  {
+    "id": 853,
+    "category": "STORYTELLING",
+    "hook": "This is what my morning looks like while (insert situation).",
+    "urls": [
+      "https://www.instagram.com/reel/DExrL91JUcS/?igsh=MWN6anA2dnhhamoyZg=="
+    ],
+    "placeholders": [
+      "(insert situation)"
+    ]
+  },
+  {
+    "id": 854,
+    "category": "STORYTELLING",
+    "hook": "Last night at around (insert time) (insert person) began textbook stage one (insert scenario).",
+    "urls": [
+      "https://www.instagram.com/reel/DGludzMRqVt/?igsh=MWRpMmNqY21xYmtpOA=="
+    ],
+    "placeholders": [
+      "(insert time)",
+      "(insert person)",
+      "(insert scenario)"
+    ]
+  },
+  {
+    "id": 855,
+    "category": "STORYTELLING",
+    "hook": "After many years of total neglect my basement is finally getting much needed TLC.",
+    "urls": [
+      "https://www.instagram.com/reel/DFTWF7opT4B/?igsh=MTc1eG54cHkzdzhlNw=="
+    ],
+    "placeholders": []
+  },
+  {
+    "id": 856,
+    "category": "STORYTELLING",
+    "hook": "How (insert action) ended with a (insert person) at my house telling me how lucky we are that (insert accident) didn't happen.",
+    "urls": [
+      "https://www.instagram.com/reel/DG6_U-JxKtt/?igsh=am9wbnJ4b2JjMjcx"
+    ],
+    "placeholders": [
+      "(insert action)",
+      "(insert person)",
+      "(insert accident)"
+    ]
+  },
+  {
+    "id": 857,
+    "category": "STORYTELLING",
+    "hook": "Customer called me up because they had (insert situation) and wanted it (insert result) immediately.",
+    "urls": [
+      "https://www.instagram.com/reel/DEOTavZx5TX/?igsh=MTRkN3AyaDNlaTB0eg=="
+    ],
+    "placeholders": [
+      "(insert situation)",
+      "(insert result)"
+    ]
+  },
+  {
+    "id": 858,
+    "category": "STORYTELLING",
+    "hook": "While my kids were taking a nap I went to (insert action) when I realized (insert realization).",
+    "urls": [
+      "https://www.instagram.com/reel/DE3A6-up1Nd/?igsh=cHRuZWs4eW9qbmw0"
+    ],
+    "placeholders": [
+      "(insert action)",
+      "(insert realization)"
+    ]
+  },
+  {
+    "id": 859,
+    "category": "STORYTELLING",
+    "hook": "My one goal this year was to showcase just how interesting (insert noun) is.",
+    "urls": [
+      "https://www.instagram.com/reel/DEDVhdrSfbP/?igsh=NDVha25oZ2V2M2c2"
+    ],
+    "placeholders": [
+      "(insert noun)"
+    ]
+  },
+  {
+    "id": 860,
+    "category": "STORYTELLING",
+    "hook": "I don't usually cry, but yesterday I did. And it wasn't because of (insert reason).",
+    "urls": [
+      "https://www.instagram.com/reel/DBWgXXAvUh3/?igsh=MXdpcHgxdGlodXVrZw=="
+    ],
+    "placeholders": [
+      "(insert reason)"
+    ]
+  },
+  {
+    "id": 861,
+    "category": "STORYTELLING",
+    "hook": "You know when I started making (insert noun) I shouldhave known this day would come.",
+    "urls": [
+      "https://www.instagram.com/reel/DJANvPCTbH_/?igsh=MTJrYnFsZWVuY2w4eg=="
+    ],
+    "placeholders": [
+      "(insert noun)"
+    ]
+  },
+  {
+    "id": 862,
+    "category": "STORYTELLING",
+    "hook": "I got a (insert noun) and it did not turn out to be what I expected.",
+    "urls": [
+      "https://www.instagram.com/reel/DHCVNTcy1NM/?igsh=ajFvdjNodHhwNDZ5"
+    ],
+    "placeholders": [
+      "(insert noun)"
+    ]
+  },
+  {
+    "id": 863,
+    "category": "STORYTELLING",
+    "hook": "About a (insert time) ago I got in trouble for having too many (insert nouns).",
+    "urls": [
+      "https://www.instagram.com/reel/DB9kycqyic8/?igsh=b3EyYWY3bHFnenp2"
+    ],
+    "placeholders": [
+      "(insert time)",
+      "(insert nouns)"
+    ]
+  },
+  {
+    "id": 864,
+    "category": "STORYTELLING",
+    "hook": "I baited this (insert google rating) (insert title) with this (insert noun) in excellent condition to see if they would rip me off.",
+    "urls": [
+      "https://www.instagram.com/reel/DDLA77-SKTM/?igsh=NGg4aGJmZmU5ODJ2"
+    ],
+    "placeholders": [
+      "(insert google rating)",
+      "(insert title)",
+      "(insert noun)"
+    ]
+  },
+  {
+    "id": 865,
+    "category": "STORYTELLING",
+    "hook": "I took my (insert person) to (insert location) to try this (insert noun) and it actually caught something.",
+    "urls": [
+      "https://www.instagram.com/reel/DFG8vSONo9f/?igsh=MWUxdWx5eXJpeThmbA=="
+    ],
+    "placeholders": [
+      "(insert person)",
+      "(insert location)",
+      "(insert noun)"
+    ]
+  },
+  {
+    "id": 866,
+    "category": "STORYTELLING",
+    "hook": "I opened up a (insert business/store) in the middle of (insert location) and I can't believe how much money I made.",
+    "urls": [
+      "https://www.instagram.com/reel/DDr63MGOLsK/?igsh=MTZxanR2MjdobzJvNw=="
+    ],
+    "placeholders": [
+      "(insert business/store)",
+      "(insert location)"
+    ]
+  },
+  {
+    "id": 867,
+    "category": "STORYTELLING",
+    "hook": "I took a (insert hour) and (insert minute) (insert noun) to (insert location) and here's how it went.",
+    "urls": [
+      "https://www.instagram.com/reel/DCke9dGx-7G/?igsh=MXZqMmZkMTJ4dG1ydQ=="
+    ],
+    "placeholders": [
+      "(insert hour)",
+      "(insert minute)",
+      "(insert noun)",
+      "(insert location)"
+    ]
+  },
+  {
+    "id": 868,
+    "category": "STORYTELLING",
+    "hook": "(insert verb) (insert noun), (insert action), and don't (insert result). Welcome to (insert event).",
+    "urls": [
+      "https://www.instagram.com/reel/DGOH0THOBSl/?igsh=MXZweHoyNGU0Z201cg=="
+    ],
+    "placeholders": [
+      "(insert verb)",
+      "(insert noun)",
+      "(insert action)",
+      "(insert result)",
+      "(insert event)"
+    ]
+  },
+  {
+    "id": 869,
+    "category": "STORYTELLING",
+    "hook": "This is life as a (insert noun) addict part (insert #).",
+    "urls": [
+      "https://www.instagram.com/reel/DCno0FUObFN/?igsh=Mm1seHZxMWpnMm5o"
+    ],
+    "placeholders": [
+      "(insert noun)",
+      "(insert #)"
+    ]
+  },
+  {
+    "id": 870,
+    "category": "STORYTELLING",
+    "hook": "Welcome back to the journey of how I got (insert result).",
+    "urls": [
+      "https://www.instagram.com/reel/DFvWgldxb80/?igsh=enZpOWhjaWpicjRm"
+    ],
+    "placeholders": [
+      "(insert result)"
+    ]
+  },
+  {
+    "id": 871,
+    "category": "STORYTELLING",
+    "hook": "Come take a (insert noun) with me that I did not (insert action) for at all.",
+    "urls": [
+      "https://www.instagram.com/reel/DEArdkWRoI3/?igsh=MThiaXZ2dnBhdjR0cQ=="
+    ],
+    "placeholders": [
+      "(insert noun)",
+      "(insert action)"
+    ]
+  },
+  {
+    "id": 872,
+    "category": "STORYTELLING",
+    "hook": "It's been (insert time) since I have seen myself with (insert feature) and that's all about to change.",
+    "urls": [
+      "https://www.instagram.com/reel/C48sQQpI5aS/?igsh=MTIzNGduZmEzYzRudA=="
+    ],
+    "placeholders": [
+      "(insert time)",
+      "(insert feature)"
+    ]
+  },
+  {
+    "id": 873,
+    "category": "STORYTELLING",
+    "hook": "This was me when I was (insert pain point), (insert pain point), and (insert pain point).",
+    "urls": [
+      "https://www.instagram.com/reel/C5TmBcrrTxF/?igsh=MTlveW5uOWU5aW9wbg=="
+    ],
+    "placeholders": [
+      "(insert pain point)"
+    ]
+  },
+  {
+    "id": 874,
+    "category": "STORYTELLING",
+    "hook": "From being (insert state), to (insert state), back to (insert state), to (insert state), to now being (insert current state) in (insert time) I have built tons of knowledge when it comes to (insert result).",
+    "urls": [
+      "https://www.instagram.com/reel/C8Zs6wqx2bi/?igsh=ZzU5MHI2NGFzeGxj"
+    ],
+    "placeholders": [
+      "(insert state)",
+      "(insert current state)",
+      "(insert time)",
+      "(insert result)"
+    ]
+  },
+  {
+    "id": 875,
+    "category": "STORYTELLING",
+    "hook": "I have (insert event) in (insert time) and I have not started (insert action). And if I don't do well I have to (insert consequence).",
+    "urls": [
+      "https://www.instagram.com/reel/DDubxvxpHc1/?igsh=OWc0cXpuZmx6NG1h"
+    ],
+    "placeholders": [
+      "(insert event)",
+      "(insert time)",
+      "(insert action)",
+      "(insert consequence)"
+    ]
+  },
+  {
+    "id": 876,
+    "category": "STORYTELLING",
+    "hook": "Today I am eating like (insert person) for the full day and I am going to see how much weight I gain by the end of the day.",
+    "urls": [
+      "https://www.instagram.com/reel/DIohXabuCQd/?igsh=MTlsNWhhcjhrZzl4cg=="
+    ],
+    "placeholders": [
+      "(insert person)"
+    ]
+  },
+  {
+    "id": 877,
+    "category": "STORYTELLING",
+    "hook": "(insert time ago) my (insert person) (insert action) when my (insert person) passed away.",
+    "urls": [
+      "https://www.instagram.com/reel/DEpFrpHRKBN/?igsh=eDhxa2hibWllMGE4"
+    ],
+    "placeholders": [
+      "(insert time ago)",
+      "(insert person)",
+      "(insert action)"
+    ]
+  },
+  {
+    "id": 878,
+    "category": "STORYTELLING",
+    "hook": "(insert time) I started accepting the choice to (insert drastic change).",
+    "urls": [
+      "https://www.instagram.com/reel/DHrVRsRyA1t/?igsh=MXU0MTF6dXRpNndsbA=="
+    ],
+    "placeholders": [
+      "(insert time)",
+      "(insert drastic change)"
+    ]
+  },
+  {
+    "id": 879,
+    "category": "STORYTELLING",
+    "hook": "2 years, no (insert noun), and today's the first time I get to use (insert noun).",
+    "urls": [
+      "https://www.instagram.com/reel/DHlvQJEpYK1/?igsh=MTgxcXRpNWlrc2Qzcg=="
+    ],
+    "placeholders": [
+      "(insert noun)"
+    ]
+  },
+  {
+    "id": 880,
+    "category": "STORYTELLING",
+    "hook": "Does this stuff actually work?",
+    "urls": [
+      "https://www.instagram.com/reel/DHrP6IqyOPT/?igsh=MW5iMWQ1NWRjN3lvbA=="
+    ],
+    "placeholders": []
+  },
+  {
+    "id": 881,
+    "category": "STORYTELLING",
+    "hook": "I gained (insert pounds/kilos) during (insert life event).",
+    "urls": [
+      "https://www.instagram.com/reel/DG1ZicxMEJo/?igsh=aHZpN2kzamxibXI1"
+    ],
+    "placeholders": [
+      "(insert pounds/kilos)",
+      "(insert life event)"
+    ]
+  },
+  {
+    "id": 882,
+    "category": "STORYTELLING",
+    "hook": "I am letting (insert business type) companies, control my (insert noun).",
+    "urls": [
+      "https://www.instagram.com/reel/DBUGNe5Pn5g/?igsh=aWNqYnEzYnphcHBx"
+    ],
+    "placeholders": [
+      "(insert business type)",
+      "(insert noun)"
+    ]
+  },
+  {
+    "id": 883,
+    "category": "STORYTELLING",
+    "hook": "So I am (insert age) and I work nights at (insert store) that's the dream life right?",
+    "urls": [
+      "https://www.instagram.com/reel/DIW6N1gto6i/?igsh=Z244Y3Q0NTVvM21l"
+    ],
+    "placeholders": [
+      "(insert age)",
+      "(insert store)"
+    ]
+  },
+  {
+    "id": 884,
+    "category": "STORYTELLING",
+    "hook": "So it's been a week and I am already on (insert number) of followers.",
+    "urls": [
+      "https://www.instagram.com/reel/DI6pGLUN66W/?igsh=eWJmMTU4eW9jZ21j"
+    ],
+    "placeholders": [
+      "(insert number)"
+    ]
+  },
+  {
+    "id": 885,
+    "category": "STORYTELLING",
+    "hook": "So when I was (insert age) I started taking (insert noun) and at (insert age) I had to (insert action).",
+    "urls": [
+      "https://www.instagram.com/reel/DC2Mg4ON1m0/?igsh=N2R6aW10MHo5NTA4"
+    ],
+    "placeholders": [
+      "(insert age)",
+      "(insert noun)",
+      "(insert action)"
+    ]
+  },
+  {
+    "id": 886,
+    "category": "STORYTELLING",
+    "hook": "I used to always be the guy that had a (insert condition), (insert condition), and always struggled with (insert condition).",
+    "urls": [
+      "https://www.instagram.com/reel/DHtlcflN9uQ/?igsh=MXRweTBia2tnZG1vMg=="
+    ],
+    "placeholders": [
+      "(insert condition)"
+    ]
+  },
+  {
+    "id": 887,
+    "category": "STORYTELLING",
+    "hook": "My (insert person) takes me to the doctor, because I am (insert age) and already (insert action).",
+    "urls": [
+      "https://www.instagram.com/reel/DF-i8pixfba/?igsh=MWtpcTh4eXBwc2Z1Nw=="
+    ],
+    "placeholders": [
+      "(insert person)",
+      "(insert age)",
+      "(insert action)"
+    ]
+  },
+  {
+    "id": 888,
+    "category": "STORYTELLING",
+    "hook": "It has come to my attention that some of you guys think I am actually (insert result) when I do (insert content type).",
+    "urls": [
+      "https://www.instagram.com/reel/DGrDjgDuxt0/?igsh=Yzkxb3U5ODBjaWM3"
+    ],
+    "placeholders": [
+      "(insert result)",
+      "(insert content type)"
+    ]
+  },
+  {
+    "id": 889,
+    "category": "STORYTELLING",
+    "hook": "A little over (insert time) ago I posted a video about thebenefits of (insert action).",
+    "urls": [
+      "https://www.instagram.com/reel/DG8iDwOuA6R/?igsh=MXhiM3IyYXRycHZyYw=="
+    ],
+    "placeholders": [
+      "(insert time)",
+      "(insert action)"
+    ]
+  },
+  {
+    "id": 890,
+    "category": "STORYTELLING",
+    "hook": "I did (insert action) everyday for one year, and here's what's different.",
+    "urls": [
+      "https://www.instagram.com/reel/DAMm_LMsAxL/?igsh=MTgyZWpwNG05ZHV1dA=="
+    ],
+    "placeholders": [
+      "(insert action)"
+    ]
+  },
+  {
+    "id": 891,
+    "category": "STORYTELLING",
+    "hook": "I can confidently say the only reason I can (insert verb) (insert metric) is simply because of the way I choose to (insert verb).",
+    "urls": [
+      "https://www.instagram.com/reel/C_rB-Ntuhe8/?igsh=MWhsazBneHVldG1hcA=="
+    ],
+    "placeholders": [
+      "(insert verb)",
+      "(insert metric)"
+    ]
+  },
+  {
+    "id": 892,
+    "category": "STORYTELLING",
+    "hook": "# days ago I quit (insert noun) as a (insert age) (insert title), and started (insert noun) for literally one reason.",
+    "urls": [
+      "https://www.instagram.com/reel/DIfR8HKN1S-/?igsh=MXpnd2llaDN3aGE2"
+    ],
+    "placeholders": [
+      "(insert noun)",
+      "(insert age)",
+      "(insert title)"
+    ]
+  },
+  {
+    "id": 893,
+    "category": "STORYTELLING",
+    "hook": "A competitor showed up at my job trying to get me fired.",
+    "urls": [
+      "https://www.instagram.com/reel/DCAp43wtIxP/?igsh=MWZpYzJiaGxnNTFodw=="
+    ],
+    "placeholders": []
+  },
+  {
+    "id": 894,
+    "category": "STORYTELLING",
+    "hook": "I damaged a customer's property and here's how I handled it.",
+    "urls": [
+      "https://www.instagram.com/reel/DI8xeTdOCGp/?igsh=d3NoMjRtcmxndmh2"
+    ],
+    "placeholders": []
+  },
+  {
+    "id": 895,
+    "category": "STORYTELLING",
+    "hook": "A customer (insert result) and tried to avoid paying.",
+    "urls": [
+      "https://www.instagram.com/reel/DHorGhlyi3x/?igsh=MXRjbnhxODgxcmF6aw=="
+    ],
+    "placeholders": [
+      "(insert result)"
+    ]
+  },
+  {
+    "id": 896,
+    "category": "STORYTELLING",
+    "hook": "I was harassed by (insert noun) so I had to do this.",
+    "urls": [
+      "https://www.instagram.com/reel/DHZvMput7H8/?igsh=OXlxMmZmcmZzZnc3"
+    ],
+    "placeholders": [
+      "(insert noun)"
+    ]
+  },
+  {
+    "id": 897,
+    "category": "STORYTELLING",
+    "hook": "Alright this is officially day #1, trying to make (insert $) a month with (insert business).",
+    "urls": [
+      "https://www.instagram.com/reel/DGYg6fDxohE/?igsh=ajIyZzE1ZnBmZWJn"
+    ],
+    "placeholders": [
+      "(insert $)",
+      "(insert business)"
+    ]
+  },
+  {
+    "id": 898,
+    "category": "STORYTELLING",
+    "hook": "I am a retired (insert title) who now owns a (insert business). So come with me to collect the quarters.",
+    "urls": [
+      "https://www.instagram.com/reel/DEz4JQYvuSr/?igsh=M2Z1c3Jpd3lrMjJz"
+    ],
+    "placeholders": [
+      "(insert title)",
+      "(insert business)"
+    ]
+  },
+  {
+    "id": 899,
+    "category": "STORYTELLING",
+    "hook": "Did you know you can start your own (insert business ) from home without (insert pain point), (insert pain point), and (insert pain point).",
+    "urls": [
+      "https://www.instagram.com/reel/DGv9SwVysky/?igsh=emp3bnJ6c3c2aWQx"
+    ],
+    "placeholders": [
+      "(insert business )",
+      "(insert pain point)"
+    ]
+  },
+  {
+    "id": 900,
+    "category": "STORYTELLING",
+    "hook": "I would like to welcome you to my (insert location).",
+    "urls": [
+      "https://www.instagram.com/reel/DDqPDWny9a/?igsh=aDczYzE0M200NGRx"
+    ],
+    "placeholders": [
+      "(insert location)"
+    ]
+  },
+  {
+    "id": 901,
+    "category": "STORYTELLING",
+    "hook": "Let me show yall how to make (insert $) per day, but installing a simple (insert noun).",
+    "urls": [
+      "https://www.instagram.com/reel/DCZnnxFx-IX/?igsh=MWdxdml5MXQxb3FzYw=="
+    ],
+    "placeholders": [
+      "(insert $)",
+      "(insert noun)"
+    ]
+  },
+  {
+    "id": 902,
+    "category": "STORYTELLING",
+    "hook": "Have you ever thought about starting your own (insert business)?",
+    "urls": [
+      "https://www.instagram.com/reel/DG4fj2xxD5n/?igsh=OGR0ajlhNnBhbnF6"
+    ],
+    "placeholders": [
+      "(insert business)"
+    ]
+  },
+  {
+    "id": 903,
+    "category": "STORYTELLING",
+    "hook": "Day # of trying a new hobby to recover from burnout.",
+    "urls": [
+      "https://www.instagram.com/p/DJDLxItzPJV/"
+    ],
+    "placeholders": []
+  },
+  {
+    "id": 904,
+    "category": "STORYTELLING",
+    "hook": "My (insert noun) made me (insert $) last month, and what's crazy about this is I used no money to start this business.",
+    "urls": [
+      "https://www.instagram.com/reel/DIotrpKRU6x/?igsh=MTJxaHp1c3lzcjEzMA=="
+    ],
+    "placeholders": [
+      "(insert noun)",
+      "(insert $)"
+    ]
+  },
+  {
+    "id": 905,
+    "category": "STORYTELLING",
+    "hook": "Make (insert noun) and (insert noun) with me from my online (insert business) and a (insert label).",
+    "urls": [
+      "https://www.instagram.com/reel/DGW779fM0nD/?igsh=OTJxZnA0dXBobW4="
+    ],
+    "placeholders": [
+      "(insert noun)",
+      "(insert business)",
+      "(insert label)"
+    ]
+  },
+  {
+    "id": 906,
+    "category": "STORYTELLING",
+    "hook": "Hi i'm (insert name) a (insert #) generation (insert title) who shares tips about (insert niche) and (insert result).",
+    "urls": [
+      "https://www.instagram.com/reel/DFdu6ZHxg5i/?igsh=MWU2dmJ2OWw1MHppNw=="
+    ],
+    "placeholders": [
+      "(insert name)",
+      "(insert #)",
+      "(insert title)",
+      "(insert niche)",
+      "(insert result)"
+    ]
+  },
+  {
+    "id": 907,
+    "category": "STORYTELLING",
+    "hook": "Starting a (insert business) at (insert age).",
+    "urls": [
+      "https://www.instagram.com/reel/DEBDyQLTOyO/?igsh=Mmd3NG1wbHVneDdz"
+    ],
+    "placeholders": [
+      "(insert business)",
+      "(insert age)"
+    ]
+  },
+  {
+    "id": 908,
+    "category": "STORYTELLING",
+    "hook": "Welcome to day # of starting my life over at (insert age).",
+    "urls": [
+      "https://www.instagram.com/reel/DHOxtt0NE6o/?igsh=MWxjMXJpZW8wazl5dA=="
+    ],
+    "placeholders": [
+      "(insert age)"
+    ]
+  },
+  {
+    "id": 909,
+    "category": "STORYTELLING",
+    "hook": "I have something to address, over the last week I have gained (insert #) of followers.",
+    "urls": [
+      "https://www.instagram.com/reel/DEz23JVpGgE/?igsh=MXdtdzVwa216cTZicA=="
+    ],
+    "placeholders": [
+      "(insert #)"
+    ]
+  },
+  {
+    "id": 910,
+    "category": "STORYTELLING",
+    "hook": "This is how I ended up taking the biggest risk of my life.",
+    "urls": [
+      "https://www.instagram.com/reel/DHdesfVCuKx/?igsh=MTVqZ2ZubWQyZmdkMA=="
+    ],
+    "placeholders": []
+  },
+  {
+    "id": 911,
+    "category": "STORYTELLING",
+    "hook": "In 1 year I (insert verb) over (insert pounds) of (insert noun) in my extremely small (insert location).",
+    "urls": [
+      "https://www.instagram.com/reel/DFX2ud_OwT4/?igsh=MW1ldmtqMmh6Yjd2cA=="
+    ],
+    "placeholders": [
+      "(insert verb)",
+      "(insert pounds)",
+      "(insert noun)",
+      "(insert location)"
+    ]
+  },
+  {
+    "id": 912,
+    "category": "STORYTELLING",
+    "hook": "I f*cked up. I bought literally a (insert metric) of (insert noun). And for the last (insert time) I have been turning them into (insert results).",
+    "urls": [
+      "https://www.instagram.com/reel/DIhivhvtN3q/?igsh=ZmRuOGthenpjN2I="
+    ],
+    "placeholders": [
+      "(insert metric)",
+      "(insert noun)",
+      "(insert time)",
+      "(insert results)"
+    ]
+  },
+  {
+    "id": 913,
+    "category": "STORYTELLING",
+    "hook": "I finally built it. For the last # years I've been turning (insert noun) into (insert noun).",
+    "urls": [
+      "https://www.instagram.com/reel/DIxSSv5KcRv/?igsh=MXRxYTRrc240Mm1wbA=="
+    ],
+    "placeholders": [
+      "(insert noun)"
+    ]
+  },
+  {
+    "id": 914,
+    "category": "STORYTELLING",
+    "hook": "Is it possible to go from (insert before state) to (insert after state) just by (insert action).",
+    "urls": [
+      "https://www.instagram.com/reel/DIoMIenNube/?igsh=MWZ0NG90Z2hubTJ5dw=="
+    ],
+    "placeholders": [
+      "(insert before state)",
+      "(insert after state)",
+      "(insert action)"
+    ]
+  },
+  {
+    "id": 915,
+    "category": "STORYTELLING",
+    "hook": "We are now at day #, since starting my (insert project).",
+    "urls": [
+      "https://www.instagram.com/reel/DCpBtQ8uz1R/?igsh=NXBqM3gwams3dWQw"
+    ],
+    "placeholders": [
+      "(insert project)"
+    ]
+  },
+  {
+    "id": 916,
+    "category": "STORYTELLING",
+    "hook": "Proof that a (insert noun) can totally transform a space.",
+    "urls": [
+      "https://www.instagram.com/reel/DIRVPZNpr9M/?igsh=MWtmaXh6eWk5cHNnaw=="
+    ],
+    "placeholders": [
+      "(insert noun)"
+    ]
+  },
+  {
+    "id": 917,
+    "category": "STORYTELLING",
+    "hook": "Alright today we are building this (insert $) (insert adjective) (insert noun).",
+    "urls": [
+      "https://www.instagram.com/reel/DEsqSd9SFfS/?igsh=ZXhlcDVnemUwcm9m"
+    ],
+    "placeholders": [
+      "(insert $)",
+      "(insert adjective)",
+      "(insert noun)"
+    ]
+  },
+  {
+    "id": 918,
+    "category": "STORYTELLING",
+    "hook": "Here is how we transformed my (insert persons) (insert location) from this to this using (insert noun).",
+    "urls": [
+      "https://www.instagram.com/reel/DCufP51puBN/?igsh=cjdreHNxeTlwbXE2"
+    ],
+    "placeholders": [
+      "(insert persons)",
+      "(insert location)",
+      "(insert noun)"
+    ]
+  },
+  {
+    "id": 919,
+    "category": "STORYTELLING",
+    "hook": "There;s probably a reason why most people don't (insert action).",
+    "urls": [
+      "https://www.instagram.com/reel/DHbjAxavLKw/?igsh=MWoyb3kzd2UwN2JpYw=="
+    ],
+    "placeholders": [
+      "(insert action)"
+    ]
+  },
+  {
+    "id": 920,
+    "category": "STORYTELLING",
+    "hook": "I bought this (insert noun) for (insert $). And today my (insert person) and I will find out if it (insert result).",
+    "urls": [
+      "https://www.instagram.com/reel/DGgxdZ4SRgm/?igsh=cDRtaW03bDNwNGhy"
+    ],
+    "placeholders": [
+      "(insert noun)",
+      "(insert $)",
+      "(insert person)",
+      "(insert result)"
+    ]
+  },
+  {
+    "id": 921,
+    "category": "STORYTELLING",
+    "hook": "I can't stand this (insert noun), let's transform it.",
+    "urls": [
+      "https://www.instagram.com/reel/DEDx84Zy4Fi/?igsh=cHdmNnFxbnNvd2xk"
+    ],
+    "placeholders": [
+      "(insert noun)"
+    ]
+  },
+  {
+    "id": 922,
+    "category": "STORYTELLING",
+    "hook": "Over the past # days I (insert action) on # of (insert nouns). In doing that I have gained over (insert #) of followers. So here's the thing.",
+    "urls": [
+      "https://www.instagram.com/reel/DH64QI0uzgl/?igsh=MTNzamdyMHY1bzhqMw=="
+    ],
+    "placeholders": [
+      "(insert action)",
+      "(insert nouns)",
+      "(insert #)"
+    ]
+  },
+  {
+    "id": 923,
+    "category": "STORYTELLING",
+    "hook": "Over the last (insert time) I have been finding a lot of cool things over (insert location). And today I am finally finishing my (insert project).",
+    "urls": [
+      "https://www.instagram.com/reel/DDc9OJlvOMl/?igsh=czZyZ2picXR6eWlw"
+    ],
+    "placeholders": [
+      "(insert time)",
+      "(insert location)",
+      "(insert project)"
+    ]
+  },
+  {
+    "id": 924,
+    "category": "STORYTELLING",
+    "hook": "Do you ever (insert situation), yeah well that's my job.",
+    "urls": [
+      "https://www.instagram.com/reel/DDVHvRjsz9k/?igsh=cThzb3VrNHp3ZWh3"
+    ],
+    "placeholders": [
+      "(insert situation)"
+    ]
+  },
+  {
+    "id": 925,
+    "category": "STORYTELLING",
+    "hook": "I bought this (insert noun) for (insert $), and I am goingto make it worth over (insert $) without changing the product in any way.",
+    "urls": [
+      "https://www.instagram.com/reel/DHtn8PPo5_r/?igsh=MTZtNGc0aXFxaG9mMA=="
+    ],
+    "placeholders": [
+      "(insert noun)",
+      "(insert $)"
+    ]
+  },
+  {
+    "id": 926,
+    "category": "STORYTELLING",
+    "hook": "This might be the coolest DIY I have ever made.",
+    "urls": [
+      "https://www.instagram.com/reel/DGJDrxePydv/?igsh=Mml6dXljeWF5dGZp"
+    ],
+    "placeholders": []
+  },
+  {
+    "id": 927,
+    "category": "STORYTELLING",
+    "hook": "Some people call it a problem but I call it (insert noun) genius.",
+    "urls": [
+      "https://www.instagram.com/reel/DGQvN_dJ5cK/?igsh=MThiN2V2eGRqenJ4cA=="
+    ],
+    "placeholders": [
+      "(insert noun)"
+    ]
+  },
+  {
+    "id": 928,
+    "category": "STORYTELLING",
+    "hook": "With the (insert life event) coming, it's time to (insert action).",
+    "urls": [
+      "https://www.instagram.com/reel/DC2fx6XOD5c/?igsh=MXVyY2lsajhqcDJyYw=="
+    ],
+    "placeholders": [
+      "(insert life event)",
+      "(insert action)"
+    ]
+  },
+  {
+    "id": 929,
+    "category": "RANDOM",
+    "hook": "This is (insert large number) of (insert item).",
+    "urls": [
+      "https://www.instagram.com/p/C84vUYRMEtm/"
+    ],
+    "placeholders": [
+      "(insert large number)",
+      "(insert item)"
+    ]
+  },
+  {
+    "id": 930,
+    "category": "RANDOM",
+    "hook": "This is my (insert item) and this is (insert random action) if I were (insert random action).",
+    "urls": [
+      "https://www.instagram.com/p/DCswF7jx5e8/"
+    ],
+    "placeholders": [
+      "(insert item)",
+      "(insert random action)"
+    ]
+  },
+  {
+    "id": 931,
+    "category": "RANDOM",
+    "hook": "You're losing your boyfriend/girlfriend this week to (insert event/hobby).",
+    "urls": [
+      "https://www.instagram.com/p/C_d78KaSl4e/"
+    ],
+    "placeholders": [
+      "(insert event/hobby)"
+    ]
+  },
+  {
+    "id": 932,
+    "category": "RANDOM",
+    "hook": "What (insert title) says vs what they mean.",
+    "urls": [
+      "https://www.instagram.com/p/C9pwV7rPMVo/"
+    ],
+    "placeholders": [
+      "(insert title)"
+    ]
+  },
+  {
+    "id": 933,
+    "category": "RANDOM",
+    "hook": "(insert trend) is the most disgusting trend on social media.",
+    "urls": [
+      "https://www.instagram.com/p/DAdgNiLSGrC/"
+    ],
+    "placeholders": [
+      "(insert trend)"
+    ]
+  },
+  {
+    "id": 934,
+    "category": "RANDOM",
+    "hook": "I do not believe in (insert common belief), I believe in (insert your belief).",
+    "urls": [
+      "https://www.instagram.com/reel/DFAu11XxvX-/"
+    ],
+    "placeholders": [
+      "(insert common belief)",
+      "(insert your belief)"
+    ]
+  },
+  {
+    "id": 935,
+    "category": "RANDOM",
+    "hook": "If you like these (insert job title), you'll probably like my (insert work).",
+    "urls": [
+      "https://www.instagram.com/p/C-S-AL0tIoy/"
+    ],
+    "placeholders": [
+      "(insert job title)",
+      "(insert work)"
+    ]
+  },
+  {
+    "id": 936,
+    "category": "RANDOM",
+    "hook": "(insert big brand) didn't want to sponsor this video, let me show you what they're missing out on.",
+    "urls": [
+      "https://www.instagram.com/p/DAlofevvKBf/"
+    ],
+    "placeholders": [
+      "(insert big brand)"
+    ]
+  },
+  {
+    "id": 937,
+    "category": "RANDOM",
+    "hook": "I am trying a different (insert noun) for each letter of the alphabet.",
+    "urls": [
+      "https://www.instagram.com/p/DFdgmSDx5h7/"
+    ],
+    "placeholders": [
+      "(insert noun)"
+    ]
+  },
+  {
+    "id": 938,
+    "category": "RANDOM",
+    "hook": "My (insert person) has never been in the (insert place) before let's see if she can tell who is (insert adjective) or not.",
+    "urls": [
+      "https://www.instagram.com/p/DHwLIKmuE9a/"
+    ],
+    "placeholders": [
+      "(insert person)",
+      "(insert place)",
+      "(insert adjective)"
+    ]
+  },
+  {
+    "id": 939,
+    "category": "RANDOM",
+    "hook": "If I get this in, then I have to (insert verb).",
+    "urls": [
+      "https://www.instagram.com/p/DIIB3xdThFN/"
+    ],
+    "placeholders": [
+      "(insert verb)"
+    ]
+  },
+  {
+    "id": 940,
+    "category": "AUTHORITY",
+    "hook": "My (insert before state) used to look like this and now they look like this.",
+    "urls": [
+      "https://www.instagram.com/reel/DE7cjKBNcY4/?igsh=MTNyY2l3bzM5b2Q3"
+    ],
+    "placeholders": [
+      "(insert before state)"
+    ]
+  },
+  {
+    "id": 941,
+    "category": "AUTHORITY",
+    "hook": "10 YEARS it took me from (insert before state) to (insert after state).",
+    "urls": [
+      "https://www.instagram.com/p/C8Cpii4PB1u/"
+    ],
+    "placeholders": [
+      "(insert before state)",
+      "(insert after state)"
+    ]
+  },
+  {
+    "id": 942,
+    "category": "AUTHORITY",
+    "hook": "How to turn this into this in X simple steps.",
+    "urls": [
+      "https://www.instagram.com/p/DDDbVpExlO7/"
+    ],
+    "placeholders": []
+  },
+  {
+    "id": 943,
+    "category": "AUTHORITY",
+    "hook": "(insert big result) from (insert item/thing). Here's how you can do it in X steps.",
+    "urls": [
+      "https://www.instagram.com/p/DBZtLTpv91b/"
+    ],
+    "placeholders": [
+      "(insert big result)",
+      "(insert item/thing)"
+    ]
+  },
+  {
+    "id": 944,
+    "category": "AUTHORITY",
+    "hook": "Over the past (insert time) I've grown my (insert thing) from (insert before) to (insert after).",
+    "urls": [
+      "https://www.instagram.com/p/DCopsVERQ_N/"
+    ],
+    "placeholders": [
+      "(insert time)",
+      "(insert thing)",
+      "(insert before)",
+      "(insert after)"
+    ]
+  },
+  {
+    "id": 945,
+    "category": "AUTHORITY",
+    "hook": "Just # (insert item/action) took my client from (insert before) to (insert after).",
+    "urls": [
+      "https://www.instagram.com/p/C9XVmDQS2z-/"
+    ],
+    "placeholders": [
+      "(insert item/action)",
+      "(insert before)",
+      "(insert after)"
+    ]
+  },
+  {
+    "id": 946,
+    "category": "AUTHORITY",
+    "hook": "My customer/client got (insert dream result) without (insert pain point).",
+    "urls": [
+      "https://www.instagram.com/reel/C4VceenL2Wq/"
+    ],
+    "placeholders": [
+      "(insert dream result)",
+      "(insert pain point)"
+    ]
+  },
+  {
+    "id": 947,
+    "category": "AUTHORITY",
+    "hook": "If I were to create a collab campaign for (insert big brands) here's how I would do it.",
+    "urls": [
+      "https://www.instagram.com/reel/DDWwZtZi4Jt/"
+    ],
+    "placeholders": [
+      "(insert big brands)"
+    ]
+  },
+  {
+    "id": 948,
+    "category": "AUTHORITY",
+    "hook": "How I got my (insert item/thing) from this to this.",
+    "urls": [
+      "https://www.instagram.com/p/C89iASFu7GA/"
+    ],
+    "placeholders": [
+      "(insert item/thing)"
+    ]
+  },
+  {
+    "id": 949,
+    "category": "AUTHORITY",
+    "hook": "I became a (insert achievement) at (insert age) and if I could give you X pieces of advice it would be…",
+    "urls": [
+      "https://www.tiktok.com/t/ZT2MLXA1Y/"
+    ],
+    "placeholders": [
+      "(insert achievement)",
+      "(insert age)"
+    ]
+  },
+  {
+    "id": 950,
+    "category": "AUTHORITY",
+    "hook": "Everyone is complimenting on my (insert noun) because of one (insert noun) routine that I do.",
+    "urls": [
+      "https://www.instagram.com/p/C-NrgKvR4KS/"
+    ],
+    "placeholders": [
+      "(insert noun)"
+    ]
+  },
+  {
+    "id": 951,
+    "category": "AUTHORITY",
+    "hook": "I lost over (insert metric) in (insert time frame) and here are the # of things I would do if I was to start all over.",
+    "urls": [
+      "https://www.instagram.com/p/DGgs20kvL2r/"
+    ],
+    "placeholders": [
+      "(insert metric)",
+      "(insert time frame)"
+    ]
+  },
+  {
+    "id": 952,
+    "category": "AUTHORITY",
+    "hook": "My customer/client got (insert dream result) with out (insert pain point) and here's how.",
+    "urls": [
+      "https://www.instagram.com/reel/C4VceenL2Wq/"
+    ],
+    "placeholders": [
+      "(insert dream result)",
+      "(insert pain point)"
+    ]
+  },
+  {
+    "id": 953,
+    "category": "AUTHORITY",
+    "hook": "I am in a (insert noun) and these # habits dramatically transformed my (insert noun).",
+    "urls": [
+      "https://www.instagram.com/reel/C79a1LjPGYa/"
+    ],
+    "placeholders": [
+      "(insert noun)"
+    ]
+  },
+  {
+    "id": 954,
+    "category": "AUTHORITY",
+    "hook": "I got (insert dream result) on all of my (insert noun) with minimal (insert action) and here's how.",
+    "urls": [
+      "https://www.instagram.com/p/C6G56RQrf9N/"
+    ],
+    "placeholders": [
+      "(insert dream result)",
+      "(insert noun)",
+      "(insert action)"
+    ]
+  },
+  {
+    "id": 955,
+    "category": "AUTHORITY",
+    "hook": "If I were to create a (insert noun) today this is how I would do it.",
+    "urls": [
+      "https://www.instagram.com/p/DCephvLiQuW/"
+    ],
+    "placeholders": [
+      "(insert noun)"
+    ]
+  },
+  {
+    "id": 956,
+    "category": "AUTHORITY",
+    "hook": "If I ever made it to the news I thought it would at least be for something illegal, turns out it's for (insert dream result).",
+    "urls": [
+      "https://www.instagram.com/p/DF2GJJ3vAQq/"
+    ],
+    "placeholders": [
+      "(insert dream result)"
+    ]
+  },
+  {
+    "id": 957,
+    "category": "AUTHORITY",
+    "hook": "(insert well known brand) commented that I am their new favorite (insert title).",
+    "urls": [
+      "https://www.instagram.com/reel/DH4GEtKBzbo/"
+    ],
+    "placeholders": [
+      "(insert well known brand)",
+      "(insert title)"
+    ]
+  },
+  {
+    "id": 958,
+    "category": "AUTHORITY",
+    "hook": "What I (insert action) in a day as someone who has achieved (insert dream result).",
+    "urls": [
+      "https://www.instagram.com/p/C66_WyUvgha/"
+    ],
+    "placeholders": [
+      "(insert action)",
+      "(insert dream result)"
+    ]
+  },
+  {
+    "id": 959,
+    "category": "AUTHORITY",
+    "hook": "I literally used to have a (insert before state).",
+    "urls": [
+      "https://www.instagram.com/share/_grFmUWDX"
+    ],
+    "placeholders": [
+      "(insert before state)"
+    ]
+  },
+  {
+    "id": 960,
+    "category": "AUTHORITY",
+    "hook": "My (insert noun) went from this to this in the last (insert time frame) and this is what I done.",
+    "urls": [
+      "https://www.instagram.com/share/BANskzjs_f"
+    ],
+    "placeholders": [
+      "(insert noun)",
+      "(insert time frame)"
+    ]
+  },
+  {
+    "id": 961,
+    "category": "AUTHORITY",
+    "hook": "I have been pretty much doing the same (insert noun) for the past (insert time frame) and they have legit (insert dream result).",
+    "urls": [
+      "https://www.instagram.com/share/BAdIQWMjhm"
+    ],
+    "placeholders": [
+      "(insert noun)",
+      "(insert time frame)",
+      "(insert dream result)"
+    ]
+  },
+  {
+    "id": 962,
+    "category": "AUTHORITY",
+    "hook": "When I was (insert before state) I was constantly (insert pain point).",
+    "urls": [
+      "https://www.instagram.com/p/CzevtHvyxxX/"
+    ],
+    "placeholders": [
+      "(insert before state)",
+      "(insert pain point)"
+    ]
+  },
+  {
+    "id": 963,
+    "category": "AUTHORITY",
+    "hook": "In (insert year) my business made (insert dollar amount).",
+    "urls": [
+      "https://www.instagram.com/p/DEhk6r4ydum/"
+    ],
+    "placeholders": [
+      "(insert year)",
+      "(insert dollar amount)"
+    ]
+  },
+  {
+    "id": 964,
+    "category": "AUTHORITY",
+    "hook": "As a (insert title) for several years whose (insert action) I often get asked (insert name) (insert question).",
+    "urls": [
+      "https://www.instagram.com/reel/DGRSq17OLPV/"
+    ],
+    "placeholders": [
+      "(insert title)",
+      "(insert action)",
+      "(insert name)",
+      "(insert question)"
+    ]
+  },
+  {
+    "id": 965,
+    "category": "AUTHORITY",
+    "hook": "I have never ended (insert noun) with a (insert result) or below.",
+    "urls": [
+      "https://www.instagram.com/reel/DFfNiKHOzpr/"
+    ],
+    "placeholders": [
+      "(insert noun)",
+      "(insert result)"
+    ]
+  },
+  {
+    "id": 966,
+    "category": "AUTHORITY",
+    "hook": "He/she (insert action) for one day and got (insert dream result).",
+    "urls": [
+      "https://www.instagram.com/p/DFp2byfojFu/"
+    ],
+    "placeholders": [
+      "(insert action)",
+      "(insert dream result)"
+    ]
+  },
+  {
+    "id": 967,
+    "category": "AUTHORITY",
+    "hook": "I jumped my (insert noun) from (insert before state) to (insert dream result).",
+    "urls": [
+      "https://www.instagram.com/p/DFsVpDVOAGf/"
+    ],
+    "placeholders": [
+      "(insert noun)",
+      "(insert before state)",
+      "(insert dream result)"
+    ]
+  },
+  {
+    "id": 968,
+    "category": "AUTHORITY",
+    "hook": "This used to be my (insert noun) this is my (insert noun) now.",
+    "urls": [
+      "https://www.instagram.com/p/DDV4VwitJPo/"
+    ],
+    "placeholders": [
+      "(insert noun)"
+    ]
+  },
+  {
+    "id": 969,
+    "category": "AUTHORITY",
+    "hook": "I have been able to go from this, to this.",
+    "urls": [
+      "https://www.instagram.com/p/DGekQ-6NXjQ/"
+    ],
+    "placeholders": []
+  },
+  {
+    "id": 970,
+    "category": "AUTHORITY",
+    "hook": "Things I wish I knew before my (insert noun) that took me from this to this.",
+    "urls": [
+      "https://www.instagram.com/p/DGsXCTeS69Z/"
+    ],
+    "placeholders": [
+      "(insert noun)"
+    ]
+  },
+  {
+    "id": 971,
+    "category": "AUTHORITY",
+    "hook": "The (insert noun) I (insert action) everyday that took me from this, to this.",
+    "urls": [
+      "https://www.instagram.com/p/DGxOv7Rp2UE/"
+    ],
+    "placeholders": [
+      "(insert noun)",
+      "(insert action)"
+    ]
+  },
+  {
+    "id": 972,
+    "category": "AUTHORITY",
+    "hook": "I went from this to this.",
+    "urls": [
+      "https://www.instagram.com/p/DFIU9b7OS2h/"
+    ],
+    "placeholders": []
+  },
+  {
+    "id": 973,
+    "category": "AUTHORITY",
+    "hook": "No because my transformation from (insert age) to (insert age) ought to be studied.",
+    "urls": [
+      "https://www.instagram.com/p/DEOVBs8ygXs/"
+    ],
+    "placeholders": [
+      "(insert age)"
+    ]
+  },
+  {
+    "id": 974,
+    "category": "AUTHORITY",
+    "hook": "After (insert dream result) here is one thing I learned the hard way so you don't have to.",
+    "urls": [
+      "https://www.instagram.com/p/DFdP6ttxN-a/"
+    ],
+    "placeholders": [
+      "(insert dream result)"
+    ]
+  },
+  {
+    "id": 975,
+    "category": "AUTHORITY",
+    "hook": "Okay bish you don't need to (insert action) to (insert dream result) coming from someone who (insert dream result).",
+    "urls": [
+      "https://www.instagram.com/p/C6uiWv3p4FC/"
+    ],
+    "placeholders": [
+      "(insert action)",
+      "(insert dream result)"
+    ]
+  },
+  {
+    "id": 976,
+    "category": "AUTHORITY",
+    "hook": "I (insert dream result) in the past (insert time frame), here's proof.",
+    "urls": [
+      "https://www.instagram.com/p/DHtmwvQRSUX/"
+    ],
+    "placeholders": [
+      "(insert dream result)",
+      "(insert time frame)"
+    ]
+  },
+  {
+    "id": 977,
+    "category": "AUTHORITY",
+    "hook": "Here's how my student/client/customer went from (insert before result) to (insert after result) and (insert symptom due to result).",
+    "urls": [
+      "https://www.instagram.com/p/DGA-YAxJXIs/"
+    ],
+    "placeholders": [
+      "(insert before result)",
+      "(insert after result)",
+      "(insert symptom due to result)"
+    ]
+  },
+  {
+    "id": 978,
+    "category": "AUTHORITY",
+    "hook": "% of the time when I am in (insert situation) I get (insert result), and today I will be showing you my (insert noun) routine so I can help you achieve (insert dream result).",
+    "urls": [
+      "https://www.instagram.com/p/DGg0dN5vAX1/"
+    ],
+    "placeholders": [
+      "(insert situation)",
+      "(insert result)",
+      "(insert noun)",
+      "(insert dream result)"
+    ]
+  },
+  {
+    "id": 979,
+    "category": "AUTHORITY",
+    "hook": "I (insert verb) for (insert time frame) and I got a (insert dream result).",
+    "urls": [
+      "https://www.instagram.com/p/DFEFOlTRacT/"
+    ],
+    "placeholders": [
+      "(insert verb)",
+      "(insert time frame)",
+      "(insert dream result)"
+    ]
+  },
+  {
+    "id": 980,
+    "category": "AUTHORITY",
+    "hook": "This is how I got my (insert noun) from this to this completely natural.",
+    "urls": [
+      "https://www.instagram.com/p/DFJJImVx2VW/"
+    ],
+    "placeholders": [
+      "(insert noun)"
+    ]
+  },
+  {
+    "id": 981,
+    "category": "AUTHORITY",
+    "hook": "Nobody believes me if I say I went from this to this.",
+    "urls": [
+      "https://www.instagram.com/p/DIL_hAYIF-z/"
+    ],
+    "placeholders": []
+  },
+  {
+    "id": 982,
+    "category": "AUTHORITY",
+    "hook": "These are the products I use to keep (insert noun) (insert noun) and (insert adjective) as a (insert title).",
+    "urls": [
+      "https://www.instagram.com/p/DFZHR-Tvumy/"
+    ],
+    "placeholders": [
+      "(insert noun)",
+      "(insert adjective)",
+      "(insert title)"
+    ]
+  },
+  {
+    "id": 983,
+    "category": "AUTHORITY",
+    "hook": "Same recipe but different (insert noun). For this (insert noun) I used my # tips to make (insert dream result) at home and you can really tell it makes a big difference.",
+    "urls": [
+      "https://www.instagram.com/p/DHdWHu2sHJi/"
+    ],
+    "placeholders": [
+      "(insert noun)",
+      "(insert dream result)"
+    ]
+  },
+  {
+    "id": 984,
+    "category": "AUTHORITY",
+    "hook": "(insert noun) is my second (insert noun) and here are the # (insert noun) I did over, and over, and over again to improve my (insert noun).",
+    "urls": [
+      "https://www.instagram.com/p/DFSbi04zM8c/"
+    ],
+    "placeholders": [
+      "(insert noun)"
+    ]
+  },
+  {
+    "id": 985,
+    "category": "AUTHORITY",
+    "hook": "How I took this (insert title) from 0 to (insert #) of (insert noun) in 1 week.",
+    "urls": [
+      "https://www.instagram.com/p/DIMxxBuP23X/"
+    ],
+    "placeholders": [
+      "(insert title)",
+      "(insert #)",
+      "(insert noun)"
+    ]
+  },
+  {
+    "id": 986,
+    "category": "AUTHORITY",
+    "hook": "I am only (insert metric) but I have became one of the best (insert title) in the world.",
+    "urls": [
+      "https://www.instagram.com/reel/DGd3qJxS7el/?igsh=MXRuOHIydjVtOTUwZQ=="
+    ],
+    "placeholders": [
+      "(insert metric)",
+      "(insert title)"
+    ]
+  },
+  {
+    "id": 987,
+    "category": "DAY IN THE LIFE",
+    "hook": "We all have the same 24 hours in a day so here I am putting my 24 hours to work.",
+    "urls": [
+      "https://www.instagram.com/reel/DAq-UDcITU5/?igsh=cnNkdHV0Ym1zY3Ju"
+    ],
+    "placeholders": []
+  },
+  {
+    "id": 988,
+    "category": "DAY IN THE LIFE",
+    "hook": "Day 1 of starting over my whole entire life.",
+    "urls": [
+      "https://www.instagram.com/reel/DEc3jW6p1Ws/?igsh=M3draTd2OW11Ym80"
+    ],
+    "placeholders": []
+  },
+  {
+    "id": 989,
+    "category": "DAY IN THE LIFE",
+    "hook": "So okay being an (insert target audience), my days vary quite a lot from one another.",
+    "urls": [
+      "https://www.instagram.com/reel/DBiVM_Xxpwf/?igsh=MWc3ZTl1aGR1d250aQ%3D%3D"
+    ],
+    "placeholders": [
+      "(insert target audience)"
+    ]
+  },
+  {
+    "id": 990,
+    "category": "DAY IN THE LIFE",
+    "hook": "Day in the life of a (insert adjective) person.",
+    "urls": [
+      "https://www.instagram.com/reel/DEiIMQxx8q3/?igsh=MXJwMW05cW5qYTVsbA=="
+    ],
+    "placeholders": [
+      "(insert adjective)"
+    ]
+  },
+  {
+    "id": 991,
+    "category": "DAY IN THE LIFE",
+    "hook": "Welcome back to the day in the life of two (insert label) trying to build the next (insert business).",
+    "urls": [
+      "https://www.instagram.com/p/DEnSkHQJwIx/"
+    ],
+    "placeholders": [
+      "(insert label)",
+      "(insert business)"
+    ]
+  },
+  {
+    "id": 992,
+    "category": "DAY IN THE LIFE",
+    "hook": "(insert noun) day # (insert event about that day).",
+    "urls": [
+      "https://www.instagram.com/reel/DICaRJ6BF2C/?igsh=eTZxamxwMTlsbjdx"
+    ],
+    "placeholders": [
+      "(insert noun)",
+      "(insert event about that day)"
+    ]
+  },
+  {
+    "id": 993,
+    "category": "DAY IN THE LIFE",
+    "hook": "I am a # year old (insert title), and I am heading to (insert event/location).",
+    "urls": [
+      "https://www.instagram.com/p/DHmdSxESXUy/"
+    ],
+    "placeholders": [
+      "(insert title)",
+      "(insert event/location)"
+    ]
+  },
+  {
+    "id": 994,
+    "category": "DAY IN THE LIFE",
+    "hook": "This is a day in the life of a (insert title) (insert noun) edition.",
+    "urls": [
+      "https://www.instagram.com/p/DFn2OKuzc7i/"
+    ],
+    "placeholders": [
+      "(insert title)",
+      "(insert noun)"
+    ]
+  },
+  {
+    "id": 995,
+    "category": "DAY IN THE LIFE",
+    "hook": "Come to work with me as a (insert title).",
+    "urls": [
+      "https://www.instagram.com/p/DEtaTDvsV6J/"
+    ],
+    "placeholders": [
+      "(insert title)"
+    ]
+  },
+  {
+    "id": 996,
+    "category": "DAY IN THE LIFE",
+    "hook": "(insert school) day #, my last (insert noun).",
+    "urls": [
+      "https://www.instagram.com/p/DICaRJ6BF2C/"
+    ],
+    "placeholders": [
+      "(insert school)",
+      "(insert noun)"
+    ]
+  },
+  {
+    "id": 997,
+    "category": "DAY IN THE LIFE",
+    "hook": "Day # of turning from (insert before state) to (insert after state) and suddenly I don't want to be (insert after state) anymore.",
+    "urls": [
+      "https://www.instagram.com/p/DIfVFI6P_3Z/"
+    ],
+    "placeholders": [
+      "(insert before state)",
+      "(insert after state)"
+    ]
+  },
+  {
+    "id": 998,
+    "category": "DAY IN THE LIFE",
+    "hook": "Come with me to earn $ per day, with (insert avenue).",
+    "urls": [
+      "https://www.instagram.com/reel/DHXVJGsRKa1/?igsh=MXd2Y2MyN2cybW1pcg=="
+    ],
+    "placeholders": [
+      "(insert avenue)"
+    ]
+  },
+  {
+    "id": 999,
+    "category": "DAY IN THE LIFE",
+    "hook": "Day # trying to make (insert $) by the end of the year, by (insert method).",
+    "urls": [
+      "https://www.instagram.com/reel/DHSNzUypHDa/?igsh=MXZ6aTA1a283bHp0dw=="
+    ],
+    "placeholders": [
+      "(insert $)",
+      "(insert method)"
+    ]
+  },
+  {
+    "id": 1000,
+    "category": "DAY IN THE LIFE",
+    "hook": "Day in the life of a future millionaire.",
+    "urls": [
+      "https://www.instagram.com/reel/DF1Kq5CuULS/?igsh=YnBrcnpqbTVwcmsx"
+    ],
+    "placeholders": []
+  },
+  {
+    "id": 1001,
+    "category": "DAY IN THE LIFE",
+    "hook": "Day in the life as a (insert title) (insert noun) edition.",
+    "urls": [
+      "https://www.instagram.com/reel/DGV-cE4v6Jy/?igsh=YWU2Zjk3MXpweGkw"
+    ],
+    "placeholders": [
+      "(insert title)",
+      "(insert noun)"
+    ]
+  },
+  {
+    "id": 1002,
+    "category": "DAY IN THE LIFE",
+    "hook": "This is what an average day of a (insert title) looks like a week out from (insert event).",
+    "urls": [
+      "https://www.instagram.com/reel/DFdienFJMGK/?igsh=amZrMWdiZGxhd2g0"
+    ],
+    "placeholders": [
+      "(insert title)",
+      "(insert event)"
+    ]
+  }
+];

@@ -1,0 +1,683 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Viral Copywriter Intelligence System</title>
+  <link rel="stylesheet" href="styles.css">
+  <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>⚡</text></svg>">
+</head>
+<body>
+
+  <!-- ========================================= -->
+  <!-- LEFT SIDEBAR NAVIGATION                   -->
+  <!-- ========================================= -->
+  <aside class="sidebar">
+    <div class="sidebar-logo">
+      <div class="logo-badge">⚡</div>
+      <div>
+        <div class="logo-text-title">VIRAL COPYWRITER</div>
+        <div class="logo-text-sub">INTELLIGENCE SYSTEM</div>
+      </div>
+    </div>
+
+    <nav class="sidebar-nav">
+      <div class="nav-item active" data-view="dashboard">
+        <div class="nav-item-content">
+          <svg class="nav-icon" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><rect x="3" y="3" width="7" height="7"></rect><rect x="14" y="3" width="7" height="7"></rect><rect x="14" y="14" width="7" height="7"></rect><rect x="3" y="14" width="7" height="7"></rect></svg>
+          <span>Dashboard</span>
+        </div>
+        <span style="font-size: 0.9rem; opacity: 0.5;">&rsaquo;</span>
+      </div>
+
+      <div class="nav-item" data-view="viral-studio">
+        <div class="nav-item-content">
+          <svg class="nav-icon" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M12 2l3.09 6.26L22 9.27l-5 4.87 1.18 6.88L12 17.77l-6.18 3.25L7 14.14 2 9.27l6.91-1.01L12 2z"></path></svg>
+          <span>Viral Studio</span>
+        </div>
+        <span class="nav-badge badge-core">CORE</span>
+      </div>
+
+      <div class="nav-item" data-view="hook-engine">
+        <div class="nav-item-content">
+          <svg class="nav-icon" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="12" cy="5" r="3"></circle><line x1="12" y1="22" x2="12" y2="8"></line><path d="M5 12H2a10 10 0 0 0 20 0h-3"></path></svg>
+          <span>Hook Engine</span>
+        </div>
+        <span class="nav-badge">1002</span>
+      </div>
+
+      <div class="nav-item" data-view="idea-matrix">
+        <div class="nav-item-content">
+          <svg class="nav-icon" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M9 18h6"></path><path d="M10 22h4"></path><path d="M15.09 14c.18-.98.65-1.74 1.41-2.5A4.65 4.65 0 0 0 18 8 6 6 0 0 0 6 8c0 1 .23 2.23 1.5 3.5A4.61 4.61 0 0 1 8.91 14"></path></svg>
+          <span>Idea Matrix</span>
+        </div>
+      </div>
+
+      <div class="nav-item" data-view="rewrite-studio">
+        <div class="nav-item-content">
+          <svg class="nav-icon" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><polyline points="23 4 23 10 17 10"></polyline><polyline points="1 20 1 14 7 14"></polyline><path d="M3.51 9a9 9 0 0 1 14.85-3.36L23 10M1 14l4.64 4.36A9 9 0 0 0 20.49 15"></path></svg>
+          <span>Rewrite Studio</span>
+        </div>
+      </div>
+
+      <div class="nav-item" data-view="repurposing-hub">
+        <div class="nav-item-content">
+          <svg class="nav-icon" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><polygon points="12 2 2 7 12 12 22 7 12 2"></polygon><polyline points="2 17 12 22 22 17"></polyline><polyline points="2 12 12 17 22 12"></polyline></svg>
+          <span>Repurposing Hub</span>
+        </div>
+      </div>
+
+      <div class="nav-item" data-view="knowledge-base">
+        <div class="nav-item-content">
+          <svg class="nav-icon" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M4 19.5A2.5 2.5 0 0 1 6.5 17H20"></path><path d="M6.5 2H20v20H6.5A2.5 2.5 0 0 1 4 19.5v-15A2.5 2.5 0 0 1 6.5 2z"></path></svg>
+          <span>Knowledge Base</span>
+        </div>
+        <span class="nav-badge">7</span>
+      </div>
+
+      <div class="nav-item" data-view="voice-lab">
+        <div class="nav-item-content">
+          <svg class="nav-icon" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M12 1a3 3 0 0 0-3 3v8a3 3 0 0 0 6 0V4a3 3 0 0 0-3-3z"></path><path d="M19 10v2a7 7 0 0 1-14 0v-2"></path><line x1="12" y1="19" x2="12" y2="23"></line><line x1="8" y1="23" x2="16" y2="23"></line></svg>
+          <span>Voice Lab</span>
+        </div>
+        <span class="nav-badge">3</span>
+      </div>
+
+      <div class="nav-item" data-view="history-saved">
+        <div class="nav-item-content">
+          <svg class="nav-icon" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="12" cy="12" r="10"></circle><polyline points="12 6 12 12 16 14"></polyline></svg>
+          <span>History & Saved</span>
+        </div>
+        <span class="nav-badge" id="sidebar-saved-count">0</span>
+      </div>
+
+      <div class="nav-item" data-view="test-suite">
+        <div class="nav-item-content">
+          <svg class="nav-icon" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M10 2v7.31L4 19h16l-6-9.69V2h-4z"></path><line x1="8" y1="2" x2="16" y2="2"></line></svg>
+          <span>Quality Test Suite</span>
+        </div>
+        <span class="nav-badge">20</span>
+      </div>
+    </nav>
+
+    <div class="sidebar-footer">
+      <div class="status-dot"></div>
+      <span>System Engine Active</span>
+    </div>
+  </aside>
+
+  <!-- ========================================= -->
+  <!-- MAIN APP CONTAINER                        -->
+  <!-- ========================================= -->
+  <div class="app-container">
+    
+    <!-- TOP HEADER -->
+    <header class="top-header">
+      <div class="header-title-box">
+        <h2 id="top-title">Executive Intelligence Dashboard</h2>
+        <p id="top-sub">Real-time overview of knowledge base, copywriting runs, and benchmarks</p>
+      </div>
+
+      <div class="header-right">
+        <div class="chip-status">
+          <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><rect x="4" y="4" width="16" height="16" rx="2" ry="2"></rect><rect x="9" y="9" width="6" height="6"></rect><line x1="9" y1="1" x2="9" y2="4"></line><line x1="15" y1="1" x2="15" y2="4"></line><line x1="9" y1="20" x2="9" y2="23"></line><line x1="15" y1="20" x2="15" y2="23"></line></svg>
+          <span>Model: <strong>Gemini 3.8 Flash</strong></span>
+        </div>
+        <div class="chip-status">
+          <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="#22c55e" stroke-width="2"><path d="M12 22s8-4 8-10V5l-8-3-8 3v7c0 6 8 10 8 10z"></path></svg>
+          <span>API: <strong style="color: #22c55e;">Server-Side Ready</strong></span>
+        </div>
+        <button class="btn-open-studio" id="btn-top-open-studio">
+          ✨ Open Studio
+        </button>
+      </div>
+    </header>
+
+    <!-- VIEWS CONTAINER -->
+    <main class="view-container">
+
+      <!-- ========================================= -->
+      <!-- VIEW 1: DASHBOARD (EXACT FACULTY SCREEN)  -->
+      <!-- ========================================= -->
+      <section id="view-dashboard" class="view-section active">
+        <!-- Hero Card -->
+        <div class="hero-card">
+          <div class="hero-pill-row">
+            <span class="pill-green">PRODUCTION AI ARCHITECTURE</span>
+            <span class="pill-cyan">GEMINI 3.8 ACTIVE</span>
+          </div>
+          <h1 class="hero-title">Viral Copywriter AI Command Center</h1>
+          <p class="hero-subtitle">
+            A structured cognitive copywriting system. Powered by your proprietary knowledge library, multi-stage reasoning stages, and anti-cliché human writing principles.
+          </p>
+          <div class="hero-buttons">
+            <button class="btn-green-main" id="btn-hero-launch-studio">
+              ✨ Launch Studio
+            </button>
+            <button class="btn-dark-main" id="btn-hero-test-suite">
+              🧪 Test Suite
+            </button>
+          </div>
+        </div>
+
+        <!-- 3 Metric Cards Grid -->
+        <div class="stats-grid">
+          <!-- Card 1 -->
+          <div class="metric-card">
+            <div class="metric-top">
+              <span class="metric-label">KNOWLEDGE BASE</span>
+              <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="#22c55e" stroke-width="2"><path d="M4 19.5A2.5 2.5 0 0 1 6.5 17H20"></path><path d="M6.5 2H20v20H6.5A2.5 2.5 0 0 1 4 19.5v-15A2.5 2.5 0 0 1 6.5 2z"></path></svg>
+            </div>
+            <div>
+              <div class="metric-main">
+                <span class="metric-value">7</span>
+              </div>
+              <span class="metric-sub">Frameworks & Principles</span>
+            </div>
+          </div>
+
+          <!-- Card 2 -->
+          <div class="metric-card">
+            <div class="metric-top">
+              <span class="metric-label">AVERAGE QUALITY SCORE</span>
+              <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="#06b6d4" stroke-width="2"><polyline points="23 6 13.5 15.5 8.5 10.5 1 18"></polyline><polyline points="17 6 23 6 23 12"></polyline></svg>
+            </div>
+            <div>
+              <div class="metric-main">
+                <span class="metric-value">94.2</span>
+                <span class="metric-target-badge">94 TARGET &ge; 90</span>
+              </div>
+              <span class="metric-sub">11-Dimension Diagnostic</span>
+            </div>
+          </div>
+
+          <!-- Card 3 -->
+          <div class="metric-card">
+            <div class="metric-top">
+              <span class="metric-label">VOICE PROFILES</span>
+              <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="#a855f7" stroke-width="2"><path d="M12 1a3 3 0 0 0-3 3v8a3 3 0 0 0 6 0V4a3 3 0 0 0-3-3z"></path><path d="M19 10v2a7 7 0 0 1-14 0v-2"></path><line x1="12" y1="19" x2="12" y2="23"></line><line x1="8" y1="23" x2="16" y2="23"></line></svg>
+            </div>
+            <div>
+              <div class="metric-main">
+                <span class="metric-value">3</span>
+              </div>
+              <span class="metric-sub">Active Style Personas</span>
+            </div>
+          </div>
+        </div>
+
+        <!-- Bottom Predefined Benchmarks Card -->
+        <div class="benchmarks-card">
+          <div class="metric-top" style="margin-bottom: 0.5rem;">
+            <span class="metric-label">PREDEFINED BENCHMARKS</span>
+            <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#ef4444" stroke-width="2"><path d="M10 2v7.31L4 19h16l-6-9.69V2h-4z"></path></svg>
+          </div>
+
+          <div class="benchmark-row">
+            <div class="benchmark-info">Hook Velocity (0-2s)</div>
+            <div class="progress-bar-bg"><div class="progress-bar-fill" style="width: 96%;"></div></div>
+            <div class="benchmark-pct">96%</div>
+          </div>
+
+          <div class="benchmark-row">
+            <div class="benchmark-info">Retention Gravity Spine</div>
+            <div class="progress-bar-bg"><div class="progress-bar-fill" style="width: 93%;"></div></div>
+            <div class="benchmark-pct">93%</div>
+          </div>
+
+          <div class="benchmark-row">
+            <div class="benchmark-info">Anti-Cliché Purity Index</div>
+            <div class="progress-bar-bg"><div class="progress-bar-fill" style="width: 98%;"></div></div>
+            <div class="benchmark-pct">98%</div>
+          </div>
+
+          <div class="benchmark-row">
+            <div class="benchmark-info">Human Voice Cadence</div>
+            <div class="progress-bar-bg"><div class="progress-bar-fill" style="width: 95%;"></div></div>
+            <div class="benchmark-pct">95%</div>
+          </div>
+        </div>
+      </section>
+
+      <!-- ========================================= -->
+      <!-- VIEW 2: VIRAL STUDIO (MULTI-PLATFORM)     -->
+      <!-- ========================================= -->
+      <section id="view-viral-studio" class="view-section">
+        <div class="studio-layout">
+          <!-- Left Configuration Panel -->
+          <div class="studio-panel">
+            <h3 style="font-size: 1.05rem; font-weight: 700; margin-bottom: 1rem; color: #fff;">
+              Target Platform
+            </h3>
+
+            <!-- Social Media Selector -->
+            <div class="platform-selector">
+              <div class="platform-tab active" data-platform="reels">
+                <span style="font-size: 1.25rem;">📸</span>
+                <span>IG Reels</span>
+              </div>
+              <div class="platform-tab" data-platform="tiktok">
+                <span style="font-size: 1.25rem;">🎵</span>
+                <span>TikTok</span>
+              </div>
+              <div class="platform-tab" data-platform="shorts">
+                <span style="font-size: 1.25rem;">▶️</span>
+                <span>YT Shorts</span>
+              </div>
+              <div class="platform-tab" data-platform="linkedin">
+                <span style="font-size: 1.25rem;">💼</span>
+                <span>LinkedIn</span>
+              </div>
+              <div class="platform-tab" data-platform="twitter">
+                <span style="font-size: 1.25rem;">𝕏</span>
+                <span>X / Twitter</span>
+              </div>
+              <div class="platform-tab" data-platform="carousel">
+                <span style="font-size: 1.25rem;">📱</span>
+                <span>Carousel</span>
+              </div>
+            </div>
+
+            <!-- Parameters -->
+            <div class="form-group">
+              <label class="form-label">Target Audience / ICP</label>
+              <input type="text" id="studio-audience" class="form-input" placeholder="e.g. B2B SaaS Founders, Busy Creatives" value="B2B Founders & Agency Owners">
+            </div>
+
+            <div class="form-group">
+              <label class="form-label">Core Topic / Angle</label>
+              <input type="text" id="studio-topic" class="form-input" placeholder="e.g. Quitting 9-5, Client retention" value="Closing high-ticket clients without cold outreach">
+            </div>
+
+            <div class="form-group">
+              <label class="form-label">Dream Transformation</label>
+              <input type="text" id="studio-result" class="form-input" placeholder="e.g. Add $20k MRR in 60 days" value="Add $20,000/mo in inbound revenue">
+            </div>
+
+            <div class="form-group">
+              <label class="form-label">Pain Point / Cliché to Avoid</label>
+              <input type="text" id="studio-pain" class="form-input" placeholder="e.g. Sending 500 spam DMs" value="Spending 4 hours daily spamming LinkedIn DMs">
+            </div>
+
+            <div class="form-group">
+              <label class="form-label">Knowledge Base Framework</label>
+              <select id="studio-framework" class="form-select">
+                <option value="The 2-Second Hook Architecture">The 2-Second Hook Architecture</option>
+                <option value="PAS (Problem - Agitate - Solution)">PAS (Problem - Agitate - Solution)</option>
+                <option value="The Anti-Cliché Diagnostic">The Anti-Cliché Diagnostic</option>
+                <option value="The Open-Loop Curiosity Framework">The Open-Loop Curiosity Framework</option>
+                <option value="High-Status Authority Framing">High-Status Authority Framing</option>
+                <option value="The 3-Beat Retention Spine">The 3-Beat Retention Spine</option>
+                <option value="The Irresistible Micro-CTA">The Irresistible Micro-CTA</option>
+              </select>
+            </div>
+
+            <div class="form-group">
+              <label class="form-label">Voice Lab Persona</label>
+              <select id="studio-voice" class="form-select">
+                <option value="The Tactical Expert">The Tactical Expert (Direct, surgical, high status)</option>
+                <option value="The Provocative Contrarian">The Provocative Contrarian (Bold, counter-intuitive)</option>
+                <option value="The Relatable Storyteller">The Relatable Storyteller (Conversational, authentic)</option>
+              </select>
+            </div>
+
+            <button class="btn-generate-ai" id="btn-studio-generate">
+              ✨ Run Cognitive Copywriter
+            </button>
+          </div>
+
+          <!-- Right Output Display Panel -->
+          <div class="studio-panel" style="display: flex; flex-direction: column;">
+            <div class="output-header">
+              <div>
+                <span style="font-size: 0.72rem; color: var(--text-dim); text-transform: uppercase; font-weight: 800;">Output Format</span>
+                <h3 id="output-platform-title" style="color: #fff; font-size: 1.15rem; font-weight: 800;">Instagram Reel Script</h3>
+              </div>
+              <div style="display: flex; align-items: center; gap: 0.75rem;">
+                <span class="score-badge" id="output-score-badge">SCORE: 96.4/100</span>
+                <button class="btn-dark-main" id="btn-copy-output" style="padding: 0.35rem 0.75rem; font-size: 0.78rem;">Copy</button>
+                <button class="btn-dark-main" id="btn-save-output" style="padding: 0.35rem 0.75rem; font-size: 0.78rem;">Save</button>
+              </div>
+            </div>
+
+            <div class="output-body" id="studio-output-content">
+<div class="script-box">
+  <div class="script-box-label">[0:00 - 0:03] THE PATTERN INTERRUPT HOOK</div>
+  <p><strong>Visual Cue:</strong> Close-up staring into camera, hands holding a spreadsheet, suddenly closing laptop screen.</p>
+  <p><strong>Text on Screen:</strong> "Stop sending 50 cold DMs every morning..."</p>
+  <p><strong>Spoken Voiceover:</strong> "If you're still relying on 50 cold DMs a day to get agency clients, stop. You're working like it's 2019, and your prospects are treating you like spam."</p>
+</div>
+
+<div class="script-box">
+  <div class="script-box-label">[0:03 - 0:12] AGITATE & PSYCHOLOGICAL TENSION</div>
+  <p><strong>Spoken Voiceover:</strong> "High-ticket clients don't buy from strangers begging in their inbox. They buy from the authority who diagnosed their exact leak before they even hopped on a call."</p>
+</div>
+
+<div class="script-box">
+  <div class="script-box-label">[0:12 - 0:38] THE 3-BEAT RETENTION SPINE</div>
+  <p><strong>Beat 1 (Diagnosis):</strong> "Instead of pitching your services, build a 90-second teardown video showing ONE high-friction point on their checkout flow."</p>
+  <p><strong>Beat 2 (Proof):</strong> "Send it with zero pitch. Just: 'Noticed this bug on mobile—fixed it on my end so you don't lose sales.'"</p>
+  <p><strong>Beat 3 (The Flip):</strong> "8 out of 10 founders will reply asking what else is broken. Now they're chasing you, not the other way around."</p>
+</div>
+
+<div class="script-box">
+  <div class="script-box-label">[0:38 - 0:45] IRRESISTIBLE MICRO-CTA</div>
+  <p><strong>Spoken Voiceover:</strong> "Comment 'TEARDOWN' below and I'll send you the exact 90-second script template I used to book 14 calls last week."</p>
+</div>
+            </div>
+          </div>
+        </div>
+      </section>
+
+      <!-- ========================================= -->
+      <!-- VIEW 3: HOOK ENGINE (1,002 VIRAL HOOKS)   -->
+      <!-- ========================================= -->
+      <section id="view-hook-engine" class="view-section">
+        <div class="hook-engine-toolbar">
+          <div class="hook-search-bar">
+            <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="11" cy="11" r="8"></circle><line x1="21" y1="21" x2="16.65" y2="16.65"></line></svg>
+            <input type="text" id="engine-search-input" placeholder="Search 1,002 viral hooks by formula, keyword, or topic (e.g. 'cheat code', 'Harvard', 'age', 'money')...">
+            <span style="font-size: 0.8rem; color: var(--text-dim); white-space: nowrap;" id="engine-count-badge">1,002 hooks</span>
+          </div>
+
+          <div class="cat-chips-row" id="engine-cat-row">
+            <div class="cat-chip active" data-cat="ALL">All (1,002)</div>
+            <div class="cat-chip" data-cat="EDUCATIONAL">Educational (472)</div>
+            <div class="cat-chip" data-cat="STORYTELLING">Storytelling (368)</div>
+            <div class="cat-chip" data-cat="MYTH BUSTING">Myth Busting (57)</div>
+            <div class="cat-chip" data-cat="AUTHORITY">Authority (47)</div>
+            <div class="cat-chip" data-cat="COMPARISON">Comparison (31)</div>
+            <div class="cat-chip" data-cat="DAY IN THE LIFE">Day In The Life (16)</div>
+            <div class="cat-chip" data-cat="RANDOM">Random (11)</div>
+          </div>
+        </div>
+
+        <div class="hooks-cards-container" id="engine-cards-grid">
+          <!-- Dynamically populated from hooks_data.js -->
+        </div>
+
+        <div style="display: flex; justify-content: center; gap: 0.5rem; margin-top: 2rem;" id="engine-pagination">
+          <!-- Pagination -->
+        </div>
+      </section>
+
+      <!-- ========================================= -->
+      <!-- VIEW 4: IDEA MATRIX                       -->
+      <!-- ========================================= -->
+      <section id="view-idea-matrix" class="view-section">
+        <div class="studio-panel" style="margin-bottom: 1.5rem;">
+          <h2 style="color: #fff; font-size: 1.4rem; font-weight: 800; margin-bottom: 0.5rem;">Content Idea Matrix</h2>
+          <p style="color: var(--text-muted); font-size: 0.9rem; margin-bottom: 1.25rem;">
+            Generate high-velocity content angles mapped across 5 psychological cognitive triggers.
+          </p>
+          <div style="display: flex; gap: 1rem;">
+            <input type="text" id="matrix-input-niche" class="form-input" style="flex: 1;" placeholder="Enter your niche (e.g. AI automation, personal finance, fitness coaching)" value="AI Automation & Agency Growth">
+            <button class="btn-green-main" id="btn-run-matrix" style="white-space: nowrap;">⚡ Generate Matrix</button>
+          </div>
+        </div>
+
+        <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(340px, 1fr)); gap: 1rem;" id="matrix-results-grid">
+          <div class="metric-card">
+            <span class="pill-green" style="width: fit-content; margin-bottom: 0.6rem;">CONTRARIAN TRUTH</span>
+            <h4 style="color: #fff; font-size: 1rem; margin-bottom: 0.4rem;">"Why AI won't replace agencies—it will make solo founders 10x richer"</h4>
+            <p style="color: var(--text-dim); font-size: 0.82rem;">Debunks the fear-mongering narrative and positions high-leverage workflows.</p>
+          </div>
+          <div class="metric-card">
+            <span class="pill-cyan" style="width: fit-content; margin-bottom: 0.6rem;">WAKE-UP CALL</span>
+            <h4 style="color: #fff; font-size: 1rem; margin-bottom: 0.4rem;">"I spent $12,000 on custom code before realizing this $20 no-code tool did it better"</h4>
+            <p style="color: var(--text-dim); font-size: 0.82rem;">High vulnerability, financial loss regret hook that hooks ambitious builders.</p>
+          </div>
+          <div class="metric-card">
+            <span class="pill-green" style="width: fit-content; margin-bottom: 0.6rem;">THE CHEAT CODE</span>
+            <h4 style="color: #fff; font-size: 1rem; margin-bottom: 0.4rem;">"3 Claude & Gemini automation workflows that replaced 1 full-time hire"</h4>
+            <p style="color: var(--text-dim); font-size: 0.82rem;">Direct tactical utility with immediate ROI payoff for business owners.</p>
+          </div>
+        </div>
+      </section>
+
+      <!-- ========================================= -->
+      <!-- VIEW 5: REWRITE STUDIO                    -->
+      <!-- ========================================= -->
+      <section id="view-rewrite-studio" class="view-section">
+        <div class="studio-layout">
+          <div class="studio-panel">
+            <h3 style="color: #fff; font-size: 1.1rem; font-weight: 700; margin-bottom: 0.5rem;">Anti-Cliché Rewrite Engine</h3>
+            <p style="color: var(--text-muted); font-size: 0.82rem; margin-bottom: 1rem;">
+              Paste any generic or robotic draft. Gemini removes buzzwords (<em>delve, elevate, game-changer</em>) and restores conversational human cadence.
+            </p>
+            <textarea id="rewrite-input" class="form-textarea" style="height: 220px; width: 100%;" placeholder="Paste your rough copy or hook draft here...">In today's fast-paced digital world, it is crucial to leverage cutting-edge marketing strategies to elevate your brand presence and delve into customer retention.</textarea>
+            <button class="btn-green-main" id="btn-run-rewrite" style="width: 100%; justify-content: center; margin-top: 1rem;">
+              ⚡ Strip Clichés & Rewrite
+            </button>
+          </div>
+
+          <div class="studio-panel">
+            <div class="output-header">
+              <h3 style="color: #fff; font-size: 1.05rem; font-weight: 700;">Human Voice Optimized</h3>
+              <button class="btn-dark-main" id="btn-copy-rewrite" style="padding: 0.35rem 0.75rem; font-size: 0.78rem;">Copy</button>
+            </div>
+            <div class="output-body" id="rewrite-output">
+<strong>Transformed Copy:</strong>
+
+"Most founders burn $5k a month chasing 'brand awareness' because some marketing guru on LinkedIn told them to.
+
+Here’s the unfiltered truth:
+Nobody cares about your brand. They care about their own problems.
+
+If your content isn't solving a painful, specific bottleneck in the first 3 seconds, they're scrolling past you. Here is the 2-step diagnostic we use instead..."
+            </div>
+          </div>
+        </div>
+      </section>
+
+      <!-- ========================================= -->
+      <!-- VIEW 6: REPURPOSING HUB                   -->
+      <!-- ========================================= -->
+      <section id="view-repurposing-hub" class="view-section">
+        <div class="studio-panel" style="margin-bottom: 1.5rem;">
+          <h2 style="color: #fff; font-size: 1.4rem; font-weight: 800; margin-bottom: 0.5rem;">Repurposing Hub</h2>
+          <p style="color: var(--text-muted); font-size: 0.9rem; margin-bottom: 1rem;">
+            Turn 1 core idea into 4 synchronized social media assets across Reels, LinkedIn, Twitter/X, and Carousel.
+          </p>
+          <div style="display: flex; gap: 1rem;">
+            <input type="text" id="repurpose-input-core" class="form-input" style="flex: 1;" placeholder="Enter your core winning idea or winning hook..." value="The real reason 90% of solo founders stay stuck under $10k/month">
+            <button class="btn-green-main" id="btn-run-repurpose">⚡ Repurpose Everywhere</button>
+          </div>
+        </div>
+
+        <div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 1.25rem;" id="repurpose-cards-grid">
+          <div class="metric-card">
+            <span class="pill-green" style="width: fit-content; margin-bottom: 0.5rem;">📸 REEL / TIKTOK</span>
+            <div style="font-size: 0.88rem; color: #fff; line-height: 1.6;">
+              "Stop obsessing over cold outreach if your offer isn't converting warm leads. Here's why 90% of solo founders never cross $10k..."
+            </div>
+          </div>
+          <div class="metric-card">
+            <span class="pill-cyan" style="width: fit-content; margin-bottom: 0.5rem;">💼 LINKEDIN POST</span>
+            <div style="font-size: 0.88rem; color: #fff; line-height: 1.6;">
+              "Most founders don't have a lead problem.<br>They have an offer clarity problem.<br><br>Here is the 1 adjustment that shifted our pipeline from $4k to $24k/mo:"
+            </div>
+          </div>
+          <div class="metric-card">
+            <span class="pill-green" style="width: fit-content; margin-bottom: 0.5rem;">𝕏 TWITTER THREAD</span>
+            <div style="font-size: 0.88rem; color: #fff; line-height: 1.6;">
+              "It took me 3 years to understand why hard work doesn't equal high MRR.<br><br>A 5-tweet breakdown on the 3 invisible traps keeping solo founders under $10k/mo 🧵👇"
+            </div>
+          </div>
+          <div class="metric-card">
+            <span class="pill-cyan" style="width: fit-content; margin-bottom: 0.5rem;">📱 CAROUSEL OUTLINE</span>
+            <div style="font-size: 0.88rem; color: #fff; line-height: 1.6;">
+              Slide 1: Why Solo Founders Get Trapped at $10k<br>
+              Slide 2: Mistake #1 (Trading hours for dollars)<br>
+              Slide 3: Mistake #2 (Zero recurring leverage)<br>
+              Slide 4: The 3-Step Fix
+            </div>
+          </div>
+        </div>
+      </section>
+
+      <!-- ========================================= -->
+      <!-- VIEW 7: KNOWLEDGE BASE (7 FRAMEWORKS)     -->
+      <!-- ========================================= -->
+      <section id="view-knowledge-base" class="view-section">
+        <div style="margin-bottom: 1.5rem;">
+          <h2 style="color: #fff; font-size: 1.4rem; font-weight: 800; margin-bottom: 0.4rem;">Proprietary Knowledge Base (7 Frameworks)</h2>
+          <p style="color: var(--text-muted); font-size: 0.9rem;">
+            The core cognitive architectures powering the viral copywriter intelligence engine.
+          </p>
+        </div>
+
+        <div class="framework-card">
+          <h3><span>⚡</span> 1. The 2-Second Hook Architecture</h3>
+          <p>The visual, auditory, and cognitive alignment required to stop the thumb on short-form feeds within 1.8 to 2.2 seconds.</p>
+          <div class="formula-box">[Visual Pattern Interrupt] + [Auditory Counter-Statement] + [Text on Screen Curiosity Gap]</div>
+        </div>
+
+        <div class="framework-card">
+          <h3><span>⚡</span> 2. PAS (Problem - Agitate - Solution)</h3>
+          <p>The classic tension-and-relief narrative spine refined for fast-paced modern algorithmic feeds.</p>
+          <div class="formula-box">[Unspoken Struggle] -> [Cost of Inaction / Future Pain] -> [Frictionless Tactical Fix]</div>
+        </div>
+
+        <div class="framework-card">
+          <h3><span>⚡</span> 3. The Anti-Cliché Human Diagnostic</h3>
+          <p>Eliminates artificial corporate fluff and replaces generic statements with raw, visceral, highly specific proof points.</p>
+          <div class="formula-box">Replace "Increase efficiency" with "Cut 3 hours from your Sunday evening"</div>
+        </div>
+
+        <div class="framework-card">
+          <h3><span>⚡</span> 4. The Open-Loop Curiosity Framework</h3>
+          <p>Plants an unresolved cognitive puzzle in the viewer's subconscious that forces completion until the final reveal.</p>
+          <div class="formula-box">[Unexpected Outcome] + [Hidden Mechanism] + [Delay Reward until Step 3]</div>
+        </div>
+
+        <div class="framework-card">
+          <h3><span>⚡</span> 5. High-Status Authority Framing</h3>
+          <p>Establishes immediate non-needy credibility by diagnosing errors rather than begging for attention.</p>
+          <div class="formula-box">[Peer Diagnosis] + [Uncompromising Standard] + [Calm Delivery]</div>
+        </div>
+
+        <div class="framework-card">
+          <h3><span>⚡</span> 6. The 3-Beat Retention Spine</h3>
+          <p>Prevents mid-video dropoff by delivering continuous micro-payoffs every 7 to 10 seconds.</p>
+          <div class="formula-box">Beat 1 (The Context) -> Beat 2 (The Twist / Nuance) -> Beat 3 (The Actionable Rule)</div>
+        </div>
+
+        <div class="framework-card">
+          <h3><span>⚡</span> 7. The Irresistible Micro-CTA</h3>
+          <p>Minimizes psychological friction by asking for a simple 1-word keyword comment that triggers automated DM delivery.</p>
+          <div class="formula-box">"Comment [KEYWORD] and I'll send you the exact [ASSET] for free."</div>
+        </div>
+      </section>
+
+      <!-- ========================================= -->
+      <!-- VIEW 8: VOICE LAB (3 STYLE PERSONAS)      -->
+      <!-- ========================================= -->
+      <section id="view-voice-lab" class="view-section">
+        <div style="margin-bottom: 1.5rem;">
+          <h2 style="color: #fff; font-size: 1.4rem; font-weight: 800; margin-bottom: 0.4rem;">Voice Lab (3 Active Style Personas)</h2>
+          <p style="color: var(--text-muted); font-size: 0.9rem;">
+            Cognitive voice profiles that calibrate pacing, sentence length, and vocabulary.
+          </p>
+        </div>
+
+        <div style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 1.25rem;">
+          <div class="metric-card">
+            <span class="pill-green" style="width: fit-content; margin-bottom: 0.5rem;">ACTIVE PROFILE</span>
+            <h3 style="color: #fff; font-size: 1.15rem; margin-bottom: 0.5rem;">The Tactical Expert</h3>
+            <p style="color: var(--text-muted); font-size: 0.85rem; line-height: 1.6; margin-bottom: 1rem;">
+              Direct, data-driven, non-needy, and surgically precise. Uses numbers, metrics, and tight sentences.
+            </p>
+            <div style="font-size: 0.78rem; color: var(--text-dim);">Pacing: Rapid | Sentiment: Confident</div>
+          </div>
+
+          <div class="metric-card">
+            <span class="pill-cyan" style="width: fit-content; margin-bottom: 0.5rem;">ACTIVE PROFILE</span>
+            <h3 style="color: #fff; font-size: 1.15rem; margin-bottom: 0.5rem;">The Provocative Contrarian</h3>
+            <p style="color: var(--text-muted); font-size: 0.85rem; line-height: 1.6; margin-bottom: 1rem;">
+              Challenges conventional industry dogmas. Calls out sacred cows and highlights counter-intuitive realities.
+            </p>
+            <div style="font-size: 0.78rem; color: var(--text-dim);">Pacing: Punchy | Sentiment: Disruptive</div>
+          </div>
+
+          <div class="metric-card">
+            <span class="pill-green" style="width: fit-content; margin-bottom: 0.5rem;">ACTIVE PROFILE</span>
+            <h3 style="color: #fff; font-size: 1.15rem; margin-bottom: 0.5rem;">The Relatable Storyteller</h3>
+            <p style="color: var(--text-muted); font-size: 0.85rem; line-height: 1.6; margin-bottom: 1rem;">
+              Vulnerable, authentic, conversational. Takes the audience along on a personal transformation journey.
+            </p>
+            <div style="font-size: 0.78rem; color: var(--text-dim);">Pacing: Narrative | Sentiment: Empathetic</div>
+          </div>
+        </div>
+      </section>
+
+      <!-- ========================================= -->
+      <!-- VIEW 9: HISTORY & SAVED                   -->
+      <!-- ========================================= -->
+      <section id="view-history-saved" class="view-section">
+        <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 1.5rem;">
+          <div>
+            <h2 style="color: #fff; font-size: 1.4rem; font-weight: 800; margin-bottom: 0.4rem;">History & Saved Vault</h2>
+            <p style="color: var(--text-muted); font-size: 0.9rem;">Review and export your bookmarked hooks and generated copywriting runs.</p>
+          </div>
+          <button class="btn-dark-main" id="btn-export-history-csv">Export Saved (CSV)</button>
+        </div>
+
+        <div id="history-items-container" style="display: flex; flex-direction: column; gap: 1rem;">
+          <p style="color: var(--text-dim); text-align: center; padding: 3rem;">No saved copywriting runs yet. Generate or bookmark hooks to see them here.</p>
+        </div>
+      </section>
+
+      <!-- ========================================= -->
+      <!-- VIEW 10: QUALITY TEST SUITE (BENCHMARKS)  -->
+      <!-- ========================================= -->
+      <section id="view-test-suite" class="view-section">
+        <div style="margin-bottom: 1.5rem;">
+          <h2 style="color: #fff; font-size: 1.4rem; font-weight: 800; margin-bottom: 0.4rem;">Quality Test Suite (20 Predefined Benchmarks)</h2>
+          <p style="color: var(--text-muted); font-size: 0.9rem;">
+            11-dimension cognitive evaluation engine measuring retention, emotional friction, and viral coefficient.
+          </p>
+        </div>
+
+        <div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 1rem;">
+          <div class="metric-card">
+            <span class="metric-label">DIMENSION 01</span>
+            <div style="font-size: 1.1rem; font-weight: 700; color: #fff; margin: 0.4rem 0;">Hook Velocity (0-2s)</div>
+            <div class="progress-bar-bg" style="margin-bottom: 0.4rem;"><div class="progress-bar-fill" style="width: 96%;"></div></div>
+            <span style="font-size: 0.8rem; color: var(--text-dim);">Measures psychological stoppage power and curiosity trigger.</span>
+          </div>
+
+          <div class="metric-card">
+            <span class="metric-label">DIMENSION 02</span>
+            <div style="font-size: 1.1rem; font-weight: 700; color: #fff; margin: 0.4rem 0;">Retention Gravity Index</div>
+            <div class="progress-bar-bg" style="margin-bottom: 0.4rem;"><div class="progress-bar-fill" style="width: 93%;"></div></div>
+            <span style="font-size: 0.8rem; color: var(--text-dim);">Evaluates micro-payoffs every 8 seconds to prevent bounce rate.</span>
+          </div>
+
+          <div class="metric-card">
+            <span class="metric-label">DIMENSION 03</span>
+            <div style="font-size: 1.1rem; font-weight: 700; color: #fff; margin: 0.4rem 0;">Anti-Cliché Purity</div>
+            <div class="progress-bar-bg" style="margin-bottom: 0.4rem;"><div class="progress-bar-fill" style="width: 98%;"></div></div>
+            <span style="font-size: 0.8rem; color: var(--text-dim);">Penalizes AI buzzwords like 'delve', 'elevate', 'game-changer'.</span>
+          </div>
+
+          <div class="metric-card">
+            <span class="metric-label">DIMENSION 04</span>
+            <div style="font-size: 1.1rem; font-weight: 700; color: #fff; margin: 0.4rem 0;">Human Cadence & Rhythm</div>
+            <div class="progress-bar-bg" style="margin-bottom: 0.4rem;"><div class="progress-bar-fill" style="width: 95%;"></div></div>
+            <span style="font-size: 0.8rem; color: var(--text-dim);">Analyzes vocal rhythm, variable sentence lengths, and natural flow.</span>
+          </div>
+        </div>
+      </section>
+
+    </main>
+  </div>
+
+  <!-- Toast Notification -->
+  <div class="app-toast" id="app-toast">Action completed!</div>
+
+  <!-- Scripts -->
+  <script src="hooks_data.js"></script>
+  <script src="app.js"></script>
+</body>
+</html>
